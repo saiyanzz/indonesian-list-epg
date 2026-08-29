@@ -820,43 +820,10 @@
     <title lang="ms">The Police</title>
     <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260830003000 +0800" stop="20260830014500 +0800" channel="07.visionplus">
-    <title lang="ms">Tusuk Konde Sinden</title>
-    <desc lang="ms">The program presents fascinating stories about sinden and the rich cultural heritage passed down through generations.</desc>
-    <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830014500 +0800" stop="20260830023000 +0800" channel="07.visionplus">
-    <title lang="ms">MotoGP Sprint Race: Akagon</title>
-    <desc lang="ms">With a shorter race distance, every rider must be aggressive and consistent to secure victory and valuable championship points.</desc>
-  </programme>
   <programme start="20260830023000 +0800" stop="20260830033000 +0800" channel="07.visionplus">
     <title lang="ms">Best Fishing</title>
     <desc lang="ms">A program featuring fishing activities with a focus on various fishing techniques and tips, as well as the best fishing spots at home and abroad.</desc>
     <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830033000 +0800" stop="20260830040000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830040000 +0800" stop="20260830050000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830050000 +0800" stop="20260830054500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830054500 +0800" stop="20260830063000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830063000 +0800" stop="20260830073000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830073000 +0800" stop="20260830083000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
   </programme>
   <programme start="20260829070000 +0800" stop="20260829083000 +0800" channel="08.visionplus">
     <title lang="ms">Halo Selebriti</title>
@@ -959,11 +926,6 @@
     <desc lang="ms">Each episode features true or fictional tales that convey values of kindness, love, and friendship, inviting viewers to reflect and appreciate the beautiful moments in life.</desc>
     <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260829090000 +0800" stop="20260829110000 +0800" channel="09.visionplus">
-    <title lang="ms">Rahasia Kawin Kontrak</title>
-    <desc lang="ms">Riska (Angelica Simperler) wants to surprise Firman (Ichal Muhammad) in his office, but instead discovers him being intimate with another woman. Their relationship falls apart immediately. One night, Riska is stopped by a criminal who attempts to rob her, but a man from a nearby village suddenly comes to her rescue. The man, Elang (Handika Pratama), is later hired by Riska as an office boy at her company at her parents’ insistence. Riska then asks Elang to become her fake husband.</desc>
-    <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260829110000 +0800" stop="20260829120000 +0800" channel="09.visionplus">
     <title lang="ms">Best Kiss</title>
     <desc lang="ms">This special program highlights romantic, emotional, and unforgettable moments that play a key role in the storyline.</desc>
@@ -979,30 +941,10 @@
     <desc lang="ms">Each episode presents in-depth reports on politics, economy, social issues, and other important events, complete with expert analysis.</desc>
     <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260829130000 +0800" stop="20260829150000 +0800" channel="09.visionplus">
-    <title lang="ms">Akibat Memusuhi Menantu</title>
-    <desc lang="ms">Robi (Zidni Adam) is devastated by the loss of Niken (Larassati Kusnandar) and their unborn child. To fulfill his mother’s wishes, Robi remarries Tyas (Intan Melodi). However, Robi finds himself facing another dilemma when his mother and his second wife, Tyas, fail to get along.</desc>
-    <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829150000 +0800" stop="20260829170000 +0800" channel="09.visionplus">
-    <title lang="ms">Rahasia Yang Aku Simpan</title>
-    <desc lang="ms">Watch Today's Special True Story.</desc>
-    <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829170000 +0800" stop="20260829190000 +0800" channel="09.visionplus">
-    <title lang="ms">Misteri Penghuni Lain</title>
-    <desc lang="ms">Watch Today's Special True Story.</desc>
-    <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260829190000 +0800" stop="20260829203000 +0800" channel="09.visionplus">
     <title lang="ms">Merangkai Kisah Indah</title>
     <desc lang="ms">Each episode features true or fictional tales that convey values of kindness, love, and friendship, inviting viewers to reflect and appreciate the beautiful moments in life.</desc>
     <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829203000 +0800" stop="20260829230000 +0800" channel="09.visionplus">
-    <title lang="ms">International Friendly Match</title>
-    <desc lang="ms">International Friendly Match features two national teams competing in a friendly football game. The match provides both sides with an opportunity to test their players, tactics, and team chemistry while preparing for upcoming international competitions.</desc>
-    <icon src="https://www.visionplus.id/images/repository/482/73482-POSTER-l.jpg"/>
   </programme>
   <programme start="20260829230000 +0800" stop="20260830023000 +0800" channel="09.visionplus">
     <title lang="ms">D'Academy S8</title>
@@ -1029,16 +971,6 @@
     <desc lang="ms">Each episode features true or fictional tales that convey values of kindness, love, and friendship, inviting viewers to reflect and appreciate the beautiful moments in life.</desc>
     <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260829070000 +0800" stop="20260829103000 +0800" channel="10.visionplus">
-    <title lang="ms">Chaahat</title>
-    <desc lang="ms">Roop and his father come to the city for medical treatment and Reshma falls in love with Roop. Roop loves Pooja, but when Reshma threatens to kill herself, Roop agrees to marry her.</desc>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829103000 +0800" stop="20260829140000 +0800" channel="10.visionplus">
-    <title lang="ms">Kuch Kuch Hota Hai</title>
-    <desc lang="ms">During their college years, Anjali was in love with her best-friend Rahul, but he had eyes only for Tina. Years later, Rahul and the now-deceased Tina's eight-year-old daughter attempts to reunite her father and Anjali.</desc>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260829140000 +0800" stop="20260829153000 +0800" channel="10.visionplus">
     <title lang="ms">Jhanak</title>
     <desc lang="ms">Setelah kematian ibunya, Jhanak terpaksa menikahi tunangan sepupunya Arshi, Aniruddh, untuk melarikan diri dari penguntitnya, Tejas. Meskipun Aniruddh dan Arshi telah bersama selama tujuh tahun, Jhanak memasuki kehidupan mereka dalam keadaan yang menyedihkan dan mulai bekerja sebagai pembantu di rumah tangga Bose. Sementara beberapa anggota keluarga memperlakukannya dengan baik, yang lain terus-menerus menghina dan meremehkannya.</desc>
@@ -1047,34 +979,6 @@
   <programme start="20260829153000 +0800" stop="20260829163000 +0800" channel="10.visionplus">
     <title lang="ms">Sayali</title>
     <desc lang="ms">Udne Ki Aasha tells the story of Sachin and Sailee, a middle-class couple, as they navigate the complexities of their relationship. The story centers on Sailee’s struggles as she faces resistance from her husband and her efforts to inspire change not only for their own growth but also for the well-being of their entire family.</desc>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829163000 +0800" stop="20260829184500 +0800" channel="10.visionplus">
-    <title lang="ms">Festival ANTV Rame</title>
-    <desc lang="ms">Already ready for an exciting call with a series of performances from Indonesian musicians and a competition</desc>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829184500 +0800" stop="20260829194500 +0800" channel="10.visionplus">
-    <title lang="ms">Penghargaan Achmad Bakrie XXII</title>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829194500 +0800" stop="20260829220000 +0800" channel="10.visionplus">
-    <title lang="ms">Menggapai Matahari 2</title>
-    <desc lang="ms">This sequel of Menggapai Matahari continues the rivalry between Rhoma Irama and Beny Compo. Not only want to destroy Rhoma Irama's music career, Beny also want to physically harm him.</desc>
-    <icon src="https://www.visionplus.id/images/repository/596/76596-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829220000 +0800" stop="20260830000000 +0800" channel="10.visionplus">
-    <title lang="ms">Kuntilanak 2: Mangkujiwo</title>
-    <desc lang="ms">In the wake of Cokrokusumo’s death, Uma struggles to overcome her trauma while searching for answers to the mystery of the Kuntilanak’s involvement in her life. Meanwhile, Brotoseno, Nyi Kenanga, and Karmila resort to ruthless means to propel Mangkujiwo to the pinnacle of glory, where blood will once again be shed</desc>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830000000 +0800" stop="20260830020000 +0800" channel="10.visionplus">
-    <title lang="ms">Mandala Dari Sungai Ular</title>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830020000 +0800" stop="20260830021500 +0800" channel="10.visionplus">
-    <title lang="ms">Mr. Bean</title>
-    <desc lang="ms">Bumbling, childlike Mr. Bean has trouble completing the simplest of day-to-day tasks, but his perseverance and resourcefulness frequently allow him to find ingenious ways around problems.</desc>
     <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
   </programme>
   <programme start="20260830021500 +0800" stop="20260830043000 +0800" channel="10.visionplus">
@@ -1254,10 +1158,6 @@
   <programme start="20260829190000 +0800" stop="20260829210000 +0800" channel="12.visionplus">
     <title lang="ms">Apa Kabar Indonesia Malam</title>
     <icon src="https://www.visionplus.id/images/repository/525/525525-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829210000 +0800" stop="20260829223000 +0800" channel="12.visionplus">
-    <title lang="ms">Penghargaan Achmad Bakrie XXII</title>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
   </programme>
   <programme start="20260829223000 +0800" stop="20260829233000 +0800" channel="12.visionplus">
     <title lang="ms">Kabar Utama 2</title>
@@ -2092,11 +1992,6 @@
     <desc lang="ms">Through reconstructions, exclusive interviews, and in-depth investigations, the show reveals hidden facts behind mysterious events.</desc>
     <icon src="https://www.visionplus.id/images/repository/128/571128-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260829110000 +0800" stop="20260829120010 +0800" channel="19.visionplus">
-    <title lang="ms">MOJI POS</title>
-    <desc lang="ms">Featuring concise analysis and exciting moments, the program keeps sports fans informed with the latest developments across a wide range of competitions.</desc>
-    <icon src="https://www.visionplus.id/images/repository/128/571128-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260829120010 +0800" stop="20260829135210 +0800" channel="19.visionplus">
     <title lang="ms">TERCYDUK</title>
     <desc lang="ms">Each episode highlights spontaneous reactions, hilarious actions, and unique situations that entertain viewers while keeping things relatable.</desc>
@@ -2121,11 +2016,6 @@
     <title lang="ms">AVC MEN'S CUP 2026</title>
     <desc lang="ms">Held in Ahmedabad, India, the tournament features intense matches filled with powerful attacks, tactical play, and fierce competition between nations.</desc>
     <icon src="https://www.visionplus.id/images/repository/531/73531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830001200 +0800" stop="20260830014200 +0800" channel="19.visionplus">
-    <title lang="ms">ONE FRIDAY FIGHTS</title>
-    <desc lang="ms">ONE Friday Fights delivers world-class martial arts action every Friday night live from Lumpinee Boxing Stadium in Bangkok.</desc>
-    <icon src="https://www.visionplus.id/images/repository/317/73317-POSTER-l.jpg"/>
   </programme>
   <programme start="20260830014200 +0800" stop="20260830041210 +0800" channel="19.visionplus">
     <title lang="ms">VNL 2026</title>
@@ -2188,13 +2078,13 @@
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
   <programme start="20260829180000 +0800" stop="20260829183000 +0800" channel="20.visionplus">
-    <title lang="ms">ABANG L THE EXPLORER</title>
-    <desc lang="ms">Abang l the explorer is a variety show that provides entertainment and education. Abang l will invite viewers to play and learn things that are appropriate for his age, with different topics in each episode. Abang L's funny antics, charm, and energy will bring this program to life. The articulate Abang L will ask questions to people around him. He will also try out several professions with the aim of educating viewers about each role.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
+    <title lang="ms">Dancow Indonesia Cerdas</title>
+    <desc lang="ms">Dancow Indonesia Cerdas is an educational competition program featuring elementary school students from across Indonesia as they compete in a series of curriculum-based challenges.</desc>
+    <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
   </programme>
   <programme start="20260829183000 +0800" stop="20260829190000 +0800" channel="20.visionplus">
-    <title lang="ms">RAINBOW BUBBLEGEM</title>
-    <desc lang="ms">In the underwater world, a mermaid named Purple longs for adventures on land and secretly takes a huge risk by transforming herself into a human. With the help of Pink Star, the sleeping guardian fairy of the bubblegem, Purple transforms. However, the excessive use of magic causes the bubblegem, their source of power, to shatter and scatter across the land. To gather the scattered bubblegems, the sea queen White Gold commands seven mermaids from different sea kingdoms.</desc>
+    <title lang="ms">ABANG L THE EXPLORER</title>
+    <desc lang="ms">Abang l the explorer is a variety show that provides entertainment and education. Abang l will invite viewers to play and learn things that are appropriate for his age, with different topics in each episode. Abang L's funny antics, charm, and energy will bring this program to life. The articulate Abang L will ask questions to people around him. He will also try out several professions with the aim of educating viewers about each role.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
   <programme start="20260829190000 +0800" stop="20260829193000 +0800" channel="20.visionplus">
@@ -2238,21 +2128,20 @@
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
   <programme start="20260830040000 +0800" stop="20260830050000 +0800" channel="20.visionplus">
-    <title lang="ms">Oddbods</title>
-    <desc lang="ms">Oddbods is an animated, slapstick comedy that embraces adventure and celebrates friendship. Following the wacky adventures of eight unique and furry friends, who laugh, play and get up to mischief in their hometown of Oddsville, where even the most ordinary of situations have unexpected outcomes.</desc>
-    <icon src="https://www.visionplus.id/images/repository/696/526696-POSTER-l.jpg"/>
+    <title lang="ms">Just For Laughs</title>
+    <icon src="https://www.visionplus.id/images/repository/889/526889-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260830050000 +0800" stop="20260830053000 +0800" channel="20.visionplus">
-    <title lang="ms">Little Angel</title>
-    <desc lang="ms">Little Angel is an animated musical show for pre-schoolers. The show has been captivating families around the world with its cheeky humor and catchy upbeat songs.</desc>
-    <icon src="https://www.visionplus.id/images/repository/696/526696-POSTER-l.jpg"/>
+  <programme start="20260830050000 +0800" stop="20260830060000 +0800" channel="20.visionplus">
+    <title lang="ms">MINIBODS</title>
+    <desc lang="ms">WELCOME TO THE WORLD OF MINIBODS! Join the miniature versions of the iconic Oddbods characters as they embark on exciting and hilarious adventures. Through play and laughter, these friends learn to work together and solve problems in fun and entertaining ways.</desc>
+    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260830053000 +0800" stop="20260830060000 +0800" channel="20.visionplus">
+  <programme start="20260830060000 +0800" stop="20260830063000 +0800" channel="20.visionplus">
     <title lang="ms">BABY ZU</title>
     <desc lang="ms">Watch the excitement of Momo, Cici, Blu, and the gang. Accompanying your growth and development, Indonesia's golden generation for the world!</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260830060000 +0800" stop="20260830070000 +0800" channel="20.visionplus">
+  <programme start="20260830063000 +0800" stop="20260830070000 +0800" channel="20.visionplus">
     <title lang="ms">COCOMELON IND</title>
     <desc lang="ms">With Indonesian-language 3D animations and songs, Cocomelon creates a world centered around the everyday experiences of young children. In addition to helping preschoolers learn letters, numbers, animal sounds, colors, and more, the videos provide lessons in social skills. They give parents the opportunity to teach and play with their children as they watch together.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
@@ -2840,10 +2729,6 @@
     <desc lang="ms">After a San Francisco detective's partner is murdered by Northern Irish terrorists, the officer joins the bomb squad in order to bring them to justice.</desc>
     <icon src="https://www.visionplus.id/images/repository/719/273719-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260829170800 +0800" stop="20260829185000 +0800" channel="40.visionplus">
-    <title lang="ms">Death Squad</title>
-    <desc lang="ms">When all communication is severed with a clandestine scientific research facility located in a former Soviet biochemical laboratory, a private military company is formed to enter the facility to find and extract the lead doctor.</desc>
-  </programme>
   <programme start="20260829185000 +0800" stop="20260829202700 +0800" channel="40.visionplus">
     <title lang="ms">Meteor Apocalypse</title>
     <desc lang="ms">A gigantic meteor enters Earth's orbit and begins to disintegrate, showering the entire planet with debris.</desc>
@@ -3213,19 +3098,9 @@
     <desc lang="ms">N. Korea detective returns for another secret mission. Despite having different underlying motives, three countries join forces to bring down an international crime organization.</desc>
     <icon src="https://www.visionplus.id/images/repository/698/28698-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260829220000 +0800" stop="20260830000000 +0800" channel="46.visionplus">
-    <title lang="ms">Love Barista (tvN Movies)</title>
-    <desc lang="ms">Deals with the exciting and unpredictable romance between Korea's top star actor and a pure and ordinary Vietnamese woman.</desc>
-    <icon src="https://www.visionplus.id/images/repository/500/796500-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260830000000 +0800" stop="20260830013500 +0800" channel="46.visionplus">
     <title lang="ms">Escape</title>
     <desc lang="ms">Follows the struggles of a North Korean sergeant who is chased by a ruthless major after he defects.</desc>
-    <icon src="https://www.visionplus.id/images/repository/698/28698-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830013500 +0800" stop="20260830032000 +0800" channel="46.visionplus">
-    <title lang="ms">Killing Romance</title>
-    <desc lang="ms">A retired actress who marries an island chaebol and meets a 3-time-test-taker who lives next door.</desc>
     <icon src="https://www.visionplus.id/images/repository/698/28698-POSTER-l.jpg"/>
   </programme>
   <programme start="20260830032000 +0800" stop="20260830045000 +0800" channel="46.visionplus">
@@ -6969,31 +6844,6 @@
     <desc lang="ms">The cast visits another seaside destination where they immerse themselves in the daily routines of the local community. From gathering seasonal seafood and fresh produce to cooking hearty dishes together, they experience the rewards and challenges of coastal living. Along the way, their teamwork, humor, and genuine interactions create heartwarming and entertaining moments that celebrate nature, food, and friendship.</desc>
     <icon src="https://www.visionplus.id/images/repository/746/526746-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260829201500 +0800" stop="20260829213000 +0800" channel="73.visionplus">
-    <title lang="ms">Dear X, Ep 4</title>
-    <desc lang="ms">A woman dons a mask to flee her situation and rise to power, causing devastation along her path.</desc>
-    <icon src="https://www.visionplus.id/images/repository/746/526746-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829213000 +0800" stop="20260829223500 +0800" channel="73.visionplus">
-    <title lang="ms">Legend Of Kitchen Soldier, Ep 1</title>
-    <desc lang="ms">Kang Seong Jae is a soldier and gets transferred to the Gangrim Post, where First Sergeant Park Jae Yeong, First Lieutenant Cho Ye Rin and military cook Yun Dong Hyeon are stationed.</desc>
-    <icon src="https://www.visionplus.id/images/repository/746/526746-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829223500 +0800" stop="20260829234500 +0800" channel="73.visionplus">
-    <title lang="ms">Legend Of Kitchen Soldier, Ep 2</title>
-    <desc lang="ms">Kang Seong Jae is a soldier and gets transferred to the Gangrim Post, where First Sergeant Park Jae Yeong, First Lieutenant Cho Ye Rin and military cook Yun Dong Hyeon are stationed.</desc>
-    <icon src="https://www.visionplus.id/images/repository/746/526746-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829234500 +0800" stop="20260830005500 +0800" channel="73.visionplus">
-    <title lang="ms">Legend Of Kitchen Soldier, Ep 3</title>
-    <desc lang="ms">Kang Seong Jae is a soldier and gets transferred to the Gangrim Post, where First Sergeant Park Jae Yeong, First Lieutenant Cho Ye Rin and military cook Yun Dong Hyeon are stationed.</desc>
-    <icon src="https://www.visionplus.id/images/repository/746/526746-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830005500 +0800" stop="20260830020000 +0800" channel="73.visionplus">
-    <title lang="ms">Legend Of Kitchen Soldier, Ep 4</title>
-    <desc lang="ms">Kang Seong Jae is a soldier and gets transferred to the Gangrim Post, where First Sergeant Park Jae Yeong, First Lieutenant Cho Ye Rin and military cook Yun Dong Hyeon are stationed.</desc>
-    <icon src="https://www.visionplus.id/images/repository/746/526746-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260830020000 +0800" stop="20260830023000 +0800" channel="73.visionplus">
     <title lang="ms">Chansung's Cooking, Ep 11</title>
     <desc lang="ms">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
@@ -7296,10 +7146,6 @@
   <programme start="20260830041000 +0800" stop="20260830045600 +0800" channel="76.visionplus">
     <title lang="ms">Project X: The Challengers</title>
     <desc lang="ms">Project X returns for the first time in 18 years. The former series featured people involved in project related to the Japanese industry and contemporary history. The new series focuses on people in the “Lost Era” following the collapse of the bubble economy. In every era, there are always those take on challenges. Even without receiving praise or being in the spotlight, some dedicate themselves to their work. The documentary delivers passion and courage right to you.</desc>
-    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830045600 +0800" stop="20260830050000 +0800" channel="76.visionplus">
-    <title lang="ms">World Weather</title>
     <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
   </programme>
   <programme start="20260830050000 +0800" stop="20260830051000 +0800" channel="76.visionplus">
@@ -7803,11 +7649,6 @@
     <title lang="ms">Bisa Dibantu</title>
     <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260829090000 +0800" stop="20260829100000 +0800" channel="88.visionplus">
-    <title lang="ms">Nikah Gratis</title>
-    <desc lang="ms">A reality show that assists underprivileged individuals in conducting weddings in accordance with religious and state laws.</desc>
-    <icon src="https://www.visionplus.id/images/repository/401/525401-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260829100000 +0800" stop="20260829103000 +0800" channel="88.visionplus">
     <title lang="ms">Kipas Princess</title>
     <desc lang="ms">Kipas Princess is a reality program that highlights the lives of people struggling through hardship and poverty. Through touching and inspiring stories, the show reveals their strength and determination to survive life’s challenges with dignity and hope</desc>
@@ -7820,22 +7661,9 @@
     <title lang="ms">Bidadari Plus Plus</title>
     <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260829123000 +0800" stop="20260829143000 +0800" channel="88.visionplus">
-    <title lang="ms">Kau Ditakdirkan Untukku</title>
-    <desc lang="ms">The story of Alya, a tough and independent girl who gets into a contract marriage with Devan, a wealthy man. Over time, the relationship that started as a pretense slowly turns into a genuine feeling of love. But their journey is not as easy as imagined.</desc>
-    <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829143000 +0800" stop="20260829153000 +0800" channel="88.visionplus">
-    <title lang="ms">Bus Jutawan: Arya Saloka</title>
-    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260829153000 +0800" stop="20260829163000 +0800" channel="88.visionplus">
     <title lang="ms">Bisa Dibantu</title>
     <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829163000 +0800" stop="20260829173000 +0800" channel="88.visionplus">
-    <title lang="ms">Call Me Mell</title>
-    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
   </programme>
   <programme start="20260829173000 +0800" stop="20260829183000 +0800" channel="88.visionplus">
     <title lang="ms">Good Friend</title>
@@ -7880,15 +7708,6 @@
     <title lang="ms">Bidadari Plus Plus</title>
     <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260830020000 +0800" stop="20260830030000 +0800" channel="88.visionplus">
-    <title lang="ms">Call Me Mell</title>
-    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830030000 +0800" stop="20260830050000 +0800" channel="88.visionplus">
-    <title lang="ms">Kau Ditakdirkan Untukku</title>
-    <desc lang="ms">The story of Alya, a tough and independent girl who gets into a contract marriage with Devan, a wealthy man. Over time, the relationship that started as a pretense slowly turns into a genuine feeling of love. But their journey is not as easy as imagined.</desc>
-    <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260830050000 +0800" stop="20260830053000 +0800" channel="88.visionplus">
     <title lang="ms">Behind The Style</title>
     <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
@@ -7898,10 +7717,6 @@
   </programme>
   <programme start="20260830060000 +0800" stop="20260830070000 +0800" channel="88.visionplus">
     <title lang="ms">Good Friend</title>
-    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830070000 +0800" stop="20260830080000 +0800" channel="88.visionplus">
-    <title lang="ms">Bus Jutawan: Arya Saloka</title>
     <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
   </programme>
   <programme start="20260829080000 +0800" stop="20260829083000 +0800" channel="89.visionplus">
@@ -7970,14 +7785,6 @@
   </programme>
   <programme start="20260829200000 +0800" stop="20260829203000 +0800" channel="89.visionplus">
     <title lang="ms">Asal Mulane</title>
-    <icon src="https://www.visionplus.id/images/repository/473/526473-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829203000 +0800" stop="20260829210000 +0800" channel="89.visionplus">
-    <title lang="ms">Pagelaran Budaya Jawi</title>
-    <icon src="https://www.visionplus.id/images/repository/565/242565-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260829210000 +0800" stop="20260829213000 +0800" channel="89.visionplus">
-    <title lang="ms">Baskom (Banyumas Komedi)</title>
     <icon src="https://www.visionplus.id/images/repository/473/526473-POSTER-l.jpg"/>
   </programme>
   <programme start="20260829213000 +0800" stop="20260829220000 +0800" channel="89.visionplus">
@@ -8815,126 +8622,6 @@
   <programme start="20260831073000 +0800" stop="20260831083000 +0800" channel="06.visionplus">
     <title lang="ms">Insert Pagi (L)</title>
     <icon src="https://www.visionplus.id/images/repository/442/525442-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830073000 +0800" stop="20260830083000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830083000 +0800" stop="20260830093000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830093000 +0800" stop="20260830103000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830103000 +0800" stop="20260830111500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830111500 +0800" stop="20260830121500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830121500 +0800" stop="20260830130000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830130000 +0800" stop="20260830134500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830134500 +0800" stop="20260830143000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830143000 +0800" stop="20260830151500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830151500 +0800" stop="20260830154500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830154500 +0800" stop="20260830161500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830161500 +0800" stop="20260830170000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830170000 +0800" stop="20260830180000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830180000 +0800" stop="20260830190000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830190000 +0800" stop="20260830194500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830194500 +0800" stop="20260830201500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830201500 +0800" stop="20260830210000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830210000 +0800" stop="20260830223000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830223000 +0800" stop="20260830234500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830234500 +0800" stop="20260831003000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831003000 +0800" stop="20260831011500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831011500 +0800" stop="20260831014500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831014500 +0800" stop="20260831023000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831023000 +0800" stop="20260831030000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831030000 +0800" stop="20260831033000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831033000 +0800" stop="20260831041500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831041500 +0800" stop="20260831050000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831050000 +0800" stop="20260831063000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831063000 +0800" stop="20260831073000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831073000 +0800" stop="20260831083000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
   </programme>
   <programme start="20260830073000 +0800" stop="20260830083000 +0800" channel="08.visionplus">
     <title lang="ms">Halo Selebriti</title>
@@ -10250,13 +9937,13 @@
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
   <programme start="20260830180000 +0800" stop="20260830183000 +0800" channel="20.visionplus">
-    <title lang="ms">ABANG L THE EXPLORER</title>
-    <desc lang="ms">Abang l the explorer is a variety show that provides entertainment and education. Abang l will invite viewers to play and learn things that are appropriate for his age, with different topics in each episode. Abang L's funny antics, charm, and energy will bring this program to life. The articulate Abang L will ask questions to people around him. He will also try out several professions with the aim of educating viewers about each role.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
+    <title lang="ms">Dancow Indonesia Cerdas</title>
+    <desc lang="ms">Dancow Indonesia Cerdas is an educational competition program featuring elementary school students from across Indonesia as they compete in a series of curriculum-based challenges.</desc>
+    <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
   </programme>
   <programme start="20260830183000 +0800" stop="20260830190000 +0800" channel="20.visionplus">
-    <title lang="ms">RAINBOW BUBBLEGEM</title>
-    <desc lang="ms">In the underwater world, a mermaid named Purple longs for adventures on land and secretly takes a huge risk by transforming herself into a human. With the help of Pink Star, the sleeping guardian fairy of the bubblegem, Purple transforms. However, the excessive use of magic causes the bubblegem, their source of power, to shatter and scatter across the land. To gather the scattered bubblegems, the sea queen White Gold commands seven mermaids from different sea kingdoms.</desc>
+    <title lang="ms">ABANG L THE EXPLORER</title>
+    <desc lang="ms">Abang l the explorer is a variety show that provides entertainment and education. Abang l will invite viewers to play and learn things that are appropriate for his age, with different topics in each episode. Abang L's funny antics, charm, and energy will bring this program to life. The articulate Abang L will ask questions to people around him. He will also try out several professions with the aim of educating viewers about each role.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
   <programme start="20260830190000 +0800" stop="20260830193000 +0800" channel="20.visionplus">
@@ -10284,54 +9971,43 @@
     <desc lang="ms">THE SOMAT FAMILY TELLS THAT WE MUST LIVE SIDE BY SIDE AND HELP EACH OTHER AS A COMMUNITY AND AS STUDENTS.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831010000 +0800" stop="20260831013000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831013000 +0800" stop="20260831020000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+  <programme start="20260831010000 +0800" stop="20260831020000 +0800" channel="20.visionplus">
+    <title lang="ms">PLENTIS KENTUS</title>
+    <desc lang="ms">PLENTIS KENTUS IS A POPULAR INDONESIAN CHILDREN'S ANIMATION WITH CHEERFUL AND UPbeat SONGS. THEY WERE CREATED AS A FORM OF INNOVATION IN THE CHILDREN'S MUSIC INDUSTRY IN INDONESIA. PLENTIS AND KENTUS ARE TWO BEST FRIENDS WHO ARE STILL IN ELEMENTARY SCHOOL. BOTH HAVE BIG DREAMS TO BECOME FAMOUS SINGERS. THEY LOVE SINGING, COMposing SONGS, AND PERFORMING AT VARIOUS EVENTS. THEIR ADVENTURES ARE FULL OF FUN, FRIENDSHIP, AND OF COURSE, LOTS OF SONGS THAT CAN MAKE CHILDREN SING AND SHOOT.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
   <programme start="20260831020000 +0800" stop="20260831030000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+    <title lang="ms">BEDU DAN ADUL</title>
+    <desc lang="ms">BEDU AND ADUL IS A 3D ANIMATED FILM SERIAL ABOUT THE ADVENTURES OF CHILDREN IN THE MULTICULTURAL SUBURBS OF JAKARTA. THEIR INQUIRIES MAKE THEM WANTED TO EXPLORE, SOMETIMES CAUSING A FUCKING FUCK.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
   <programme start="20260831030000 +0800" stop="20260831040000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+    <title lang="ms">MADUN</title>
+    <desc lang="ms">The Madun series tells the story of Madun (16 years old) and his journey to achieve his dream of becoming a soccer player. His father, Syafei (50 years old), who is of Medan descent, really wants his son to become an Islamic teacher. Because of this, Syafei always hinders Madun's efforts to achieve his dream. For him, Madun only has one choice, which is to become a religious scholar. Madun's mother, Kirana, a native of Batavia, is torn. She must obey her husband, who is anti-soccer. However, on the other hand, she also does not want to prevent Madun from realizing his dreams. She cannot bear to restrain Madun, who loves soccer. However, to realize his dream, Madun faces a lot of competition.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831040000 +0800" stop="20260831043000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831043000 +0800" stop="20260831050000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
+  <programme start="20260831040000 +0800" stop="20260831050000 +0800" channel="20.visionplus">
+    <title lang="ms">Just For Laughs</title>
+    <icon src="https://www.visionplus.id/images/repository/889/526889-POSTER-l.jpg"/>
   </programme>
   <programme start="20260831050000 +0800" stop="20260831060000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+    <title lang="ms">Oddbods</title>
+    <desc lang="ms">Oddbods is an animated, slapstick comedy that embraces adventure and celebrates friendship. Following the wacky adventures of eight unique and furry friends, who laugh, play and get up to mischief in their hometown of Oddsville, where even the most ordinary of situations have unexpected outcomes.</desc>
+    <icon src="https://www.visionplus.id/images/repository/696/526696-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260831060000 +0800" stop="20260831063000 +0800" channel="20.visionplus">
+    <title lang="ms">Little Angel</title>
+    <desc lang="ms">Little Angel is an animated musical show for pre-schoolers. The show has been captivating families around the world with its cheeky humor and catchy upbeat songs.</desc>
+    <icon src="https://www.visionplus.id/images/repository/696/526696-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260831063000 +0800" stop="20260831070000 +0800" channel="20.visionplus">
+    <title lang="ms">COCOMELON IND</title>
+    <desc lang="ms">With Indonesian-language 3D animations and songs, Cocomelon creates a world centered around the everyday experiences of young children. In addition to helping preschoolers learn letters, numbers, animal sounds, colors, and more, the videos provide lessons in social skills. They give parents the opportunity to teach and play with their children as they watch together.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831060000 +0800" stop="20260831070000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831070000 +0800" stop="20260831073000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831073000 +0800" stop="20260831080000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+  <programme start="20260831070000 +0800" stop="20260831080000 +0800" channel="20.visionplus">
+    <title lang="ms">NUMBERBLOCKS</title>
+    <desc lang="ms">Numberblocks is an educational animated series for preschoolers that teaches mathematical concepts through lively, adventurous number block characters. Each number block has its own numerical value and unique personality. They join forces and interact with each other to solve mathematical problems while teaching basic mathematical concepts such as addition, subtraction, multiplication, division, and other concepts. Each episode of “Numberblocks” typically features a short story in which the number blocks work together to complete a task or face a mathematical challenge. Through songs, engaging stories, and bright visuals, the series aims to introduce and reinforce children's understanding of numbers and basic mathematical concepts in a fun and interactive way.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
   <programme start="20260830074500 +0800" stop="20260830090000 +0800" channel="23.visionplus">
@@ -15889,11 +15565,6 @@
     <title lang="ms">Bisa Dibantu</title>
     <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260830090000 +0800" stop="20260830100000 +0800" channel="88.visionplus">
-    <title lang="ms">Nikah Gratis</title>
-    <desc lang="ms">A reality show that assists underprivileged individuals in conducting weddings in accordance with religious and state laws.</desc>
-    <icon src="https://www.visionplus.id/images/repository/401/525401-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260830100000 +0800" stop="20260830103000 +0800" channel="88.visionplus">
     <title lang="ms">Kipas Princess</title>
     <desc lang="ms">Kipas Princess is a reality program that highlights the lives of people struggling through hardship and poverty. Through touching and inspiring stories, the show reveals their strength and determination to survive life’s challenges with dignity and hope</desc>
@@ -15902,26 +15573,9 @@
   <programme start="20260830103000 +0800" stop="20260830110000 +0800" channel="88.visionplus">
     <title lang="ms">Celebrity Top 10</title>
   </programme>
-  <programme start="20260830110000 +0800" stop="20260830123000 +0800" channel="88.visionplus">
-    <title lang="ms">Telor Ceplok Bikin Cinlok</title>
-    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830123000 +0800" stop="20260830143000 +0800" channel="88.visionplus">
-    <title lang="ms">Kau Ditakdirkan Untukku</title>
-    <desc lang="ms">The story of Alya, a tough and independent girl who gets into a contract marriage with Devan, a wealthy man. Over time, the relationship that started as a pretense slowly turns into a genuine feeling of love. But their journey is not as easy as imagined.</desc>
-    <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830143000 +0800" stop="20260830153000 +0800" channel="88.visionplus">
-    <title lang="ms">Bus Jutawan: Arya Saloka</title>
-    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260830153000 +0800" stop="20260830163000 +0800" channel="88.visionplus">
     <title lang="ms">Bisa Dibantu</title>
     <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830163000 +0800" stop="20260830173000 +0800" channel="88.visionplus">
-    <title lang="ms">Call Me Mell</title>
-    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
   </programme>
   <programme start="20260830173000 +0800" stop="20260830183000 +0800" channel="88.visionplus">
     <title lang="ms">Good Friend</title>
@@ -15964,19 +15618,6 @@
   <programme start="20260831000000 +0800" stop="20260831003000 +0800" channel="88.visionplus">
     <title lang="ms">Runway</title>
   </programme>
-  <programme start="20260831003000 +0800" stop="20260831020000 +0800" channel="88.visionplus">
-    <title lang="ms">Telor Ceplok Bikin Cinlok</title>
-    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831020000 +0800" stop="20260831030000 +0800" channel="88.visionplus">
-    <title lang="ms">Call Me Mell</title>
-    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831030000 +0800" stop="20260831050000 +0800" channel="88.visionplus">
-    <title lang="ms">Kau Ditakdirkan Untukku</title>
-    <desc lang="ms">The story of Alya, a tough and independent girl who gets into a contract marriage with Devan, a wealthy man. Over time, the relationship that started as a pretense slowly turns into a genuine feeling of love. But their journey is not as easy as imagined.</desc>
-    <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260831050000 +0800" stop="20260831053000 +0800" channel="88.visionplus">
     <title lang="ms">Celebrity Top 10</title>
   </programme>
@@ -15987,10 +15628,6 @@
   </programme>
   <programme start="20260831060000 +0800" stop="20260831070000 +0800" channel="88.visionplus">
     <title lang="ms">Alvin And Friends</title>
-    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831070000 +0800" stop="20260831080000 +0800" channel="88.visionplus">
-    <title lang="ms">Bus Jutawan: Arya Saloka</title>
     <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
   </programme>
   <programme start="20260830080000 +0800" stop="20260830083000 +0800" channel="89.visionplus">
@@ -16039,10 +15676,6 @@
   </programme>
   <programme start="20260830160000 +0800" stop="20260830170000 +0800" channel="89.visionplus">
     <title lang="ms">Rumah Bulekkk</title>
-    <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260830170000 +0800" stop="20260830180000 +0800" channel="89.visionplus">
-    <title lang="ms">Kompleks Pengabdi Istri</title>
     <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
   </programme>
   <programme start="20260830180000 +0800" stop="20260830183000 +0800" channel="89.visionplus">
@@ -16824,85 +16457,47 @@
     <title lang="ms">Insert Pagi (L)</title>
     <icon src="https://www.visionplus.id/images/repository/442/525442-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831073000 +0800" stop="20260831083000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
+  <programme start="20260901011500 +0800" stop="20260901014500 +0800" channel="07.visionplus">
+    <title lang="ms">Redaksi Malam</title>
+    <desc lang="ms">This race delivered a dramatic duel among top riders, with relentless battles for position and strategy from the very first corner.</desc>
+    <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831083000 +0800" stop="20260831093000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
+  <programme start="20260901014500 +0800" stop="20260901023000 +0800" channel="07.visionplus">
+    <title lang="ms">Sport7</title>
+    <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831093000 +0800" stop="20260831101500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
+  <programme start="20260901023000 +0800" stop="20260901033000 +0800" channel="07.visionplus">
+    <title lang="ms">Best Fishing</title>
+    <desc lang="ms">A program featuring fishing activities with a focus on various fishing techniques and tips, as well as the best fishing spots at home and abroad.</desc>
+    <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831101500 +0800" stop="20260831111500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
+  <programme start="20260901033000 +0800" stop="20260901040000 +0800" channel="07.visionplus">
+    <title lang="ms">Dracin</title>
+    <desc lang="ms">Love Lurking tells the story of Gu Nian, a talented surgeon whose life changes drastically after she saves the life of a drug trafficking prisoner known as K. Unknowingly, she becomes entangled in the dangerous world of a criminal cartel. What begins as a partnership gradually turns into a complicated romance amid constant tension and danger. As the threat intensifies, K risks his life to protect Gu Nian from the cartel boss, Peng Li.</desc>
+    <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831111500 +0800" stop="20260831121500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
+  <programme start="20260901040000 +0800" stop="20260901050000 +0800" channel="07.visionplus">
+    <title lang="ms">Amazing Trip</title>
+    <desc lang="ms">Amazing Trip offers exciting journeys to unique destinations across Indonesia and beyond. Hosted by energetic presenters, it explores local culture, food, and breathtaking landscapes in a fun and engaging way.</desc>
+    <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831121500 +0800" stop="20260831130000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
+  <programme start="20260901050000 +0800" stop="20260901054500 +0800" channel="07.visionplus">
+    <title lang="ms">Big-Bang!</title>
+    <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831130000 +0800" stop="20260831134500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
+  <programme start="20260901054500 +0800" stop="20260901063000 +0800" channel="07.visionplus">
+    <title lang="ms">Kisah Para Nabi</title>
+    <desc lang="ms">An animated program series about the stories of the Prophet told with narration complete with verses.</desc>
+    <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831134500 +0800" stop="20260831143000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
+  <programme start="20260901063000 +0800" stop="20260901073000 +0800" channel="07.visionplus">
+    <title lang="ms">Redaksi Pagi</title>
+    <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831143000 +0800" stop="20260831151500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831151500 +0800" stop="20260831161500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831161500 +0800" stop="20260831170000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831170000 +0800" stop="20260831180000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831180000 +0800" stop="20260831190000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831190000 +0800" stop="20260831193000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831193000 +0800" stop="20260831201500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831201500 +0800" stop="20260831210000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831210000 +0800" stop="20260831223000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831223000 +0800" stop="20260831234500 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831234500 +0800" stop="20260901003000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260901003000 +0800" stop="20260901010000 +0800" channel="07.visionplus">
-    <title lang="ms">Trans 7</title>
-    <icon src="https://www.visionplus.id/images/repository/531/77531-POSTER-l.jpg"/>
+  <programme start="20260901073000 +0800" stop="20260901083000 +0800" channel="07.visionplus">
+    <title lang="ms">Spotlite</title>
+    <desc lang="ms">With Qatar’s iconic night-race atmosphere, fans are treated to breathtaking overtakes, intense rider duels, and thrilling moments all around the track.</desc>
+    <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
   </programme>
   <programme start="20260831080000 +0800" stop="20260831091500 +0800" channel="08.visionplus">
     <title lang="ms">SCTV</title>
@@ -17818,149 +17413,99 @@
     <desc lang="ms">Enjoy thrilling matches filled with skill, teamwork, and intense competition as the players battle for victory and championship glory.</desc>
     <icon src="https://www.visionplus.id/images/repository/531/73531-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831080000 +0800" stop="20260831083000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+  <programme start="20260831080000 +0800" stop="20260831090000 +0800" channel="20.visionplus">
+    <title lang="ms">PINKFONG &amp; FRIENDS</title>
+    <desc lang="ms">Each episode features a new story that is both entertaining and educational, with interactive moments that invite children to guess, sing, and share in the joy with the characters.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831083000 +0800" stop="20260831090000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+  <programme start="20260831090000 +0800" stop="20260831103000 +0800" channel="20.visionplus">
+    <title lang="ms">TAYO, THE LITTLE BUS</title>
+    <desc lang="ms">In a big city where various vehicles happily coexist, the little bus Tayo has just started learning his route around town. There are many things for Tayo to learn. Tayo and his friends, Rogi, Lani, and Gani, help each other to become great grown-up buses.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831090000 +0800" stop="20260831093000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+  <programme start="20260831103000 +0800" stop="20260831120000 +0800" channel="20.visionplus">
+    <title lang="ms">KATURI</title>
+    <desc lang="ms">Katuri is an exciting show about four peacock chicks growing up in a natural forest under the gentle care and affection of Mother Flora. Mother Flora always encourages her children to explore the world with other animals and helps them whenever they need it. When the peacock chicks encounter difficulties or even danger, Mother Flora is always there to keep them safe.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831093000 +0800" stop="20260831100000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+  <programme start="20260831120000 +0800" stop="20260831140000 +0800" channel="20.visionplus">
+    <title lang="ms">PORORO, THE LITTLE PENGUIN</title>
+    <desc lang="ms">Pororo the little penguin and his friends live in a peaceful land covered in snow and ice. They all have different personalities and interests, which sometimes cause a little trouble in their quiet winter world. But together, every day is an adventure where they learn all of life's lessons, big and small!</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831100000 +0800" stop="20260831103000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+  <programme start="20260831140000 +0800" stop="20260831153000 +0800" channel="20.visionplus">
+    <title lang="ms">BING</title>
+    <desc lang="ms">Let's get to know Bing, a cute and curious little rabbit! Together with his beloved adult friend, Flop, Bing always finds exciting new things every day. From playing with bubbles, tying shoelaces, to overcoming sadness, everything becomes a fun adventure! Come on, follow the adventures of Bing and his friends! We can learn many things while laughing, you know!</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831103000 +0800" stop="20260831110000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+  <programme start="20260831153000 +0800" stop="20260831170000 +0800" channel="20.visionplus">
+    <title lang="ms">BLUEY</title>
+    <desc lang="ms">Bluey is an Australian animated series that follows the daily adventures of a six-year-old blue heeler puppy named Bluey. Together with her younger brother, Bingo, and her parents, Bandit and Chilli, Bluey engages in imaginative games that spark curiosity and creativity.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831110000 +0800" stop="20260831113000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+  <programme start="20260831170000 +0800" stop="20260831180000 +0800" channel="20.visionplus">
+    <title lang="ms">TIAN TIAN</title>
+    <desc lang="ms">A simple family from the big city decides to leave the glitz and glamour of urban life behind and return to the village for the sake of their child, who is afraid to go to school. In the village, they interact with friends, neighbors, and local animals, causing endless awkward and funny situations. However, amid all the silliness, there are also touching moments of togetherness, where laughter and tears go hand in hand. Tiantian, the six-year-old child, full of curiosity and love for the world, begins to develop into a healthy, independent, and confident person amidst the beauty of the countryside.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831113000 +0800" stop="20260831120000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+  <programme start="20260831180000 +0800" stop="20260831183000 +0800" channel="20.visionplus">
+    <title lang="ms">CIPUNG ABUBU</title>
+    <desc lang="ms">It all began with the birth of Rayyanza Malik Ahmad (Cipung), the second son of Raffi Ahmad and Nagita Slavina, who brought happiness to everyone, even his cousins Zayn and Zuney. However, unlike Rafathar, the eldest child, he felt jealous because he thought all the attention was being taken by Cipung. Then a miracle happened when fairy dust touched Cipung, Rafathar, Zayn, and Zuney. The fairy dust transformed the babies into magical babies and took them to the world of Boba, a place for children where all miracles can happen and without adults knowing. From that moment on, the adventure began. Together with the Boba, the creatures who work there, they created magical tools and encountered various amazing creatures such as tauge monsters, viruses, zombies, snowmen, and even met Supercool, who heightened the adrenaline of their adventure.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831120000 +0800" stop="20260831123000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831123000 +0800" stop="20260831130000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831130000 +0800" stop="20260831133000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831133000 +0800" stop="20260831140000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831140000 +0800" stop="20260831143000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831143000 +0800" stop="20260831150000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831150000 +0800" stop="20260831160000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831160000 +0800" stop="20260831163000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831163000 +0800" stop="20260831170000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831170000 +0800" stop="20260831173000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831173000 +0800" stop="20260831180000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831180000 +0800" stop="20260831190000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+  <programme start="20260831183000 +0800" stop="20260831190000 +0800" channel="20.visionplus">
+    <title lang="ms">RAINBOW BUBBLEGEM</title>
+    <desc lang="ms">In the underwater world, a mermaid named Purple longs for adventures on land and secretly takes a huge risk by transforming herself into a human. With the help of Pink Star, the sleeping guardian fairy of the bubblegem, Purple transforms. However, the excessive use of magic causes the bubblegem, their source of power, to shatter and scatter across the land. To gather the scattered bubblegems, the sea queen White Gold commands seven mermaids from different sea kingdoms.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
   <programme start="20260831190000 +0800" stop="20260831193000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+    <title lang="ms">SUNNY GIRL NO.23</title>
+    <desc lang="ms">**SUNNY GIRL NO.23** is not only about the growth journey of a cheerful young girl, but also the first realistic-themed animated series that reflects parent-child education and school life in China. The main character is an 8-year-old elementary school student. She is not extraordinary. She is a clumsy girl, but also energetic, optimistic, and kind-hearted, with a talent for drawing, creativity, and problem-solving abilities that many children can relate to. This animation has been well received by audiences in Mainland China and has also been distributed across Southeast Asia, including Malaysia and Vietnam. The first season expresses a worldview through 26 humorous stories: *"There are many different forms of excellence, and every child is exceptional in their own way."* It not only portrays the childhood experiences of contemporary elementary school students but also explores the clash between traditional and modern parenting concepts. The second season continues and further develops this worldview.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
   <programme start="20260831193000 +0800" stop="20260831200000 +0800" channel="20.visionplus">
+    <title lang="ms">NEW KELUARGA SOMAT S2</title>
+    <desc lang="ms">FOLLOW THE EXCITING ADVENTURES OF PAK SOMAT'S FAMILY AS THEY START A NEW LIFE IN CITEKO! From building BU INAH'S dream food stall, dealing with the lively antics of their neighbor CEU KOKOM, to PAK SOMAT'S efforts to become an online motorcycle taxi driver for his family. A heartwarming story filled with laughter and moral lessons, suitable for all ages.</desc>
+    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260831200000 +0800" stop="20260831220000 +0800" channel="20.visionplus">
+    <title lang="ms">BIOSKOP KELUARGA INDONESIA (PORORO DRAGON CASTLE ADVENTURE)</title>
+    <desc lang="ms">Pororo and his friends begin a magical adventure to the Dragon Castle to help the Dragon King fight an evil wizard named Gad. Will they be able to save the King’s power and protect the peace of the Dragon Castle? Watch their exciting adventure only on Mentari TV!</desc>
+    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260831220000 +0800" stop="20260831233000 +0800" channel="20.visionplus">
+    <title lang="ms">POKEMON SEASON 23: THE JOURNEYS</title>
+    <desc lang="ms">POKEMON JOURNEYS IS A POKEMON ANIME SERIES THAT FOLLOWS THE ADVENTURES OF A POKEMON TRAINER NAMED ASH KETCHUM AND HIS FRIEND, GOH. THEY JOURNEY ACROSS VARIOUS POKEMON REGIONS TO CHASING THEIR DREAMS. IN THEIR ADVENTURES, THEY MEET LEGENDARY POKEMON, BATTLE AGAINST POWERFUL TRAINER, AND LEARN MANY NEW THINGS ABOUT POKEMON. THE STORY FOCUS ON THE FRIENDSHIP, ADVENTURE, AND CHARACTER DEVELOPMENT BRINGING BY THEIR JOURNEY IN THE WORLD OF POKEMON.</desc>
+    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260831233000 +0800" stop="20260901010000 +0800" channel="20.visionplus">
+    <title lang="ms">KELUARGA SOMAT</title>
+    <desc lang="ms">THE SOMAT FAMILY TELLS THAT WE MUST LIVE SIDE BY SIDE AND HELP EACH OTHER AS A COMMUNITY AND AS STUDENTS.</desc>
+    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901010000 +0800" stop="20260901050000 +0800" channel="20.visionplus">
     <title lang="ms">Mentari TV</title>
     <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831200000 +0800" stop="20260831203000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+  <programme start="20260901050000 +0800" stop="20260901060000 +0800" channel="20.visionplus">
+    <title lang="ms">Oddbods</title>
+    <desc lang="ms">Oddbods is an animated, slapstick comedy that embraces adventure and celebrates friendship. Following the wacky adventures of eight unique and furry friends, who laugh, play and get up to mischief in their hometown of Oddsville, where even the most ordinary of situations have unexpected outcomes.</desc>
+    <icon src="https://www.visionplus.id/images/repository/696/526696-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901060000 +0800" stop="20260901063000 +0800" channel="20.visionplus">
+    <title lang="ms">Little Angel</title>
+    <desc lang="ms">Little Angel is an animated musical show for pre-schoolers. The show has been captivating families around the world with its cheeky humor and catchy upbeat songs.</desc>
+    <icon src="https://www.visionplus.id/images/repository/696/526696-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901063000 +0800" stop="20260901070000 +0800" channel="20.visionplus">
+    <title lang="ms">COCOMELON IND</title>
+    <desc lang="ms">With Indonesian-language 3D animations and songs, Cocomelon creates a world centered around the everyday experiences of young children. In addition to helping preschoolers learn letters, numbers, animal sounds, colors, and more, the videos provide lessons in social skills. They give parents the opportunity to teach and play with their children as they watch together.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831203000 +0800" stop="20260831210000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831210000 +0800" stop="20260831220000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831220000 +0800" stop="20260831223000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831223000 +0800" stop="20260831230000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831230000 +0800" stop="20260901000000 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260901000000 +0800" stop="20260901005959 +0800" channel="20.visionplus">
-    <title lang="ms">Mentari TV</title>
-    <desc lang="ms">Mentari TV is a national television station from Indonesia that broadcasts various educational and family entertainment programs, with a primary focus on children and teenagers.</desc>
+  <programme start="20260901070000 +0800" stop="20260901080000 +0800" channel="20.visionplus">
+    <title lang="ms">NUMBERBLOCKS</title>
+    <desc lang="ms">Numberblocks is an educational animated series for preschoolers that teaches mathematical concepts through lively, adventurous number block characters. Each number block has its own numerical value and unique personality. They join forces and interact with each other to solve mathematical problems while teaching basic mathematical concepts such as addition, subtraction, multiplication, division, and other concepts. Each episode of “Numberblocks” typically features a short story in which the number blocks work together to complete a task or face a mathematical challenge. Through songs, engaging stories, and bright visuals, the series aims to introduce and reinforce children's understanding of numbers and basic mathematical concepts in a fun and interactive way.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
   <programme start="20260831074500 +0800" stop="20260831090000 +0800" channel="23.visionplus">
@@ -18995,6 +18540,27 @@
     <title lang="ms">Avarice</title>
     <desc lang="ms">A gifted archer must rescue her husband and daughter after they are abducted during a vicious home invasion.</desc>
   </programme>
+  <programme start="20260901011700 +0800" stop="20260901024700 +0800" channel="40.visionplus">
+    <title lang="ms">The Numbers Station</title>
+    <desc lang="ms">A disgraced black ops agent is dispatched to a remote CIA broadcast station to protect a code operator. Soon, they find themselves in a life-or-death struggle to stop a deadly plot before it's too late</desc>
+  </programme>
+  <programme start="20260901024700 +0800" stop="20260901044900 +0800" channel="40.visionplus">
+    <title lang="ms">Deadly Vendetta</title>
+    <desc lang="ms">When a corrections officer is found dead in his apartment, police wonder if a former inmate got revenge on him; it's soon clear that the murder may not be related to his job, once police uncover their victim's part in a dangerous love triangle</desc>
+  </programme>
+  <programme start="20260901044900 +0800" stop="20260901051300 +0800" channel="40.visionplus">
+    <title lang="ms">Undisputed 2: Last Man Standing</title>
+    <desc lang="ms">Sequel to the 2002 film. This time, Heavyweight Champ George "Iceman" Chambers is sent to a Russian Jail on trumped-up drug charges.</desc>
+    <icon src="https://www.visionplus.id/images/repository/735/273735-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901051300 +0800" stop="20260901064700 +0800" channel="40.visionplus">
+    <title lang="ms">La Soga Salvation</title>
+    <desc lang="ms">La Soga Salvation is a suspenseful thriller and love story, where a former hitman fights to rescue the love of his life, while confronting his inner demons and violent past.</desc>
+  </programme>
+  <programme start="20260901064700 +0800" stop="20260901083600 +0800" channel="40.visionplus">
+    <title lang="ms">Deadly Vendetta</title>
+    <desc lang="ms">When a corrections officer is found dead in his apartment, police wonder if a former inmate got revenge on him; it's soon clear that the murder may not be related to his job, once police uncover their victim's part in a dangerous love triangle</desc>
+  </programme>
   <programme start="20260831063000 +0800" stop="20260831080500 +0800" channel="41.visionplus">
     <title lang="ms">The Getaway</title>
     <desc lang="ms">Three girls are abducted and taken to a remote island. They're held captive by three brothers raised in isolation by their grandmother.</desc>
@@ -19097,6 +18663,20 @@
     <title lang="ms">Teenage Mutant Ninja Turtles 3</title>
     <desc lang="ms">The turtles are on a new adventure as they travel back in time to Japan, to perfect the art of being samurais. They also come to the aid of a village that tries to end its days of suppression.</desc>
     <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901020000 +0800" stop="20260901041500 +0800" channel="42.visionplus">
+    <title lang="ms">Rear Window</title>
+    <desc lang="ms">A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder.</desc>
+    <icon src="https://www.visionplus.id/images/repository/573/525573-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901041500 +0800" stop="20260901061500 +0800" channel="42.visionplus">
+    <title lang="ms">Love Story</title>
+    <desc lang="ms">Ranti and Galih from two different villages are in love and make plans to marry. But the villagers forbid their love as they believe that if the villages are united by a marriage, the disaster will strike.</desc>
+  </programme>
+  <programme start="20260901061500 +0800" stop="20260901081500 +0800" channel="42.visionplus">
+    <title lang="ms">RoboCop 3</title>
+    <desc lang="ms">Robocop saves the day once more. This time the half man/half robot takes on ruthless developers who want to evict some people on "their" land.</desc>
+    <icon src="https://www.visionplus.id/images/repository/873/624873-POSTER-l.jpg"/>
   </programme>
   <programme start="20260831073000 +0800" stop="20260831090000 +0800" channel="44.visionplus">
     <title lang="ms">Fist Of Legend</title>
@@ -23344,6 +22924,82 @@
     <desc lang="ms">A program introducing Japanese comic narratives performed by well-known comic storytellers.</desc>
     <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
   </programme>
+  <programme start="20260901011000 +0800" stop="20260901013000 +0800" channel="76.visionplus">
+    <title lang="ms">French In A Happy Mood</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901013000 +0800" stop="20260901014000 +0800" channel="76.visionplus">
+    <title lang="ms">Real-Life Travel English</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901014000 +0800" stop="20260901014500 +0800" channel="76.visionplus">
+    <title lang="ms">World Weather</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901014500 +0800" stop="20260901020000 +0800" channel="76.visionplus">
+    <title lang="ms">Kid's Discovery</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901020000 +0800" stop="20260901022500 +0800" channel="76.visionplus">
+    <title lang="ms">With Mother</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901022500 +0800" stop="20260901023000 +0800" channel="76.visionplus">
+    <title lang="ms">See, Learn, Explore: Tohoku</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901023000 +0800" stop="20260901024500 +0800" channel="76.visionplus">
+    <title lang="ms">The Scent Of The Wind, Ep 111</title>
+    <desc lang="ms">Two nurses, Rin and Naomi, carry their own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces; through conflicts and hardships, the two gradually grow.</desc>
+  </programme>
+  <programme start="20260901024500 +0800" stop="20260901031200 +0800" channel="76.visionplus">
+    <title lang="ms">Today's Close-Up</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901031200 +0800" stop="20260901031500 +0800" channel="76.visionplus">
+    <title lang="ms">World Weather</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901031500 +0800" stop="20260901040000 +0800" channel="76.visionplus">
+    <title lang="ms">Tsurube's Salute To Families</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901040000 +0800" stop="20260901041000 +0800" channel="76.visionplus">
+    <title lang="ms">TV Exercise</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901041000 +0800" stop="20260901042500 +0800" channel="76.visionplus">
+    <title lang="ms">Health For Today</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901042500 +0800" stop="20260901045000 +0800" channel="76.visionplus">
+    <title lang="ms">My Gardening</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901045000 +0800" stop="20260901045500 +0800" channel="76.visionplus">
+    <title lang="ms">Kyoto's Hidamariya Garden Shop</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901045500 +0800" stop="20260901050000 +0800" channel="76.visionplus">
+    <title lang="ms">World Weather</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901050000 +0800" stop="20260901060000 +0800" channel="76.visionplus">
+    <title lang="ms">News: Good Morning, Japan</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901060000 +0800" stop="20260901070000 +0800" channel="76.visionplus">
+    <title lang="ms">News: Good Morning, Japan</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901070000 +0800" stop="20260901071500 +0800" channel="76.visionplus">
+    <title lang="ms">The Scent Of The Wind, Ep 112</title>
+    <desc lang="ms">Two nurses, Rin and Naomi, carry their own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces; through conflicts and hardships, the two gradually grow.</desc>
+  </programme>
+  <programme start="20260901071500 +0800" stop="20260901085400 +0800" channel="76.visionplus">
+    <title lang="ms">Asaichi</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
   <programme start="20260831073000 +0800" stop="20260831083000 +0800" channel="77.visionplus">
     <title lang="ms">The Waltons S3, Ep 6</title>
     <desc lang="ms">Season 3 of The Waltons follows John-Boy as a college freshman facing campus challenges, while the Walton family navigates change, growing up, and heartfelt struggles on Walton’s Mountain.</desc>
@@ -23554,6 +23210,46 @@
     <desc lang="ms">Season 3 follows the joint NCIS and AFP team in Sydney as they investigate crimes involving U.S. military personnel across the Indo-Pacific. Facing terrorism, murders, and global conspiracies, the cases grow more personal, exposing hidden pasts and testing the team’s loyalty and relationships.</desc>
     <icon src="https://www.visionplus.id/images/repository/582/526582-POSTER-l.jpg"/>
   </programme>
+  <programme start="20260901012500 +0800" stop="20260901022000 +0800" channel="79.visionplus">
+    <title lang="ms">Hudson &amp; Rex S7, Ep 1</title>
+    <desc lang="ms">Detective Charlie Hudson and his remarkable German Shepherd partner, Rex, place more trust than ever in their team and one another as they face unprecedented challenges. With Rex by their side, Superintendent Joe Donovan, Dr. Sarah Truong, and tech specialist Jesse Mills work together to solve even the most extraordinary crimes unfolding in St. John’s.</desc>
+    <icon src="https://www.visionplus.id/images/repository/200/10200-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901022000 +0800" stop="20260901031500 +0800" channel="79.visionplus">
+    <title lang="ms">American Ninja... S15, Ep 16</title>
+    <desc lang="ms">Season 15 of "American Ninja Warrior" returns with the most elite athletes in the country competing on the world's most difficult obstacle courses.</desc>
+    <icon src="https://www.visionplus.id/images/repository/582/526582-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901031500 +0800" stop="20260901041000 +0800" channel="79.visionplus">
+    <title lang="ms">FBI S7, Ep 5</title>
+    <desc lang="ms">A Behavioral Analysis Unit profiler asks for the team's help after her sister is the victim of an attempted kidnapping.</desc>
+    <icon src="https://www.visionplus.id/images/repository/200/10200-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901041000 +0800" stop="20260901050500 +0800" channel="79.visionplus">
+    <title lang="ms">NCIS: Origins S1, Ep 5</title>
+    <desc lang="ms">Follows a young Leroy Jethro Gibbs as he starts his career as part of the Naval Investigative Service operating out of Camp Pendleton.</desc>
+    <icon src="https://www.visionplus.id/images/repository/200/10200-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901050500 +0800" stop="20260901060000 +0800" channel="79.visionplus">
+    <title lang="ms">The Rookie: Feds S1, Ep 16</title>
+    <desc lang="ms">It's Valentine's Day, and love is in the air. The FBI teams up with LAPD to take down a shady Casanova linked to a notorious drug lord.</desc>
+    <icon src="https://www.visionplus.id/images/repository/163/4163-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901060000 +0800" stop="20260901064500 +0800" channel="79.visionplus">
+    <title lang="ms">American Ninja... S15, Ep 16</title>
+    <desc lang="ms">Season 15 of "American Ninja Warrior" returns with the most elite athletes in the country competing on the world's most difficult obstacle courses.</desc>
+    <icon src="https://www.visionplus.id/images/repository/582/526582-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901064500 +0800" stop="20260901073000 +0800" channel="79.visionplus">
+    <title lang="ms">NCIS: Sydney S3, Ep 20</title>
+    <desc lang="ms">Season 3 follows the joint NCIS and AFP team in Sydney as they investigate crimes involving U.S. military personnel across the Indo-Pacific. Facing terrorism, murders, and global conspiracies, the cases grow more personal, exposing hidden pasts and testing the team’s loyalty and relationships.</desc>
+    <icon src="https://www.visionplus.id/images/repository/582/526582-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901073000 +0800" stop="20260901081500 +0800" channel="79.visionplus">
+    <title lang="ms">Hudson &amp; Rex S7, Ep 1</title>
+    <desc lang="ms">Detective Charlie Hudson and his remarkable German Shepherd partner, Rex, place more trust than ever in their team and one another as they face unprecedented challenges. With Rex by their side, Superintendent Joe Donovan, Dr. Sarah Truong, and tech specialist Jesse Mills work together to solve even the most extraordinary crimes unfolding in St. John’s.</desc>
+    <icon src="https://www.visionplus.id/images/repository/200/10200-POSTER-l.jpg"/>
+  </programme>
   <programme start="20260831080000 +0800" stop="20260831093000 +0800" channel="80.visionplus">
     <title lang="ms">MasterChef Australia, Ep 40</title>
     <desc lang="ms">42 returning contestants battle for the title and A$250,000 prize. Hosted by Andy Allen, Sofia Levin, Jean‑Christophe Novelli, and Poh Ling Yeow, with Gordon Ramsay kicking off the competition.</desc>
@@ -23644,6 +23340,39 @@
     <desc lang="ms">Jake provides a step-by-step process for creating a main course and dessert that incorporate aspects from classic dishes and unique flavors all while keeping it simple.</desc>
     <icon src="https://www.visionplus.id/images/repository/780/526780-POSTER-l.jpg"/>
   </programme>
+  <programme start="20260901010500 +0800" stop="20260901020500 +0800" channel="80.visionplus">
+    <title lang="ms">Got To Leave Something, Ep 3</title>
+    <desc lang="ms">The two adventurers follow the mountaineer deep into the remote areas of Jiri Mountain; they experience a feast with Makgeolli, a Korean rice wine, and local mountain folk.</desc>
+    <icon src="https://www.visionplus.id/images/repository/382/74382-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901020500 +0800" stop="20260901023500 +0800" channel="80.visionplus">
+    <title lang="ms">Meals In Minutes S2, Ep 51</title>
+    <desc lang="ms">From my home kitchen to yours, "Meals in Minutes" is all about making cooking tastier, faster, and more fun. Not only will you get delicious recipes, but you'll also pick up some cooking tips to level up your kitchen skills. So, whether you're sitting down to enjoy the show or getting up to start cooking along, remember, it's your house, your rules.</desc>
+    <icon src="https://www.visionplus.id/images/repository/382/74382-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901023500 +0800" stop="20260901042000 +0800" channel="80.visionplus">
+    <title lang="ms">Vanished In Death Valley</title>
+    <desc lang="ms">When a family car dies in Death Valley, a teenage girl vanishes under the blazing sun. As searchers trace clues and secrets rise, the desert tests trust, resilience, and the fragile bonds holding the family together</desc>
+    <icon src="https://www.visionplus.id/images/repository/517/621517-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901042000 +0800" stop="20260901060500 +0800" channel="80.visionplus">
+    <title lang="ms">Murder At The Hotel</title>
+    <desc lang="ms">Stranded at a hotel during a snowstorm, a woman runs into her high school sweetheart, sparking tension as her husband and daughter both disappear. Unsure who to trust, she must navigate a night of secrets, danger, and her own past to save her family.</desc>
+    <icon src="https://www.visionplus.id/images/repository/780/526780-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901060500 +0800" stop="20260901063000 +0800" channel="80.visionplus">
+    <title lang="ms">Global Soul Kitchen S1, Ep 7</title>
+    <icon src="https://www.visionplus.id/images/repository/780/526780-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901063000 +0800" stop="20260901070000 +0800" channel="80.visionplus">
+    <title lang="ms">Global Soul Kitchen S1, Ep 8</title>
+    <icon src="https://www.visionplus.id/images/repository/780/526780-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901070000 +0800" stop="20260901080000 +0800" channel="80.visionplus">
+    <title lang="ms">Theresa Caputo: Spirits, Ep 21</title>
+    <desc lang="ms">Follows Theresa Caputo as she explores the next phase of her personal life and embarks on a tour, including sold-out shows in London.</desc>
+    <icon src="https://www.visionplus.id/images/repository/382/74382-POSTER-l.jpg"/>
+  </programme>
   <programme start="20260831080000 +0800" stop="20260831110000 +0800" channel="87.visionplus">
     <title lang="ms">Road To Kilau Raya Kab. Pati</title>
   </programme>
@@ -23671,9 +23400,6 @@
     <title lang="ms">Terikat Janji</title>
     <desc lang="ms">a complicated love story, full of intrigue and a shaking betrayal, tied to a promise</desc>
   </programme>
-  <programme start="20260831200000 +0800" stop="20260831220000 +0800" channel="87.visionplus">
-    <title lang="ms">Ternyata Ini Cinta</title>
-  </programme>
   <programme start="20260831220000 +0800" stop="20260831223000 +0800" channel="87.visionplus">
     <title lang="ms">Catatan Hati Seorang Istri</title>
   </programme>
@@ -23686,14 +23412,36 @@
     <title lang="ms">Srimulat: Hil Yang Mustahal</title>
     <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
   </programme>
+  <programme start="20260901010000 +0800" stop="20260901020000 +0800" channel="87.visionplus">
+    <title lang="ms">Tiger And Crane</title>
+    <desc lang="ms">Para remaja dari berbagai latar belakang bersatu setelah seorang anak yatim menelan mutiara ajaib. Bersama teman-teman barunya, mereka mengungkap rahasia kuno dan berjuang untuk menyelamatkan Bumi dari iblis dan pejabat korup.</desc>
+  </programme>
+  <programme start="20260901020000 +0800" stop="20260901030000 +0800" channel="87.visionplus">
+    <title lang="ms">Terikat Janji</title>
+    <desc lang="ms">a complicated love story, full of intrigue and a shaking betrayal, tied to a promise</desc>
+  </programme>
+  <programme start="20260901030000 +0800" stop="20260901040000 +0800" channel="87.visionplus">
+    <title lang="ms">Ikatan Cinta</title>
+    <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901040000 +0800" stop="20260901050000 +0800" channel="87.visionplus">
+    <title lang="ms">Cinta Yasmin</title>
+    <desc lang="ms">The story of a woman named Yasmin, known for her beauty, kindness, and hard work. Yasmin dreams of becoming a successful career woman, but life doesn’t seem to be on her side.</desc>
+    <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901050000 +0800" stop="20260901060000 +0800" channel="87.visionplus">
+    <title lang="ms">Ternyata Ini Cinta</title>
+  </programme>
+  <programme start="20260901060000 +0800" stop="20260901070000 +0800" channel="87.visionplus">
+    <title lang="ms">Terlanjur Mencintaimu</title>
+  </programme>
+  <programme start="20260901070000 +0800" stop="20260901080000 +0800" channel="87.visionplus">
+    <title lang="ms">Terikat Janji</title>
+    <desc lang="ms">a complicated love story, full of intrigue and a shaking betrayal, tied to a promise</desc>
+  </programme>
   <programme start="20260831080000 +0800" stop="20260831090000 +0800" channel="88.visionplus">
     <title lang="ms">Tamu Dadakan</title>
     <icon src="https://www.visionplus.id/images/repository/067/78067-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831090000 +0800" stop="20260831100000 +0800" channel="88.visionplus">
-    <title lang="ms">Nikah Gratis</title>
-    <desc lang="ms">A reality show that assists underprivileged individuals in conducting weddings in accordance with religious and state laws.</desc>
-    <icon src="https://www.visionplus.id/images/repository/401/525401-POSTER-l.jpg"/>
   </programme>
   <programme start="20260831100000 +0800" stop="20260831103000 +0800" channel="88.visionplus">
     <title lang="ms">Kipas Princess</title>
@@ -23708,22 +23456,9 @@
     <title lang="ms">Bidadari Plus Plus</title>
     <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831123000 +0800" stop="20260831143000 +0800" channel="88.visionplus">
-    <title lang="ms">Kau Ditakdirkan Untukku</title>
-    <desc lang="ms">The story of Alya, a tough and independent girl who gets into a contract marriage with Devan, a wealthy man. Over time, the relationship that started as a pretense slowly turns into a genuine feeling of love. But their journey is not as easy as imagined.</desc>
-    <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831143000 +0800" stop="20260831153000 +0800" channel="88.visionplus">
-    <title lang="ms">Bus Jutawan: Arya Saloka</title>
-    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260831153000 +0800" stop="20260831163000 +0800" channel="88.visionplus">
     <title lang="ms">Tamu Dadakan</title>
     <icon src="https://www.visionplus.id/images/repository/067/78067-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20260831163000 +0800" stop="20260831173000 +0800" channel="88.visionplus">
-    <title lang="ms">Call Me Mell</title>
-    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
   </programme>
   <programme start="20260831173000 +0800" stop="20260831183000 +0800" channel="88.visionplus">
     <title lang="ms">Alvin And Friends</title>
@@ -23767,6 +23502,31 @@
   </programme>
   <programme start="20260901003000 +0800" stop="20260901020000 +0800" channel="88.visionplus">
     <title lang="ms">Bidadari Plus Plus</title>
+    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901020000 +0800" stop="20260901030000 +0800" channel="88.visionplus">
+    <title lang="ms">Call Me Mell</title>
+    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901030000 +0800" stop="20260901050000 +0800" channel="88.visionplus">
+    <title lang="ms">Kau Ditakdirkan Untukku</title>
+    <desc lang="ms">The story of Alya, a tough and independent girl who gets into a contract marriage with Devan, a wealthy man. Over time, the relationship that started as a pretense slowly turns into a genuine feeling of love. But their journey is not as easy as imagined.</desc>
+    <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901050000 +0800" stop="20260901053000 +0800" channel="88.visionplus">
+    <title lang="ms">Celebrity Top 10</title>
+  </programme>
+  <programme start="20260901053000 +0800" stop="20260901060000 +0800" channel="88.visionplus">
+    <title lang="ms">Seleb On News</title>
+    <desc lang="ms">An infotainment program that reports the latest information and rumors about Indonesian celebrities.</desc>
+    <icon src="https://www.visionplus.id/images/repository/432/525432-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901060000 +0800" stop="20260901070000 +0800" channel="88.visionplus">
+    <title lang="ms">Alvin And Friends</title>
+    <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901070000 +0800" stop="20260901080000 +0800" channel="88.visionplus">
+    <title lang="ms">Bus Jutawan: Arya Saloka</title>
     <icon src="https://www.visionplus.id/images/repository/814/526814-POSTER-l.jpg"/>
   </programme>
   <programme start="20260831080000 +0800" stop="20260831083000 +0800" channel="89.visionplus">
@@ -23819,10 +23579,6 @@
     <title lang="ms">Kaca Benggala</title>
     <icon src="https://www.visionplus.id/images/repository/565/242565-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831183000 +0800" stop="20260831190000 +0800" channel="89.visionplus">
-    <title lang="ms">Ge Bams</title>
-    <icon src="https://www.visionplus.id/images/repository/473/526473-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260831190000 +0800" stop="20260831200000 +0800" channel="89.visionplus">
     <title lang="ms">Konco Ngaso</title>
     <icon src="https://www.visionplus.id/images/repository/565/242565-POSTER-l.jpg"/>
@@ -23839,10 +23595,6 @@
     <title lang="ms">Baskom (Banyumas Komedi)</title>
     <icon src="https://www.visionplus.id/images/repository/473/526473-POSTER-l.jpg"/>
   </programme>
-  <programme start="20260831213000 +0800" stop="20260831220000 +0800" channel="89.visionplus">
-    <title lang="ms">Arwah Lelembut</title>
-    <icon src="https://www.visionplus.id/images/repository/565/242565-POSTER-l.jpg"/>
-  </programme>
   <programme start="20260831220000 +0800" stop="20260831230000 +0800" channel="89.visionplus">
     <title lang="ms">Ludruk Humor Kirun</title>
     <icon src="https://www.visionplus.id/images/repository/565/242565-POSTER-l.jpg"/>
@@ -23854,6 +23606,42 @@
   <programme start="20260901000000 +0800" stop="20260901013000 +0800" channel="89.visionplus">
     <title lang="ms">Ketoprak Humor</title>
     <icon src="https://www.visionplus.id/images/repository/473/526473-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901013000 +0800" stop="20260901020000 +0800" channel="89.visionplus">
+    <title lang="ms">Dagelan Jowo New</title>
+    <icon src="https://www.visionplus.id/images/repository/565/242565-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901020000 +0800" stop="20260901023000 +0800" channel="89.visionplus">
+    <title lang="ms">Arwah Lelembut</title>
+    <icon src="https://www.visionplus.id/images/repository/565/242565-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901023000 +0800" stop="20260901030000 +0800" channel="89.visionplus">
+    <title lang="ms">Baskom (Banyumas Komedi)</title>
+    <icon src="https://www.visionplus.id/images/repository/473/526473-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901030000 +0800" stop="20260901040000 +0800" channel="89.visionplus">
+    <title lang="ms">Ludruk Humor Kirun</title>
+    <icon src="https://www.visionplus.id/images/repository/565/242565-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901040000 +0800" stop="20260901050000 +0800" channel="89.visionplus">
+    <title lang="ms">Konco Ngaso</title>
+    <icon src="https://www.visionplus.id/images/repository/565/242565-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901050000 +0800" stop="20260901053000 +0800" channel="89.visionplus">
+    <title lang="ms">Ge Bams</title>
+    <icon src="https://www.visionplus.id/images/repository/473/526473-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901053000 +0800" stop="20260901063000 +0800" channel="89.visionplus">
+    <title lang="ms">Kompleks Pengabdi Istri</title>
+    <icon src="https://www.visionplus.id/images/repository/475/525475-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901063000 +0800" stop="20260901070000 +0800" channel="89.visionplus">
+    <title lang="ms">Kaca Benggala</title>
+    <icon src="https://www.visionplus.id/images/repository/565/242565-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901070000 +0800" stop="20260901080000 +0800" channel="89.visionplus">
+    <title lang="ms">Ludruk Humor Kirun</title>
+    <icon src="https://www.visionplus.id/images/repository/565/242565-POSTER-l.jpg"/>
   </programme>
   <programme start="20260831073000 +0800" stop="20260831081500 +0800" channel="92.visionplus">
     <title lang="ms">Chicago Med S11, Ep 12</title>
@@ -23970,6 +23758,51 @@
     <desc lang="ms">The season focuses on the personal and professional lives of Kyle Richards, Erika Girardi, Dorit Kemsley, Sutton Stracke, Bozoma Saint John, Amanda Frances and Rachel Zoe, with Kathy Hilton, Jennifer Tilly and Natalie Swanston Fuller appearing as friends of the housewives.</desc>
     <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
   </programme>
+  <programme start="20260901015000 +0800" stop="20260901023500 +0800" channel="92.visionplus">
+    <title lang="ms">Chicago Med S11, Ep 14</title>
+    <desc lang="ms">The city's most highly skilled medical team saves lives, while navigating their unique interpersonal relationships.</desc>
+    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901023500 +0800" stop="20260901032000 +0800" channel="92.visionplus">
+    <title lang="ms">Chicago Med S11, Ep 15</title>
+    <desc lang="ms">The city's most highly skilled medical team saves lives, while navigating their unique interpersonal relationships.</desc>
+    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901032000 +0800" stop="20260901040500 +0800" channel="92.visionplus">
+    <title lang="ms">Accused S2, Ep 4</title>
+    <desc lang="ms">Chronicles ordinary people getting caught up in extraordinary situations, where one wrong turn leads to another, until it's too late to turn back.</desc>
+    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901040500 +0800" stop="20260901045000 +0800" channel="92.visionplus">
+    <title lang="ms">Accused S2, Ep 5</title>
+    <desc lang="ms">Chronicles ordinary people getting caught up in extraordinary situations, where one wrong turn leads to another, until it's too late to turn back.</desc>
+    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901045000 +0800" stop="20260901053500 +0800" channel="92.visionplus">
+    <title lang="ms">Accused S2, Ep 6</title>
+    <desc lang="ms">Chronicles ordinary people getting caught up in extraordinary situations, where one wrong turn leads to another, until it's too late to turn back.</desc>
+    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901053500 +0800" stop="20260901060000 +0800" channel="92.visionplus">
+    <title lang="ms">Cobra Kai, Ep 3</title>
+    <desc lang="ms">Johnny cautiously takes a stab at love, while Daniel and Amanda enjoy a romantic date night. An attempt to bring the students of the two dojos together backfires as hostilities between the teens escalate.</desc>
+    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901060000 +0800" stop="20260901064500 +0800" channel="92.visionplus">
+    <title lang="ms">Late Night With... S13, Ep 112</title>
+    <desc lang="ms">Late Night With Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901064500 +0800" stop="20260901073000 +0800" channel="92.visionplus">
+    <title lang="ms">The Tonight Show S13, Ep 143</title>
+    <desc lang="ms">Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique comedy to the NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901073000 +0800" stop="20260901082000 +0800" channel="92.visionplus">
+    <title lang="ms">Chicago Med S11, Ep 14</title>
+    <desc lang="ms">The city's most highly skilled medical team saves lives, while navigating their unique interpersonal relationships.</desc>
+    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
+  </programme>
   <programme start="20260831075500 +0800" stop="20260831094000 +0800" channel="93.visionplus">
     <title lang="ms">The World's End</title>
     <desc lang="ms">Five friends who reunite in an attempt to top their epic pub crawl from twenty years earlier unwittingly become humanity's only hope for survival.</desc>
@@ -24014,6 +23847,26 @@
     <title lang="ms">Gods Of Egypt</title>
     <desc lang="ms">Gerard Butler and Nikolaj Coster-Waldau star as rival gods Set and Horus, who are locked in a war to rule the universe. To defeat the merciless Set, Horus joins forces with a brave mortal to save mankind.</desc>
     <icon src="https://www.visionplus.id/images/repository/740/679740-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901010000 +0800" stop="20260901024000 +0800" channel="93.visionplus">
+    <title lang="ms">The Bodyguard From Beijing</title>
+    <desc lang="ms">Corrupt tycoon kills witness to a crime. Only the girlfriend of a businessman with Chinese govt. ties saw it. Beijing bodyguard helps Hong Kong police protect her. But he and the witness develop feelings, complicating matters.</desc>
+    <icon src="https://www.visionplus.id/images/repository/300/526300-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901024000 +0800" stop="20260901044000 +0800" channel="93.visionplus">
+    <title lang="ms">Transcendence</title>
+    <desc lang="ms">A scientist's drive for artificial intelligence takes on dangerous implications when his own consciousness is uploaded into one such program.</desc>
+    <icon src="https://www.visionplus.id/images/repository/300/526300-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901044000 +0800" stop="20260901065500 +0800" channel="93.visionplus">
+    <title lang="ms">L.A. Confidential</title>
+    <desc lang="ms">As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.</desc>
+    <icon src="https://www.visionplus.id/images/repository/932/535932-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20260901065500 +0800" stop="20260901090000 +0800" channel="93.visionplus">
+    <title lang="ms">Godzilla Minus One</title>
+    <desc lang="ms">A kamikaze pilot plagued by survivor's guilt seeks redemption when a giant monster he failed to kill is transformed by radiation from atomic bomb tests and lays siege to post-war Japan.</desc>
+    <icon src="https://www.visionplus.id/images/repository/603/429603-POSTER-l.jpg"/>
   </programme>
   <programme start="20260831074500 +0800" stop="20260831084000 +0800" channel="95.visionplus">
     <title lang="ms">Accused: Guilty Or... S3, Ep 14</title>
