@@ -730,11 +730,6 @@
     <desc lang="ms">This event marks one of the highlights of the WorldSBK season, featuring the world's top riders battling at a legendary venue.</desc>
     <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110143000 +0800" stop="20261110151500 +0800" channel="07.visionplus">
-    <title lang="ms">Garda Langit</title>
-    <desc lang="ms">A special episode of Garda Langit will air on November 10, 2026, on Trans7.</desc>
-    <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261110151500 +0800" stop="20261110154500 +0800" channel="07.visionplus">
     <title lang="ms">Redaksi</title>
     <desc lang="ms">Riders push their limits to secure leading positions and crucial championship points. With Marc Márquez leading the standings and Francesco Bagnaia aiming to maintain his dominance at Jerez, this race serves as a testament to strategy and resilience.</desc>
@@ -838,16 +833,6 @@
     <title lang="ms">Tiba-Tiba Kuis</title>
     <icon src="https://www.visionplus.id/images/repository/972/570972-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110090000 +0800" stop="20261110110000 +0800" channel="08.visionplus">
-    <title lang="ms">Calon Pengantin Berduka</title>
-    <desc lang="ms">A television film that tells a romantic story of life with interesting conflicts.</desc>
-    <icon src="https://www.visionplus.id/images/repository/972/570972-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110110000 +0800" stop="20261110130000 +0800" channel="08.visionplus">
-    <title lang="ms">Senin Berubah Jadi Minggu...</title>
-    <desc lang="ms">Aldi and Siti were fighting over some ketoprak. While they were fighting over the ketoprak, their cell phones suddenly got switched. Siti often received bad ratings from her online ride-hailing customers until she could no longer work. Eventually, Siti got a job as a personal assistant, and it turned out her boss was Aldi.</desc>
-    <icon src="https://www.visionplus.id/images/repository/972/570972-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261110130000 +0800" stop="20261110133000 +0800" channel="08.visionplus">
     <title lang="ms">Liputan 6 Siang (L)</title>
     <desc lang="ms">A news program that presents a collection of current reports from within the country and abroad.</desc>
@@ -875,16 +860,6 @@
   </programme>
   <programme start="20261110223000 +0800" stop="20261111000000 +0800" channel="08.visionplus">
     <title lang="ms">Kesetiaan</title>
-    <desc lang="ms">A television film that tells a romantic story of life with interesting conflicts.</desc>
-    <icon src="https://www.visionplus.id/images/repository/972/570972-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261111000000 +0800" stop="20261111013000 +0800" channel="08.visionplus">
-    <title lang="ms">Kepincut Cinta OB Handsome</title>
-    <desc lang="ms">Karyo is a lucky office boy who gets the opportunity to study abroad. When Karyo arrives at the airport, he meets a beautiful woman named Adelia. At that moment, Adel accidentally bumps into Karyo while he is standing and waiting to be picked up. From then on, Karyo begins to develop feelings for Adel. Adelia is a girl who used to have a nerdy appearance, wearing large glasses and having her hair tied in two braids.</desc>
-    <icon src="https://www.visionplus.id/images/repository/972/570972-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261111013000 +0800" stop="20261111024500 +0800" channel="08.visionplus">
-    <title lang="ms">Cinta (Nggak) Bikin Sial</title>
     <desc lang="ms">A television film that tells a romantic story of life with interesting conflicts.</desc>
     <icon src="https://www.visionplus.id/images/repository/972/570972-POSTER-l.jpg"/>
   </programme>
@@ -921,11 +896,6 @@
     <desc lang="ms">Each episode features true or fictional tales that convey values of kindness, love, and friendship, inviting viewers to reflect and appreciate the beautiful moments in life.</desc>
     <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110090000 +0800" stop="20261110110000 +0800" channel="09.visionplus">
-    <title lang="ms">Ada Racun Dibalik Cinta</title>
-    <desc lang="ms">Ferdi loves Iren sincerely, even though she was raised in an orphanage. However, this has become a problem for her in-laws. Because of her background, Iren is often made a scapegoat by her own in-laws.</desc>
-    <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261110110000 +0800" stop="20261110120000 +0800" channel="09.visionplus">
     <title lang="ms">Kiss Pagi</title>
     <desc lang="ms">Kiss Pagi is an entertainment and infotainment television program that aired on Indosiar.</desc>
@@ -939,21 +909,6 @@
   <programme start="20261110123000 +0800" stop="20261110130000 +0800" channel="09.visionplus">
     <title lang="ms">Fokus Siang</title>
     <desc lang="ms">Each episode presents in-depth reports on politics, economy, social issues, and other important events, complete with expert analysis.</desc>
-    <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110130000 +0800" stop="20261110143000 +0800" channel="09.visionplus">
-    <title lang="ms">Istri Gemar Oplas, Pernikahan...</title>
-    <desc lang="ms">From the very beginning, Tania (Cerelia Raissa) has never liked Lina (Puspita Sarry), her stepmother. Lina is always preoccupied with herself she even undergoes plastic surgery to look younger and more beautiful. The conflict becomes even more complicated when her husband, Doni (Yogie Tan), is tempted by Lina.</desc>
-    <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110143000 +0800" stop="20261110160000 +0800" channel="09.visionplus">
-    <title lang="ms">Rahasia Dibalik Perjodohanku</title>
-    <desc lang="ms">Olive (Isel Fricella) reluctantly agrees to an arranged marriage with Rio (Indra Brotolaras), orchestrated by her stepfather to take the place of Nila (Fiona Fachru Nisa), who has fallen into a coma following an incident. Despite her reluctance, Olive accepts the arrangement, hoping to uncover the truth behind a much bigger mystery.</desc>
-    <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110160000 +0800" stop="20261110180000 +0800" channel="09.visionplus">
-    <title lang="ms">Kenyataan Pahit Foto Bayi Usang</title>
-    <desc lang="ms">An old childhood photo that seemed trivial and ordinary. However, the discovery of that faded baby photo actually sparked a painful nightmare in her life.</desc>
     <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
   </programme>
   <programme start="20261110180000 +0800" stop="20261110200000 +0800" channel="09.visionplus">
@@ -970,16 +925,6 @@
     <title lang="ms">Rob-B-Hood</title>
     <desc lang="ms">Thongs and Octopus accept a job from their landlord: kidnap a baby. Soon, the baby awakens strong paternal feelings in the two crooks, leading to complications when it comes to handing him over to his possibly crazy gang boss grandfather.</desc>
     <icon src="https://www.visionplus.id/images/repository/777/808777-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261111023000 +0800" stop="20261111050000 +0800" channel="09.visionplus">
-    <title lang="ms">Detective Chen</title>
-    <desc lang="ms">A bizarre murder occurred in St. Martin Middle School. He Manjun, the son of the Minister of Military and Political Affairs, died strangely. Policeman Chen Hu received the task and secretly investigated the truth in the school.</desc>
-    <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261111050000 +0800" stop="20261111053000 +0800" channel="09.visionplus">
-    <title lang="ms">Mujizat Masih Ada</title>
-    <desc lang="ms">It tells stories that are full of moral and religious messages, often focusing on miracles that happen in someone's life because of faith, prayer, and kindness.</desc>
-    <icon src="https://www.visionplus.id/images/repository/979/570979-POSTER-l.jpg"/>
   </programme>
   <programme start="20261111053000 +0800" stop="20261111070000 +0800" channel="09.visionplus">
     <title lang="ms">Fokus Pagi</title>
@@ -1001,11 +946,6 @@
     <desc lang="ms">A smart journalist Reet and hot-headed Raghav enter an arranged marriage through the 'Aata Sata' custom to secure their siblings' happiness. Their relationship of convenience faces unexpected turns.</desc>
     <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110103000 +0800" stop="20261110140000 +0800" channel="10.visionplus">
-    <title lang="ms">Commando 2: Black Money Trail</title>
-    <desc lang="ms">Commando Karan uses his combat skills to eradicate black money, which has been siphoned to banks abroad.</desc>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261110140000 +0800" stop="20261110153000 +0800" channel="10.visionplus">
     <title lang="ms">Jhanak</title>
     <desc lang="ms">Setelah kematian ibunya, Jhanak terpaksa menikahi tunangan sepupunya Arshi, Aniruddh, untuk melarikan diri dari penguntitnya, Tejas. Meskipun Aniruddh dan Arshi telah bersama selama tujuh tahun, Jhanak memasuki kehidupan mereka dalam keadaan yang menyedihkan dan mulai bekerja sebagai pembantu di rumah tangga Bose. Sementara beberapa anggota keluarga memperlakukannya dengan baik, yang lain terus-menerus menghina dan meremehkannya.</desc>
@@ -1021,22 +961,8 @@
     <desc lang="ms">A miraculous shape-shifting serpent has the power to become a human. She can be anybody she wants: a wife, a seductress, a mistress, a damsel in distress--all for the sake of revenge.</desc>
     <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110184500 +0800" stop="20261110211500 +0800" channel="10.visionplus">
-    <title lang="ms">Berkelana</title>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261110211500 +0800" stop="20261110223000 +0800" channel="10.visionplus">
     <title lang="ms">Alas Roban The Series</title>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110223000 +0800" stop="20261111004500 +0800" channel="10.visionplus">
-    <title lang="ms">Atas Boleh Bawah Boleh</title>
-    <desc lang="ms">Dono, Casino, Indro go hunting. While hunting, Dono faints and is taken care of by the local chief. Dono fell in love with the village chief's daughter. After knowing the girl's character, Dono avoids running away and another accident occurs.</desc>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261111004500 +0800" stop="20261111023000 +0800" channel="10.visionplus">
-    <title lang="ms">The Raid</title>
-    <desc lang="ms">A S.W.A.T. team becomes trapped in a tenement run by a ruthless mobster and his army of killers and thugs.</desc>
     <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
   </programme>
   <programme start="20261111023000 +0800" stop="20261111033000 +0800" channel="10.visionplus">
@@ -1170,11 +1096,6 @@
   <programme start="20261110120000 +0800" stop="20261110133000 +0800" channel="12.visionplus">
     <title lang="ms">Kabar Siang (L)</title>
     <icon src="https://www.visionplus.id/images/repository/683/680683-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110133000 +0800" stop="20261110150000 +0800" channel="12.visionplus">
-    <title lang="ms">Damai Indonesiaku Spesial</title>
-    <desc lang="ms">A special Islamic program featuring inspiring sermons and reflections from prominent scholars. Through meaningful discussions and spiritual guidance, the program encourages viewers to strengthen faith and apply Islamic values in everyday life.</desc>
-    <icon src="https://www.visionplus.id/images/repository/525/525525-POSTER-l.jpg"/>
   </programme>
   <programme start="20261110150000 +0800" stop="20261110160000 +0800" channel="12.visionplus">
     <title lang="ms">Apa Kabar Indonesia Siang</title>
@@ -2058,11 +1979,6 @@
     <desc lang="ms">Each episode highlights spontaneous reactions, hilarious actions, and unique situations that entertain viewers while keeping things relatable.</desc>
     <icon src="https://www.visionplus.id/images/repository/128/571128-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110172041 +0800" stop="20261110200352 +0800" channel="19.visionplus">
-    <title lang="ms">PRINCESS CUP 2026</title>
-    <desc lang="ms">Princess Cup 2026 brings together talented U18 women's volleyball teams in a competitive battle for the championship. Thailand benefits from home-court advantage, while regional teams showcase strong attacking, defensive and tactical abilities in pursuit of the title.</desc>
-    <icon src="https://www.visionplus.id/images/repository/531/73531-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261110200352 +0800" stop="20261110222152 +0800" channel="19.visionplus">
     <title lang="ms">VNL 2026</title>
     <desc lang="ms">Enjoy thrilling matches filled with skill, teamwork, and intense competition as the players battle for victory and championship glory.</desc>
@@ -2161,11 +2077,6 @@
   <programme start="20261110200000 +0800" stop="20261110210000 +0800" channel="20.visionplus">
     <title lang="ms">NEW KELUARGA SOMAT</title>
     <desc lang="ms">FOLLOW THE EXCITING ADVENTURES OF PAK SOMAT'S FAMILY AS THEY STARTED A NEW LIFE IN CITEKO! FROM BUILDING BU INAH'S DREAM STORE, THE EXCITEMENT OF BEING NEIGHBORS WITH CEU KOKOM, TO PAK SOMAT'S STRUGGLE TO BECOME AN ONLINE MOTORCYCLE TAXI FOR THE SAKE OF HIS FAMILY. A WARM STORY FULL OF LAUGHTER AND A MORAL MESSAGE SUITABLE FOR ALL AGES.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110210000 +0800" stop="20261110220000 +0800" channel="20.visionplus">
-    <title lang="ms">BIOSKOP KELUARGA INDONESIA (PETUALANGAN SI HAKKA KECIL DI DUNIA AJAIB)</title>
-    <desc lang="ms">LITTLE HAKKA STORIES ABOUT CHILDREN AND NATURE. AH LIANG AND AMEI, TWO HAKKA SISTERS LIVING IN CHIZHU CITY, LINGNAN, FOUND AN INJURED CRANE ON THE SLOPE OF UNCLE MAN'S BEEF GARDEN AND DECIDED TO SAVE IT. DURING THE THRILLING RESCUE, THE CHILDREN ACCIDENTALLY DISCOVERED A THOUSAND-YEAR-OLD SECRET OF THE HAKKA ANCESTORS AND FOREST ANIMALS.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
   <programme start="20261110220000 +0800" stop="20261110233000 +0800" channel="20.visionplus">
@@ -2496,11 +2407,6 @@
     <desc lang="ms">Showbiz is filled with serial cheaters and stories often involve shocking and outlandish behaviors. Watch this video to find out about these 4 celebrities who are serial cheaters.</desc>
     <icon src="https://www.visionplus.id/images/repository/735/273735-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110235200 +0800" stop="20261111012400 +0800" channel="36.visionplus">
-    <title lang="ms">Hostile Territory</title>
-    <desc lang="ms">In post-civil war America, when a Union soldier is presumed dead, his children are mistakenly sent away on the orphan train. This is a wild-west story of people uniting for the greater good, and children forced to grow up quickly.</desc>
-    <icon src="https://www.visionplus.id/images/repository/735/273735-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261111012400 +0800" stop="20261111013400 +0800" channel="36.visionplus">
     <title lang="ms">24 Hours With Sofia Carson</title>
     <desc lang="ms">It’s all about fashion, philanthropy, and a few tourist attractions. Watch as singer Sofia Carson spends her day walking Brooklyn Bridge in the snow and ice skating before heading out to the UNICEF Snowflake Ball.</desc>
@@ -2587,25 +2493,10 @@
     <desc lang="ms">Presented in a fun and curious style, each episode showcases remarkable home innovations while delivering educational entertainment for the whole family.</desc>
     <icon src="https://www.visionplus.id/images/repository/684/525684-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110175100 +0800" stop="20261110194400 +0800" channel="37.visionplus">
-    <title lang="ms">The Donkey King (Buddy Star)</title>
-    <desc lang="ms">When the ruler of Azad City suddenly renounces the throne, a down-on-his-luck donkey wins the nation's first election, and is crowned The Donkey King.</desc>
-    <icon src="https://www.visionplus.id/images/repository/631/838631-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110194400 +0800" stop="20261110212600 +0800" channel="37.visionplus">
-    <title lang="ms">First Dog (Buddy Star)</title>
-    <desc lang="ms">A foster boy is befriended by a lost dog who turns out to belong to the President of the United States. The boy decides to run away from the foster home to return the canine to the White House.</desc>
-    <icon src="https://www.visionplus.id/images/repository/752/838752-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261110212600 +0800" stop="20261110230200 +0800" channel="37.visionplus">
     <title lang="ms">Space Racers</title>
     <desc lang="ms">Join the students at Stardust Space Academy, while they go on missions to learn new facts while having fun. With engaging and fun characters the leader of the Space Racers, and Hawk.</desc>
     <icon src="https://www.visionplus.id/images/repository/071/759071-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110230200 +0800" stop="20261111004500 +0800" channel="37.visionplus">
-    <title lang="ms">The Snow Queen (Buddy Star)</title>
-    <desc lang="ms">When the Snow Queen, a lonely and powerful fairy, kidnaps the human boy Kay, his best friend Gerda must overcome many obstacles on her journey to rescue him.</desc>
-    <icon src="https://www.visionplus.id/images/repository/643/838643-POSTER-l.jpg"/>
   </programme>
   <programme start="20261111004500 +0800" stop="20261111024400 +0800" channel="37.visionplus">
     <title lang="ms">Song Of The Sea</title>
@@ -2733,11 +2624,6 @@
   <programme start="20261111005100 +0800" stop="20261111025800 +0800" channel="39.visionplus">
     <title lang="ms">Even Money</title>
     <desc lang="ms">Gambling addiction bring the stories of three otherwise unconnected people together as it destroys each of their lives.</desc>
-  </programme>
-  <programme start="20261111025800 +0800" stop="20261111045400 +0800" channel="39.visionplus">
-    <title lang="ms">Little Boy</title>
-    <desc lang="ms">An eight-year-old boy is willing to do whatever it takes to end World War II so he can bring his father home.</desc>
-    <icon src="https://www.visionplus.id/images/repository/815/273815-POSTER-l.jpg"/>
   </programme>
   <programme start="20261111045400 +0800" stop="20261111065400 +0800" channel="39.visionplus">
     <title lang="ms">Blueback</title>
@@ -2918,16 +2804,6 @@
     <desc lang="ms">A private detective is swept up in the hunt for a priceless statuette after his partner is murdered in a seemingly ordinary tailing job.</desc>
     <icon src="https://www.visionplus.id/images/repository/573/525573-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110200000 +0800" stop="20261110223000 +0800" channel="42.visionplus">
-    <title lang="ms">The Perfect Storm (Hits Movies)</title>
-    <desc lang="ms">An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.</desc>
-    <icon src="https://www.visionplus.id/images/repository/003/839003-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110223000 +0800" stop="20261111004500 +0800" channel="42.visionplus">
-    <title lang="ms">The Frighteners (Hits Movies)</title>
-    <desc lang="ms">After a tragic car accident that kills his wife, a man discovers he can communicate with the dead, and he uses that gift to con people. However, when a demonic spirit appears, he may be the only one who can stop it from killing the living and the dead.</desc>
-    <icon src="https://www.visionplus.id/images/repository/007/839007-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261111004500 +0800" stop="20261111030000 +0800" channel="42.visionplus">
     <title lang="ms">Meet The Fockers</title>
     <desc lang="ms">All hell breaks loose when the Byrnes family meets the Focker family for the first time.</desc>
@@ -2982,16 +2858,6 @@
     <title lang="ms">Mother Vs Mother</title>
     <desc lang="ms">Guan De Xing fell in love with Li Xiao Yun when he was young, but was opposed by his mother and had to marry Zhou Shen Yu. Since then, Li holds a grudge against Zhou.</desc>
     <icon src="https://www.visionplus.id/images/repository/319/78319-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110192500 +0800" stop="20261110210000 +0800" channel="44.visionplus">
-    <title lang="ms">Shark Busters (Celestial Movies)</title>
-    <desc lang="ms">Hit by a media storm over his own mounting debts, a police officer leads an investigation against the loan sharks behind a sinister credit scheme.</desc>
-    <icon src="https://www.visionplus.id/images/repository/823/838823-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110210000 +0800" stop="20261110231500 +0800" channel="44.visionplus">
-    <title lang="ms">Let The Bullets Fly (Celestial Movies)</title>
-    <desc lang="ms">In 1920s China, a bandit arrives in a remote provincial town posing as its new mayor, where he faces off against a tyrannical local nobleman.</desc>
-    <icon src="https://www.visionplus.id/images/repository/841/838841-POSTER-l.jpg"/>
   </programme>
   <programme start="20261110231500 +0800" stop="20261111003500 +0800" channel="44.visionplus">
     <title lang="ms">Seeding Of A Ghost</title>
@@ -3122,25 +2988,10 @@
     <desc lang="ms">A determined homicide detective assigned to take down a ring of serial killers, has a personal motivation as one of the victims is his own brother-in-law.</desc>
     <icon src="https://www.visionplus.id/images/repository/698/28698-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110163500 +0800" stop="20261110183000 +0800" channel="46.visionplus">
-    <title lang="ms">Office (tvN Movies)</title>
-    <desc lang="ms">The investigation following a sales manager brutally killing his entire family leads to a track of mystery and tragedy in an overwhelmed work team at Seoul.</desc>
-    <icon src="https://www.visionplus.id/images/repository/343/670343-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110183000 +0800" stop="20261110202000 +0800" channel="46.visionplus">
-    <title lang="ms">Following (tvN Movies)</title>
-    <desc lang="ms">A mystery thriller about a real estate agent who secretly enters clients' homes and becomes obsessed with a deceptive social media influencer. The film explores themes of obsession, identity and the dark side of social media.</desc>
-    <icon src="https://www.visionplus.id/images/repository/680/600680-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261110202000 +0800" stop="20261110220000 +0800" channel="46.visionplus">
     <title lang="ms">The Noisy Mansion (tvN Movies)</title>
     <desc lang="ms">Geo-Wool moves out after arguing with her brother Du-On. At her new Baekse Apartment, she hears mysterious noises through the floors at 4 AM. Unable to sleep, she and her neighbors investigate the sounds' source.</desc>
     <icon src="https://www.visionplus.id/images/repository/234/730234-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110220000 +0800" stop="20261111000500 +0800" channel="46.visionplus">
-    <title lang="ms">A Melody To Remember (tvN Movies)</title>
-    <desc lang="ms">During the Korean War, Second Lieutenant Sang-Yeol encounters a group of orphans while leading his platoon. Empathizing with their pain, he makes a choir with the children to protect them.</desc>
-    <icon src="https://www.visionplus.id/images/repository/836/594836-POSTER-l.jpg"/>
   </programme>
   <programme start="20261111000500 +0800" stop="20261111020000 +0800" channel="46.visionplus">
     <title lang="ms">My Love, My Bride</title>
@@ -5099,18 +4950,6 @@
     <title lang="ms">ZooMoo's Wild Friends, Ep 56</title>
     <desc lang="ms">Flash and his friends take a look at various wildlife footage that showcase the beauty of nature and the animal kingdom.</desc>
   </programme>
-  <programme start="20261110143000 +0800" stop="20261110150000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 57</title>
-    <desc lang="ms">Flash and his friends take a look at various wildlife footage that showcase the beauty of nature and the animal kingdom.</desc>
-  </programme>
-  <programme start="20261110150000 +0800" stop="20261110153000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 58</title>
-    <desc lang="ms">Flash and his friends take a look at various wildlife footage that showcase the beauty of nature and the animal kingdom.</desc>
-  </programme>
-  <programme start="20261110153000 +0800" stop="20261110160000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 59</title>
-    <desc lang="ms">Flash and his friends take a look at various wildlife footage that showcase the beauty of nature and the animal kingdom.</desc>
-  </programme>
   <programme start="20261110160000 +0800" stop="20261110163000 +0800" channel="63.visionplus">
     <title lang="ms">ZooMoo's Wild Friends, Ep 52</title>
     <desc lang="ms">Flash and his friends take a look at various wildlife footage that showcase the beauty of nature and the animal kingdom.</desc>
@@ -5129,18 +4968,6 @@
   </programme>
   <programme start="20261110180000 +0800" stop="20261110183000 +0800" channel="63.visionplus">
     <title lang="ms">ZooMoo's Wild Friends, Ep 56</title>
-    <desc lang="ms">Flash and his friends take a look at various wildlife footage that showcase the beauty of nature and the animal kingdom.</desc>
-  </programme>
-  <programme start="20261110183000 +0800" stop="20261110190000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 57</title>
-    <desc lang="ms">Flash and his friends take a look at various wildlife footage that showcase the beauty of nature and the animal kingdom.</desc>
-  </programme>
-  <programme start="20261110190000 +0800" stop="20261110193000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 58</title>
-    <desc lang="ms">Flash and his friends take a look at various wildlife footage that showcase the beauty of nature and the animal kingdom.</desc>
-  </programme>
-  <programme start="20261110193000 +0800" stop="20261110200000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 59</title>
     <desc lang="ms">Flash and his friends take a look at various wildlife footage that showcase the beauty of nature and the animal kingdom.</desc>
   </programme>
   <programme start="20261110200000 +0800" stop="20261110201500 +0800" channel="63.visionplus">
@@ -5956,11 +5783,6 @@
     <desc lang="ms">Jay Ward's squirrel and moose duo return in this all-new series, alongside rivals Boris and Natasha and Fearless Leader.</desc>
     <icon src="https://www.visionplus.id/images/repository/694/797694-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110171500 +0800" stop="20261110174000 +0800" channel="67.visionplus">
-    <title lang="ms">The Croods: Family Tree (DreamWorks)</title>
-    <desc lang="ms">It continues the evolving story of the croods and Bettermans as they learn to live together on the most idle farm in prehistory.</desc>
-    <icon src="https://www.visionplus.id/images/repository/653/838653-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261110210000 +0800" stop="20261110212500 +0800" channel="67.visionplus">
     <title lang="ms">The Epic Tales Of Captain...</title>
     <desc lang="ms">Best friends George and Harold scheme together a number of pranks at school involving their principal, whose alter ego is a superhero they created called Captain Underpants.</desc>
@@ -6152,11 +5974,6 @@
     <desc lang="ms">In Season 2, Sheriff Mickey Fox faces new criminal threats in Edgewater while dealing with the shocking return of her long-lost mother. As dangerous investigations unfold, Mickey must balance her duties as sheriff with complicated family relationships.</desc>
     <icon src="https://www.visionplus.id/images/repository/591/612591-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110220000 +0800" stop="20261110230000 +0800" channel="68.visionplus">
-    <title lang="ms">Fire Country S5, Ep 5 (Hits Now)</title>
-    <desc lang="ms">The fifth season follows Bode and the Station 42 team as they respond to emergencies in Edgewater. The season opens during the Founders’ Day festival, when a catastrophic sinkhole opens beneath Main Street, trapping residents and triggering a high-stakes rescue.</desc>
-    <icon src="https://www.visionplus.id/images/repository/591/612591-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261110230000 +0800" stop="20261110233000 +0800" channel="68.visionplus">
     <title lang="ms">Entertainment Tonight</title>
     <desc lang="ms">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
@@ -6245,11 +6062,6 @@
   <programme start="20261110180000 +0800" stop="20261110210000 +0800" channel="72.visionplus">
     <title lang="ms">DMD Panggung Rezeki</title>
     <icon src="https://www.visionplus.id/images/repository/137/102137-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110210000 +0800" stop="20261110223000 +0800" channel="72.visionplus">
-    <title lang="ms">RCTI Music Fest</title>
-    <desc lang="ms">A music festival held on RCTI with many guest stars and top Indonesian singers.</desc>
-    <icon src="https://www.visionplus.id/images/repository/081/77081-POSTER-l.jpg"/>
   </programme>
   <programme start="20261110223000 +0800" stop="20261110233000 +0800" channel="72.visionplus">
     <title lang="ms">Dibalik Kisah Misteri</title>
@@ -6343,11 +6155,6 @@
     <desc lang="ms">A romantic comedy about Nam Da Reum, who joins a company led by former idol-turned-CEO Lee Chan, and unexpectedly finds herself in a romance with the company's boss, Kang Ha Gi.</desc>
     <icon src="https://www.visionplus.id/images/repository/378/839378-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110223000 +0800" stop="20261110235000 +0800" channel="73.visionplus">
-    <title lang="ms">Sixth Sense: B-Side, Ep 7 (tvN)</title>
-    <desc lang="ms">Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand-new season and distinguish the fake from the real.</desc>
-    <icon src="https://www.visionplus.id/images/repository/714/837714-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261110235000 +0800" stop="20261111013000 +0800" channel="73.visionplus">
     <title lang="ms">GBRB: Joy Pops Laugh..., Ep 5</title>
     <desc lang="ms">A spinoff of “GBRB Spinoff: Cafeteria Operation,” where the KKPP Food employees successfully completed their missions and earned the chance to go abroad for an insight trip to help the company grow.</desc>
@@ -6438,16 +6245,6 @@
     <title lang="ms">Live And Die In East LA</title>
     <desc lang="ms">After an E.R. doctor treats an injured boy, he is pulled into the world of gangs and street violence in the underbelly of Los Angeles.</desc>
     <icon src="https://www.visionplus.id/images/repository/541/526541-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110210000 +0800" stop="20261110223500 +0800" channel="75.visionplus">
-    <title lang="ms">The Monkey Is Back (KIX)</title>
-    <desc lang="ms">Many years later, in a fierce battle with the three-eyed God of War, Monkey King was broken and fell into the mortal world. Monkey King realizes self-salvation under the conspiracy of Mu Shen Jumang to bring disaster to the world.</desc>
-    <icon src="https://www.visionplus.id/images/repository/791/838791-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110223500 +0800" stop="20261111001000 +0800" channel="75.visionplus">
-    <title lang="ms">My Date With A Vampire (KIX)</title>
-    <desc lang="ms">Demon slayer Ma Siu Ling solves supernatural mysteries and battles evil spirits. During her investigations, she crosses paths with mysterious detective Fong, whose hidden past is tied to a dark destiny. Though distrustful at first, the two become allies and join forces to confront a terrifying evil threatening the city.</desc>
-    <icon src="https://www.visionplus.id/images/repository/809/838809-POSTER-l.jpg"/>
   </programme>
   <programme start="20261111001000 +0800" stop="20261111004000 +0800" channel="75.visionplus">
     <title lang="ms">Extreme Ends, Ep 2</title>
@@ -7060,11 +6857,6 @@
     <desc lang="ms">Rachael Ray brings you her mouth-watering Italian specialties from her very own kitchen in her Tuscan villa, utilizing the best local ingredients from the region with her own personal twists.</desc>
     <icon src="https://www.visionplus.id/images/repository/382/74382-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110134000 +0800" stop="20261110152000 +0800" channel="80.visionplus">
-    <title lang="ms">My Husband's Seven Wives</title>
-    <desc lang="ms">Maggie is shocked when she meets a woman who also claims to be married to her husband, Alan. Initially rivals, the two soon uncover a tangled web of lies as they discover Alan's history of deceiving multiple wives</desc>
-    <icon src="https://www.visionplus.id/images/repository/849/705849-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261110152000 +0800" stop="20261110154500 +0800" channel="80.visionplus">
     <title lang="ms">Pet Telling, Ep 2</title>
     <desc lang="ms">Experts employ clever methods to help pets and their owners communicate seamlessly and offer advice on how to strengthen their relationships.</desc>
@@ -7129,16 +6921,6 @@
     <title lang="ms">Dr. Pimple: Breaking S2, Ep 12</title>
     <desc lang="ms">promises to delve into the personal stories of three individuals facing unique skin challenges.</desc>
     <icon src="https://www.visionplus.id/images/repository/780/526780-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261111013500 +0800" stop="20261111023500 +0800" channel="80.visionplus">
-    <title lang="ms">Hit-And-Miss Tour S1, Ep 19</title>
-    <desc lang="ms">Five celebrity friends go on a trip together; at each stop where they must spend money, they play games to determine who covers the costs for all.</desc>
-    <icon src="https://www.visionplus.id/images/repository/780/526780-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261111023500 +0800" stop="20261111042000 +0800" channel="80.visionplus">
-    <title lang="ms">My Husband's Seven Wives</title>
-    <desc lang="ms">Maggie is shocked when she meets a woman who also claims to be married to her husband, Alan. Initially rivals, the two soon uncover a tangled web of lies as they discover Alan's history of deceiving multiple wives</desc>
-    <icon src="https://www.visionplus.id/images/repository/849/705849-POSTER-l.jpg"/>
   </programme>
   <programme start="20261111042000 +0800" stop="20261111060500 +0800" channel="80.visionplus">
     <title lang="ms">The Beach House Murders</title>
@@ -7420,11 +7202,6 @@
     <desc lang="ms">Late Night With Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
     <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261110180500 +0800" stop="20261110193000 +0800" channel="92.visionplus">
-    <title lang="ms">The Triangle, Pt 2</title>
-    <desc lang="ms">The team is taken in by the men in black and later released. Howard and Stan search for the plane crash survivor's grandfather, while Bruce and Emily look for the source of the anomalies in the Triangle. Confused Meeno becomes suicidal.</desc>
-    <icon src="https://www.visionplus.id/images/repository/061/780061-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261110193000 +0800" stop="20261110201500 +0800" channel="92.visionplus">
     <title lang="ms">The Librarians: Chapter, Ep 10</title>
     <desc lang="ms">Follows a time traveling librarian from the past that unfortunately finds himself trapped in the present. Now he will be given a team of new librarians to clean up the mess he made, releasing magic across the continent.</desc>
@@ -7539,11 +7316,6 @@
     <title lang="ms">L.A. Confidential (Rock Action)</title>
     <desc lang="ms">As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.</desc>
     <icon src="https://www.visionplus.id/images/repository/902/780902-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261110172000 +0800" stop="20261110192500 +0800" channel="93.visionplus">
-    <title lang="ms">Windows (Rock Action)</title>
-    <desc lang="ms">Seven outcasts come together in a strange demonstration in a deserted school yard. We get to visit the world and the rituals they create during bright summer nights when everyday society draws its curtains.</desc>
-    <icon src="https://www.visionplus.id/images/repository/300/526300-POSTER-l.jpg"/>
   </programme>
   <programme start="20261110192500 +0800" stop="20261110205500 +0800" channel="93.visionplus">
     <title lang="ms">Enter The Game Of Death</title>
@@ -7839,7 +7611,7 @@
   <programme start="20261111203000 +0800" stop="20261112000000 +0800" channel="02.visionplus">
     <title lang="ms">Liga Hipdut DMD Panggung Rezeki (MNCTV)</title>
     <desc lang="ms">Featuring 75 former DMD champions, this competition brings together talented dangdut singers from across Indonesia. They showcase their vocal skills and stage performances while competing for the title of champion among champions.</desc>
-    <icon src="https://www.visionplus.id/images/repository/432/525432-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/838/840838-POSTER-l.jpg"/>
   </programme>
   <programme start="20261112000000 +0800" stop="20261112030000 +0800" channel="02.visionplus">
     <title lang="ms">Suparman Reborn</title>
@@ -8002,7 +7774,12 @@
     <title lang="ms">The Prime Show (iNews)</title>
     <icon src="https://www.visionplus.id/images/repository/043/547043-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261111220000 +0800" stop="20261111230000 +0800" channel="04.visionplus">
+  <programme start="20261111220000 +0800" stop="20261111220500 +0800" channel="04.visionplus">
+    <title lang="ms">iNews Update (L)</title>
+    <desc lang="ms">A news program presenting the latest developments on important national and international events.</desc>
+    <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20261111220500 +0800" stop="20261111230000 +0800" channel="04.visionplus">
     <title lang="ms">iNews Prime (L)</title>
     <desc lang="ms">A news program from iNews that shares the latest information, reviewed in depth from various perspectives, as well as dialogues with competent sources.</desc>
     <icon src="https://www.visionplus.id/images/repository/117/526117-POSTER-l.jpg"/>
@@ -10509,7 +10286,7 @@
   <programme start="20261111174500 +0800" stop="20261111200000 +0800" channel="42.visionplus">
     <title lang="ms">The Accused (Hits Movies)</title>
     <desc lang="ms">After a young woman suffers a brutal gang rape in a bar one night, a prosecutor assists in bringing the perpetrators to justice, including the ones who encouraged and cheered on the attack.</desc>
-    <icon src="https://www.visionplus.id/images/repository/573/525573-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/859/840859-POSTER-l.jpg"/>
   </programme>
   <programme start="20261111200000 +0800" stop="20261111221500 +0800" channel="42.visionplus">
     <title lang="ms">300</title>
@@ -10997,7 +10774,7 @@
   <programme start="20261111211500 +0800" stop="20261111232000 +0800" channel="54.visionplus">
     <title lang="ms">Assault On Precinct 13 (Studio Universal)</title>
     <desc lang="ms">A highway patrol officer, two criminals, and a station secretary defend a defunct Los Angeles precinct office against a siege by a bloodthirsty street gang.</desc>
-    <icon src="https://www.visionplus.id/images/repository/526/526526-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/841/840841-POSTER-l.jpg"/>
   </programme>
   <programme start="20261111232000 +0800" stop="20261112010500 +0800" channel="54.visionplus">
     <title lang="ms">Skyscraper</title>
@@ -14256,17 +14033,17 @@
   <programme start="20261111203000 +0800" stop="20261111210000 +0800" channel="68.visionplus">
     <title lang="ms">Ghosts S5: Michael Jackson (Hits Now)</title>
     <desc lang="ms">Trevor lands himself in trouble when an inappropriate gift to a co-worker forces him into an HR meeting only Jay can handle; Pete unintentionally sparks drama with Alberta after casually mentioning a surprise visit to his ex.</desc>
-    <icon src="https://www.visionplus.id/images/repository/591/612591-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/058/840058-POSTER-l.jpg"/>
   </programme>
   <programme start="20261111210000 +0800" stop="20261111220000 +0800" channel="68.visionplus">
     <title lang="ms">FBI S9, Ep 6 (Hits Now)</title>
     <desc lang="ms">The ninth season follows the FBI’s New York team as they investigate major cases involving terrorism, organized crime, and counterintelligence. The season also explores OA’s changing role and Maggie’s new partnership as the team faces new challenges.</desc>
-    <icon src="https://www.visionplus.id/images/repository/591/612591-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/066/840066-POSTER-l.jpg"/>
   </programme>
   <programme start="20261111220000 +0800" stop="20261111230000 +0800" channel="68.visionplus">
     <title lang="ms">The Miniature Wife: Christmas (Hits Now)</title>
     <desc lang="ms">Lindy adapts to being 6 inches tall as Les attempts to find a solution to undo the shrinking.</desc>
-    <icon src="https://www.visionplus.id/images/repository/591/612591-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/080/840080-POSTER-l.jpg"/>
   </programme>
   <programme start="20261111230000 +0800" stop="20261111233000 +0800" channel="68.visionplus">
     <title lang="ms">Entertainment Tonight</title>
@@ -14914,14 +14691,9 @@
     <desc lang="ms">Jeannie and Tony are married, but their domestic life is full of magical mishaps. Jeannie's quirky spells keep causing trouble, while Tony struggles to keep their secret hidden.</desc>
     <icon src="https://www.visionplus.id/images/repository/517/20517-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261111183000 +0800" stop="20261111190000 +0800" channel="77.visionplus">
-    <title lang="ms">Frasier S8, Ep 16</title>
-    <desc lang="ms">The eighth season follows Frasier and his family in Seattle. Niles and Daphne deal with the consequences of revealing their relationship, while Frasier faces new challenges involving his career, family, and romantic life.</desc>
-    <icon src="https://www.visionplus.id/images/repository/765/526765-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261111190000 +0800" stop="20261111200000 +0800" channel="77.visionplus">
-    <title lang="ms">Mission Impossible S4, Ep 1</title>
-    <desc lang="ms">Jim Phelps, Barney Collier, Rollin Hand, Willy Armitage, Cinnamon Carter and the rest of the Impossible Mission Force are back for another exciting season -- and they always accept the mission.</desc>
+  <programme start="20261111183000 +0800" stop="20261111200000 +0800" channel="77.visionplus">
+    <title lang="ms">T. J. Hooker S1, Ep 1</title>
+    <desc lang="ms">The weekly adventures of tough-as-nails veteran police officer Sgt. T.J. Hooker, who rides the beat with his rookie partner Vince Romano.</desc>
     <icon src="https://www.visionplus.id/images/repository/517/20517-POSTER-l.jpg"/>
   </programme>
   <programme start="20261111200000 +0800" stop="20261111203000 +0800" channel="77.visionplus">
@@ -14974,24 +14746,19 @@
     <desc lang="ms">Mystery writer Jessica Fletcher (Angela Lansbury) continues solving murders in her spare time in the wildly popular television series.</desc>
     <icon src="https://www.visionplus.id/images/repository/765/526765-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261112040000 +0800" stop="20261112050000 +0800" channel="77.visionplus">
-    <title lang="ms">Mission Impossible S4, Ep 1</title>
-    <desc lang="ms">Jim Phelps, Barney Collier, Rollin Hand, Willy Armitage, Cinnamon Carter and the rest of the Impossible Mission Force are back for another exciting season -- and they always accept the mission.</desc>
+  <programme start="20261112040000 +0800" stop="20261112053000 +0800" channel="77.visionplus">
+    <title lang="ms">T. J. Hooker S1, Ep 1</title>
+    <desc lang="ms">The weekly adventures of tough-as-nails veteran police officer Sgt. T.J. Hooker, who rides the beat with his rookie partner Vince Romano.</desc>
     <icon src="https://www.visionplus.id/images/repository/517/20517-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261112050000 +0800" stop="20261112060000 +0800" channel="77.visionplus">
+  <programme start="20261112053000 +0800" stop="20261112063000 +0800" channel="77.visionplus">
     <title lang="ms">Beverly Hills 90210 S1, Ep 5</title>
     <desc lang="ms">Follows the lives of a group of friends living in the wealthy and privileged Beverly Hills area of Los Angeles, California as they transition from high school and into college and then into the adult world.</desc>
     <icon src="https://www.visionplus.id/images/repository/765/526765-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261112060000 +0800" stop="20261112070000 +0800" channel="77.visionplus">
+  <programme start="20261112063000 +0800" stop="20261112073000 +0800" channel="77.visionplus">
     <title lang="ms">Murder, She Wrote S10, Ep 7</title>
     <desc lang="ms">Mystery writer Jessica Fletcher (Angela Lansbury) continues solving murders in her spare time in the wildly popular television series.</desc>
-    <icon src="https://www.visionplus.id/images/repository/765/526765-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261112070000 +0800" stop="20261112073000 +0800" channel="77.visionplus">
-    <title lang="ms">Married With Children S4, Ep 20</title>
-    <desc lang="ms">Al is the quintessential working class dad. Peggy, his wife, always wants more from him. With their children, they go through the highs and lows of ordinary life.</desc>
     <icon src="https://www.visionplus.id/images/repository/765/526765-POSTER-l.jpg"/>
   </programme>
   <programme start="20261112073000 +0800" stop="20261112083000 +0800" channel="77.visionplus">
@@ -15958,7 +15725,7 @@
   <programme start="20261112203000 +0800" stop="20261113000000 +0800" channel="02.visionplus">
     <title lang="ms">Liga Hipdut DMD Panggung Rezeki (MNCTV)</title>
     <desc lang="ms">Featuring 75 former DMD champions, this competition brings together talented dangdut singers from across Indonesia. They showcase their vocal skills and stage performances while competing for the title of champion among champions.</desc>
-    <icon src="https://www.visionplus.id/images/repository/432/525432-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/838/840838-POSTER-l.jpg"/>
   </programme>
   <programme start="20261113000000 +0800" stop="20261113030000 +0800" channel="02.visionplus">
     <title lang="ms">Suparman Reborn</title>
@@ -18183,7 +17950,7 @@
   <programme start="20261112213000 +0800" stop="20261112233300 +0800" channel="37.visionplus">
     <title lang="ms">Family Camp (Buddy Star)</title>
     <desc lang="ms">In this faith-based comedy, when two polar-opposite families are forced to camp together, the dads struggle to hold onto their families and marriages as they compete for the coveted camp trophy.</desc>
-    <icon src="https://www.visionplus.id/images/repository/684/525684-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/561/840561-POSTER-l.jpg"/>
   </programme>
   <programme start="20261112233300 +0800" stop="20261113010700 +0800" channel="37.visionplus">
     <title lang="ms">Sox</title>
@@ -22215,7 +21982,7 @@
   <programme start="20261112223000 +0800" stop="20261113004000 +0800" channel="73.visionplus">
     <title lang="ms">World Dice Tour S4, Ep 3 (tvN)</title>
     <desc lang="ms">Travel creators Pani Bottle, Kwaktube, and Wonji explore destinations around the world determined by dice rolls. This season, they turn their adventures into travel films with celebrity partners and compete for the Golden Cloud Award.</desc>
-    <icon src="https://www.visionplus.id/images/repository/746/526746-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/472/840472-POSTER-l.jpg"/>
   </programme>
   <programme start="20261113004000 +0800" stop="20261113015500 +0800" channel="73.visionplus">
     <title lang="ms">My Bias, My Boss, Ep 9</title>
@@ -22628,20 +22395,15 @@
     <desc lang="ms">Xena, a mighty Warrior Princess with a dark past, sets out to redeem herself. She is joined by small town bard, Gabrielle. Together they journey the ancient world and fight for the greater good against ruthless Warlords and Gods.</desc>
     <icon src="https://www.visionplus.id/images/repository/765/526765-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261112093000 +0800" stop="20261112103000 +0800" channel="77.visionplus">
-    <title lang="ms">Mission Impossible S4, Ep 1</title>
-    <desc lang="ms">Jim Phelps, Barney Collier, Rollin Hand, Willy Armitage, Cinnamon Carter and the rest of the Impossible Mission Force are back for another exciting season -- and they always accept the mission.</desc>
+  <programme start="20261112093000 +0800" stop="20261112110000 +0800" channel="77.visionplus">
+    <title lang="ms">T. J. Hooker S1, Ep 1</title>
+    <desc lang="ms">The weekly adventures of tough-as-nails veteran police officer Sgt. T.J. Hooker, who rides the beat with his rookie partner Vince Romano.</desc>
     <icon src="https://www.visionplus.id/images/repository/517/20517-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261112103000 +0800" stop="20261112113000 +0800" channel="77.visionplus">
+  <programme start="20261112110000 +0800" stop="20261112120000 +0800" channel="77.visionplus">
     <title lang="ms">Beverly Hills 90210 S1, Ep 5</title>
     <desc lang="ms">Follows the lives of a group of friends living in the wealthy and privileged Beverly Hills area of Los Angeles, California as they transition from high school and into college and then into the adult world.</desc>
     <icon src="https://www.visionplus.id/images/repository/765/526765-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261112113000 +0800" stop="20261112120000 +0800" channel="77.visionplus">
-    <title lang="ms">I Dream Of Jeannie S5, Ep 8</title>
-    <desc lang="ms">Jeannie and Tony are married, but their domestic life is full of magical mishaps. Jeannie's quirky spells keep causing trouble, while Tony struggles to keep their secret hidden.</desc>
-    <icon src="https://www.visionplus.id/images/repository/517/20517-POSTER-l.jpg"/>
   </programme>
   <programme start="20261112120000 +0800" stop="20261112123000 +0800" channel="77.visionplus">
     <title lang="ms">Frasier S8, Ep 17</title>
@@ -22689,8 +22451,8 @@
     <icon src="https://www.visionplus.id/images/repository/765/526765-POSTER-l.jpg"/>
   </programme>
   <programme start="20261112190000 +0800" stop="20261112200000 +0800" channel="77.visionplus">
-    <title lang="ms">Mission Impossible S4, Ep 2</title>
-    <desc lang="ms">Jim Phelps, Barney Collier, Rollin Hand, Willy Armitage, Cinnamon Carter and the rest of the Impossible Mission Force are back for another exciting season -- and they always accept the mission.</desc>
+    <title lang="ms">T. J. Hooker S1, Ep 2</title>
+    <desc lang="ms">The weekly adventures of tough-as-nails veteran police officer Sgt. T.J. Hooker, who rides the beat with his rookie partner Vince Romano.</desc>
     <icon src="https://www.visionplus.id/images/repository/517/20517-POSTER-l.jpg"/>
   </programme>
   <programme start="20261112200000 +0800" stop="20261112203000 +0800" channel="77.visionplus">
@@ -22744,8 +22506,8 @@
     <icon src="https://www.visionplus.id/images/repository/765/526765-POSTER-l.jpg"/>
   </programme>
   <programme start="20261113040000 +0800" stop="20261113050000 +0800" channel="77.visionplus">
-    <title lang="ms">Mission Impossible S4, Ep 2</title>
-    <desc lang="ms">Jim Phelps, Barney Collier, Rollin Hand, Willy Armitage, Cinnamon Carter and the rest of the Impossible Mission Force are back for another exciting season -- and they always accept the mission.</desc>
+    <title lang="ms">T. J. Hooker S1, Ep 2</title>
+    <desc lang="ms">The weekly adventures of tough-as-nails veteran police officer Sgt. T.J. Hooker, who rides the beat with his rookie partner Vince Romano.</desc>
     <icon src="https://www.visionplus.id/images/repository/517/20517-POSTER-l.jpg"/>
   </programme>
   <programme start="20261113050000 +0800" stop="20261113060000 +0800" channel="77.visionplus">
