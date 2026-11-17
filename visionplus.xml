@@ -397,10 +397,10 @@
     <desc lang="ms">The Entong animated series tells the story of the daily life of a Betawi boy named Entong in a village. Entong's daily life involves exciting and funny competitions with two boys his age named Memed and Tibo.</desc>
     <icon src="https://www.visionplus.id/images/repository/866/790866-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117074500 +0800" stop="20261117081500 +0800" channel="04.visionplus">
-    <title lang="ms">Morning Update</title>
-    <desc lang="ms">Morning Update, presents the latest information about news, celebrities, viral content, as well as tips and lifestyle designed to provide informative and entertaining information for viewers in the morning.</desc>
-    <icon src="https://www.visionplus.id/images/repository/263/526263-POSTER-l.jpg"/>
+  <programme start="20261117080000 +0800" stop="20261117081500 +0800" channel="04.visionplus">
+    <title lang="ms">Special Report</title>
+    <desc lang="ms">Special Report is a news program that presents a variety of special news that is packaged in more detail.</desc>
+    <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
   </programme>
   <programme start="20261117081500 +0800" stop="20261117091500 +0800" channel="04.visionplus">
     <title lang="ms">iNews Room Pagi (L)</title>
@@ -456,12 +456,12 @@
     <desc lang="ms">A news program from iNews that shares the latest information, reviewed in depth from various perspectives, as well as dialogues with competent sources.</desc>
     <icon src="https://www.visionplus.id/images/repository/117/526117-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117230000 +0800" stop="20261117231500 +0800" channel="04.visionplus">
+  <programme start="20261117230000 +0800" stop="20261117231000 +0800" channel="04.visionplus">
     <title lang="ms">Breaking Goals (L)</title>
     <desc lang="ms">A live sports program featuring the latest football news, match results, top goals, and in-depth analysis from major competitions around the world.</desc>
     <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117231500 +0800" stop="20261118003000 +0800" channel="04.visionplus">
+  <programme start="20261117231000 +0800" stop="20261118003000 +0800" channel="04.visionplus">
     <title lang="ms">iNews Malam (Live)</title>
     <desc lang="ms">A daily news program that airs every night, providing information on various topics ranging from politics, law, social issues, culture, economics, and sports, both domestic and international.</desc>
     <icon src="https://www.visionplus.id/images/repository/061/526061-POSTER-l.jpg"/>
@@ -485,26 +485,16 @@
     <desc lang="ms">A daily news program that re-informs viewers of the latest news so they don't miss out on information.</desc>
     <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118030000 +0800" stop="20261118034500 +0800" channel="04.visionplus">
+  <programme start="20261118030000 +0800" stop="20261118033000 +0800" channel="04.visionplus">
     <title lang="ms">Breaking News</title>
     <icon src="https://www.visionplus.id/images/repository/525/525525-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118034500 +0800" stop="20261118043000 +0800" channel="04.visionplus">
-    <title lang="ms">Special Report</title>
-    <desc lang="ms">Special Report is a news program that presents a variety of special news that is packaged in more detail.</desc>
+  <programme start="20261118033000 +0800" stop="20261118054500 +0800" channel="04.visionplus">
+    <title lang="ms">iNews</title>
+    <desc lang="ms">A television channel that broadcasts national and regional news, providing the latest and most up-to-date information on topics such as politics, law, finance, and technology.</desc>
     <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118043000 +0800" stop="20261118050000 +0800" channel="04.visionplus">
-    <title lang="ms">Realita</title>
-    <desc lang="ms">A news program that looks at events from the angle of reality that really happened and reveals facts that have never been revealed.</desc>
-    <icon src="https://www.visionplus.id/images/repository/973/736973-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118050000 +0800" stop="20261118051500 +0800" channel="04.visionplus">
-    <title lang="ms">Realita</title>
-    <desc lang="ms">A news program that looks at events from the angle of reality that really happened and reveals facts that have never been revealed.</desc>
-    <icon src="https://www.visionplus.id/images/repository/973/736973-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118051500 +0800" stop="20261118070000 +0800" channel="04.visionplus">
+  <programme start="20261118054500 +0800" stop="20261118070000 +0800" channel="04.visionplus">
     <title lang="ms">Inews Pagi (Live)</title>
     <desc lang="ms">A daily news program broadcast every morning, providing information on various topics ranging from political, legal, social, cultural, economic, and sports events, both domestic and international.</desc>
     <icon src="https://www.visionplus.id/images/repository/009/526009-POSTER-l.jpg"/>
@@ -738,10 +728,6 @@
     <desc lang="ms">This event marks one of the highlights of the WorldSBK season, featuring the world's top riders battling at a legendary venue.</desc>
     <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117143000 +0800" stop="20261117151500 +0800" channel="07.visionplus">
-    <title lang="ms">Indonesiaku</title>
-    <icon src="https://www.visionplus.id/images/repository/515/525515-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117151500 +0800" stop="20261117154500 +0800" channel="07.visionplus">
     <title lang="ms">Redaksi</title>
     <desc lang="ms">Riders push their limits to secure leading positions and crucial championship points. With Marc Márquez leading the standings and Francesco Bagnaia aiming to maintain his dominance at Jerez, this race serves as a testament to strategy and resilience.</desc>
@@ -850,16 +836,6 @@
     <desc lang="ms">Event program around the holidays.</desc>
     <icon src="https://www.visionplus.id/images/repository/558/543558-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117093000 +0800" stop="20261117110000 +0800" channel="08.visionplus">
-    <title lang="ms">Gara-Gara Bakso Jadi I Love You</title>
-    <desc lang="ms">What happens when Alya, a meatball seller, starts dating Revan, a famous boy band member who is always in the media spotlight? Surprisingly, their relationship receives positive responses from netizens, even though they are only pretending to be a couple.</desc>
-    <icon src="https://www.visionplus.id/images/repository/972/570972-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117110000 +0800" stop="20261117130000 +0800" channel="08.visionplus">
-    <title lang="ms">ART Pemersatu Duda Baperan</title>
-    <desc lang="ms">A television film that tells a romantic story of life with interesting conflicts.</desc>
-    <icon src="https://www.visionplus.id/images/repository/972/570972-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117130000 +0800" stop="20261117133000 +0800" channel="08.visionplus">
     <title lang="ms">Liputan 6 Siang (L)</title>
     <desc lang="ms">A news program that presents a collection of current reports from within the country and abroad.</desc>
@@ -893,16 +869,6 @@
   <programme start="20261117223000 +0800" stop="20261118000000 +0800" channel="08.visionplus">
     <title lang="ms">Kesetiaan</title>
     <desc lang="ms">A television film that tells a romantic story of life with interesting conflicts.</desc>
-    <icon src="https://www.visionplus.id/images/repository/972/570972-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118000000 +0800" stop="20261118013000 +0800" channel="08.visionplus">
-    <title lang="ms">From Gado-Gado To Milyuner</title>
-    <desc lang="ms">A television film that tells a romantic story of life with interesting conflicts.</desc>
-    <icon src="https://www.visionplus.id/images/repository/972/570972-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118013000 +0800" stop="20261118024500 +0800" channel="08.visionplus">
-    <title lang="ms">Rute Cinta No.23</title>
-    <desc lang="ms">Nadia, a beautiful Metromini bus conductor, catches the attention of Adit, a high school student. Although she initially thinks his feelings are just a joke, Adit keeps trying to win her heart. Will their love find a way?</desc>
     <icon src="https://www.visionplus.id/images/repository/972/570972-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118024500 +0800" stop="20261118040000 +0800" channel="08.visionplus">
@@ -1014,11 +980,6 @@
     <desc lang="ms">Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
     <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117103000 +0800" stop="20261117140000 +0800" channel="10.visionplus">
-    <title lang="ms">Baaghi 3</title>
-    <desc lang="ms">A man embarks on a bloody rampage to save his kidnapped brother.</desc>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117140000 +0800" stop="20261117153000 +0800" channel="10.visionplus">
     <title lang="ms">Jhanak</title>
     <desc lang="ms">Setelah kematian ibunya, Jhanak terpaksa menikahi tunangan sepupunya Arshi, Aniruddh, untuk melarikan diri dari penguntitnya, Tejas. Meskipun Aniruddh dan Arshi telah bersama selama tujuh tahun, Jhanak memasuki kehidupan mereka dalam keadaan yang menyedihkan dan mulai bekerja sebagai pembantu di rumah tangga Bose. Sementara beberapa anggota keluarga memperlakukannya dengan baik, yang lain terus-menerus menghina dan meremehkannya.</desc>
@@ -1034,23 +995,8 @@
     <desc lang="ms">A miraculous shape-shifting serpent has the power to become a human. She can be anybody she wants: a wife, a seductress, a mistress, a damsel in distress--all for the sake of revenge.</desc>
     <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117184500 +0800" stop="20261117211500 +0800" channel="10.visionplus">
-    <title lang="ms">Kemilau Cinta Di Langit Jingga</title>
-    <desc lang="ms">Rhoma Irama and his girlfriend Aida (Yati Octavia) are hired to make a film by Leo (Harun Syarief) and his henchman Richard (Hendra Cipta), while at the same time Rhoma himself is also holding several performances in the same city. Leo is part of a criminal syndicate. For him, the film is a cover for his criminal activities. Richard, who is still in love with Aida, tries to separate Rhoma from Aida</desc>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117211500 +0800" stop="20261117223000 +0800" channel="10.visionplus">
     <title lang="ms">Alas Roban The Series</title>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117223000 +0800" stop="20261118004500 +0800" channel="10.visionplus">
-    <title lang="ms">Gengsi Dong</title>
-    <desc lang="ms">Starring Dono, Kasino, Indro, and Camelia Malik. Wealthy tobacco merchant's son, oil tycoon's son and car workshop owner's son fall in love with Rika, a lecturer's daughter.</desc>
-    <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118004500 +0800" stop="20261118023000 +0800" channel="10.visionplus">
-    <title lang="ms">Royal Warriors</title>
-    <desc lang="ms">Michelle Yip of the Hong Kong police is a mild-mannered Kung Fu expert; Michael Wong, from Air Security, is a happy-go-lucky guy, trapped in himself, constantly talking, and in love with it; Yamamoto is quiet, stubborn, leaving the Tokyo police to spend time with his wife and daughter. They form an alliance when they thwart a hijacking on a plane holding mafia prisoners from Tokyo to Hong Kong.</desc>
     <icon src="https://www.visionplus.id/images/repository/070/587070-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118023000 +0800" stop="20261118033000 +0800" channel="10.visionplus">
@@ -1746,11 +1692,6 @@
     <desc lang="ms">Jendela Nusantara on BTV showcases Indonesia’s diverse cultures, traditions, and regional potential, highlighting natural beauty and local wisdom that enrich national insight.</desc>
     <icon src="https://www.visionplus.id/images/repository/601/526601-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117113000 +0800" stop="20261117120000 +0800" channel="15.visionplus">
-    <title lang="ms">Indonesia Update Cerita IDN</title>
-    <desc lang="ms">Indonesia Update Cerita IDN delivers news and inspiring stories from across the nation, highlighting current issues, community perspectives, and Indonesia’s dynamic social landscape.</desc>
-    <icon src="https://www.visionplus.id/images/repository/601/526601-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117120000 +0800" stop="20261117130000 +0800" channel="15.visionplus">
     <title lang="ms">Berita Satu Siang</title>
     <desc lang="ms">A daytime news Program that presents current and actual news from a well thought out and verified point of view from the right source.</desc>
@@ -2092,11 +2033,6 @@
     <desc lang="ms">FOLLOW THE EXCITING ADVENTURES OF PAK SOMAT'S FAMILY AS THEY STARTED A NEW LIFE IN CITEKO! FROM BUILDING BU INAH'S DREAM STORE, THE EXCITEMENT OF BEING NEIGHBORS WITH CEU KOKOM, TO PAK SOMAT'S STRUGGLE TO BECOME AN ONLINE MOTORCYCLE TAXI FOR THE SAKE OF HIS FAMILY. A WARM STORY FULL OF LAUGHTER AND A MORAL MESSAGE SUITABLE FOR ALL AGES.</desc>
     <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117210000 +0800" stop="20261117220000 +0800" channel="20.visionplus">
-    <title lang="ms">BIOSKOP KELUARGA INDONESIA (MOOBOO: MISI PENJELAJAHAN MISTERI DUNIA YANG HILANG)</title>
-    <desc lang="ms">DOUDING AND HIS FRIENDS, KELE, KENUO, AND SHITOU, USE THE MAGICAL POWERS OF THE MOOBOO ARMOR TO FORM THE "MOOBOO COPS." THEY COURAGEOUSLY AND WISELY FIGHT THE EVIL SCIENTIST, DR. BEAN COUNTER, TO PROTECT THEIR HOMELAND, LITTLE ROCK TOWN.</desc>
-    <icon src="https://www.visionplus.id/images/repository/159/571159-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117220000 +0800" stop="20261118000000 +0800" channel="20.visionplus">
     <title lang="ms">KELUARGA SOMAT</title>
     <desc lang="ms">THE SOMAT FAMILY TELLS THAT WE MUST LIVE SIDE BY SIDE AND HELP EACH OTHER AS A COMMUNITY AND AS STUDENTS.</desc>
@@ -2338,10 +2274,6 @@
     <desc lang="ms">"Harry Potter" star Daniel Radcliffe plays ping pong with us and answers 73 questions, including "Whats something you know about Harry Potter that no one else does?"</desc>
     <icon src="https://www.visionplus.id/images/repository/735/273735-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117100900 +0800" stop="20261117114800 +0800" channel="36.visionplus">
-    <title lang="ms">Above The Shadows</title>
-    <desc lang="ms">A young woman who has faded to the point of becoming invisible must find her way back with the help of the one man who can see h</desc>
-  </programme>
   <programme start="20261117114800 +0800" stop="20261117115400 +0800" channel="36.visionplus">
     <title lang="ms">73 Questions With D. Radcliffe</title>
     <desc lang="ms">"Harry Potter" star Daniel Radcliffe plays ping pong with us and answers 73 questions, including "Whats something you know about Harry Potter that no one else does?"</desc>
@@ -2352,10 +2284,6 @@
     <desc lang="ms">It’s all about fashion, philanthropy, and a few tourist attractions. Watch as singer Sofia Carson spends her day walking Brooklyn Bridge in the snow and ice skating before heading out to the UNICEF Snowflake Ball.</desc>
     <icon src="https://www.visionplus.id/images/repository/735/273735-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117120400 +0800" stop="20261117133100 +0800" channel="36.visionplus">
-    <title lang="ms">The Holiday Dating Guide</title>
-    <desc lang="ms">Dating coach and aspiring book author Abigale Slater is tasked by her publisher Jack to prove that her dating advice really works. With that, she decides to make a man fall for her by Christmas Eve in 12 days.</desc>
-  </programme>
   <programme start="20261117133100 +0800" stop="20261117133900 +0800" channel="36.visionplus">
     <title lang="ms">73 Questions With Hailey Bieber</title>
     <desc lang="ms">While model Hailey Bieber gets ready to shoot her Vogue cover, she answers 73 intriguing questions. Hailey talks about planning her wedding with Justin Bieber, her desire to learn the Shake Shack secret sauce recipe, and (almost!) shows us how to open up a beer with your teeth.</desc>
@@ -2365,10 +2293,6 @@
     <title lang="ms">4 Celebrities: Serial Cheaters</title>
     <desc lang="ms">Showbiz is filled with serial cheaters and stories often involve shocking and outlandish behaviors. Watch this video to find out about these 4 celebrities who are serial cheaters.</desc>
     <icon src="https://www.visionplus.id/images/repository/735/273735-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117134300 +0800" stop="20261117151800 +0800" channel="36.visionplus">
-    <title lang="ms">Grand Isle</title>
-    <desc lang="ms">A young father is charged with murder and must prove his innocence by recalling a very twisted and dark night of events.</desc>
   </programme>
   <programme start="20261117151800 +0800" stop="20261117152000 +0800" channel="36.visionplus">
     <title lang="ms">24 Hours With Cole Sprouse</title>
@@ -2424,10 +2348,6 @@
     <desc lang="ms">Actress Gina Rodriguez invites Vogue into her room at The Jeremy West Hollywood and answers 73 questions. In this episode, presented by the Google Assistant, Gina talks about the premiere of her new movie "Ferdinand," managing her busy schedule, and the causes most important to her.</desc>
     <icon src="https://www.visionplus.id/images/repository/735/273735-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117224600 +0800" stop="20261118001600 +0800" channel="36.visionplus">
-    <title lang="ms">Homewrecker</title>
-    <desc lang="ms">Two women befriend each other, but one becomes obsessed with the other.</desc>
-  </programme>
   <programme start="20261118001600 +0800" stop="20261118002200 +0800" channel="36.visionplus">
     <title lang="ms">24 Hours With Burna Boy</title>
     <desc lang="ms">What does a day in the life of Burna Boy look like? It starts with plenty of water and a bowl of his limited edition Burna Boy Space Puffs cereal. Burna Boy wakes up to a press shoot in Lagos before boarding a jet to London to promote his new album, ending with a performance on the Tonight Show with Jimmy Fallon.</desc>
@@ -2452,10 +2372,6 @@
     <desc lang="ms">How did Katy Perry, the ultimate California girl, transform into an avant-garde fashion siren for the Met Gala? This behind-the-scenes video gives a glimpse at everything it took to go from private jet to after-party, including her gala performance of “Bon Appétit” with Migos.</desc>
     <icon src="https://www.visionplus.id/images/repository/735/273735-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118021100 +0800" stop="20261118034200 +0800" channel="36.visionplus">
-    <title lang="ms">Sorority Secrets</title>
-    <desc lang="ms">When Sorority sisters start dying, one member takes is upon herself to get to the bottom of the mystery.</desc>
-  </programme>
   <programme start="20261118034200 +0800" stop="20261118035400 +0800" channel="36.visionplus">
     <title lang="ms">73 Questions With Gal Gadot</title>
     <desc lang="ms">Gal Gadot sips tea on a rooftop in Los Angeles before her Vogue cover shoot and answers 73 rapid-fire questions. While getting fit for the shoot, the Israeli actress talks about her upcoming blockbuster film, Wonder Woman 1984, her current obsession with Dua Lipa, and how she met her husband.</desc>
@@ -2465,10 +2381,6 @@
     <title lang="ms">73 Questions With G. Rodriguez</title>
     <desc lang="ms">Actress Gina Rodriguez invites Vogue into her room at The Jeremy West Hollywood and answers 73 questions. In this episode, presented by the Google Assistant, Gina talks about the premiere of her new movie "Ferdinand," managing her busy schedule, and the causes most important to her.</desc>
     <icon src="https://www.visionplus.id/images/repository/735/273735-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118040200 +0800" stop="20261118053600 +0800" channel="36.visionplus">
-    <title lang="ms">God Where Are You</title>
-    <desc lang="ms">Sonny Boone was a fighter who had everything, then lost it. He blamed God for all of his troubles and asked WHY bad things happened to him? His ultimate question: God Where Are You?</desc>
   </programme>
   <programme start="20261118053600 +0800" stop="20261118054400 +0800" channel="36.visionplus">
     <title lang="ms">73 Questions With Emily Blunt</title>
@@ -2537,16 +2449,6 @@
     <title lang="ms">Finnick (Buddy Star)</title>
     <desc lang="ms">Finnick is a young Finn, who doesn't seem to care about his responsibility of making a home out of his house. Everything changes when a new family comes to his house and Finnick's tricks do not work at all.</desc>
     <icon src="https://www.visionplus.id/images/repository/448/842448-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117202100 +0800" stop="20261117221400 +0800" channel="37.visionplus">
-    <title lang="ms">House Of Wonder (Buddy Star)</title>
-    <desc lang="ms">House Of Wonder takes viewers on a journey through unique and extraordinary homes built with creative concepts and unusual materials.</desc>
-    <icon src="https://www.visionplus.id/images/repository/684/525684-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117221400 +0800" stop="20261117235500 +0800" channel="37.visionplus">
-    <title lang="ms">Timecrafters: Pirate's Cove (Buddy Star)</title>
-    <desc lang="ms">While searching for lost treasure, time traveling pirates end up in the modern day and do battle with unlikely foes: a group of kids with the latest in techy gadgetry.</desc>
-    <icon src="https://www.visionplus.id/images/repository/684/525684-POSTER-l.jpg"/>
   </programme>
   <programme start="20261117235500 +0800" stop="20261118014200 +0800" channel="37.visionplus">
     <title lang="ms">Space Racers</title>
@@ -2634,18 +2536,9 @@
     <title lang="ms">The Amazing Mr. Blunden</title>
     <desc lang="ms">For modern teenagers Lucy and Jamie, adventure arrives in the form of a mysterious old man with a job offer - as caretakers to a ruined old house that's said to be haunted. With his help, Lucy and Jamie must travel back in time to 1821.</desc>
   </programme>
-  <programme start="20261117090900 +0800" stop="20261117104600 +0800" channel="39.visionplus">
-    <title lang="ms">Clowntergeist</title>
-    <desc lang="ms">Emma, a college student with a crippling fear of clowns, must come face to face with her worst fear when an evil spirit in the body of a clown is summoned terrorizing the town she calls home.</desc>
-    <icon src="https://www.visionplus.id/images/repository/815/273815-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117104600 +0800" stop="20261117124300 +0800" channel="39.visionplus">
     <title lang="ms">Lost Souls: The Return</title>
     <desc lang="ms">The Return is the second single from Lost Souls.</desc>
-  </programme>
-  <programme start="20261117124300 +0800" stop="20261117144100 +0800" channel="39.visionplus">
-    <title lang="ms">The Girl Who Invented Kissing</title>
-    <desc lang="ms">A nameless, pill-popping drifter girl steps off a bus and into a neighborhood bar owned by two middle-age brothers.</desc>
   </programme>
   <programme start="20261117144100 +0800" stop="20261117162400 +0800" channel="39.visionplus">
     <title lang="ms">Deadly Secrets: The Confession</title>
@@ -2659,26 +2552,9 @@
     <desc lang="ms">Connor Connolly has one day to pay reparations to Tyrone Pettis. He is forced to ask his old military ops crew, led by Brice Mason, to come together to get him two million dollars before he loses everyone he loves in the process.</desc>
     <icon src="https://www.visionplus.id/images/repository/719/273719-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117195700 +0800" stop="20261117215000 +0800" channel="39.visionplus">
-    <title lang="ms">A Daughter's Revenge</title>
-    <desc lang="ms">Elle Spencer has devised a terrifying plan. Soon her friend, Anna Bellcroft will be released from jail, where she served time for a DUI. Anna has nothing. No family, no money, no job...BUT Elle is there for her</desc>
-  </programme>
-  <programme start="20261117215000 +0800" stop="20261117232400 +0800" channel="39.visionplus">
-    <title lang="ms">Baby Bulldog</title>
-    <desc lang="ms">Animal-lover Amber desperately wants a dog to love. When she falls for Shadow, she takes on her family and city hall to fight for her new best friend in a race against the clock.</desc>
-  </programme>
-  <programme start="20261117232400 +0800" stop="20261118012300 +0800" channel="39.visionplus">
-    <title lang="ms">The Iceman</title>
-    <desc lang="ms">The story of Richard Kuklinski, the notorious contract killer and family man. When he was finally arrested in 1986, neither his wife nor his daughters had any clue about his real profession.</desc>
-    <icon src="https://www.visionplus.id/images/repository/815/273815-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261118012300 +0800" stop="20261118033100 +0800" channel="39.visionplus">
     <title lang="ms">Lost Souls: The Return</title>
     <desc lang="ms">The Return is the second single from Lost Souls.</desc>
-  </programme>
-  <programme start="20261118033100 +0800" stop="20261118052300 +0800" channel="39.visionplus">
-    <title lang="ms">A Daughter's Revenge</title>
-    <desc lang="ms">Elle Spencer has devised a terrifying plan. Soon her friend, Anna Bellcroft will be released from jail, where she served time for a DUI. Anna has nothing. No family, no money, no job...BUT Elle is there for her</desc>
   </programme>
   <programme start="20261118052300 +0800" stop="20261118070900 +0800" channel="39.visionplus">
     <title lang="ms">Deadly Secrets: The Confession</title>
@@ -2695,17 +2571,9 @@
     <title lang="ms">Viking Quest</title>
     <desc lang="ms">A young peasant boy is taken from his home by Viking raiders and raised as one of them. But when a legendary dragon attacks his clan, he discovers that he is the Viking hero destined to stop the dragons from destroying the world.</desc>
   </programme>
-  <programme start="20261117102000 +0800" stop="20261117121900 +0800" channel="40.visionplus">
-    <title lang="ms">Kickboxer Retaliation</title>
-    <desc lang="ms">Right after winning a fight in Las Vegas, Kurt Sloane is sedated and taken to a prison in Bangkok, where he's forced to fight a 6'10" giant for freedom and $1M - but this will require some intense training</desc>
-  </programme>
   <programme start="20261117121900 +0800" stop="20261117141200 +0800" channel="40.visionplus">
     <title lang="ms">Death Squad</title>
     <desc lang="ms">When all communication is severed with a clandestine scientific research facility located in a former Soviet biochemical laboratory, a private military company is formed to enter the facility to find and extract the lead doctor.</desc>
-  </programme>
-  <programme start="20261117141200 +0800" stop="20261117160800 +0800" channel="40.visionplus">
-    <title lang="ms">London Calling</title>
-    <desc lang="ms">After fleeing the UK from a job gone wrong, a down on his luck hitman is forced to babysit the son of his new crime boss and show him how to become a man.</desc>
   </programme>
   <programme start="20261117160800 +0800" stop="20261117175200 +0800" channel="40.visionplus">
     <title lang="ms">The System</title>
@@ -2873,21 +2741,6 @@
     <desc lang="ms">To save her ill son, a field mouse must seek the aid of a colony of rats, with whom she has a deeper link than she suspected.</desc>
     <icon src="https://www.visionplus.id/images/repository/573/525573-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117200000 +0800" stop="20261117224500 +0800" channel="42.visionplus">
-    <title lang="ms">Goodfellas (Hits Movies)</title>
-    <desc lang="ms">The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.</desc>
-    <icon src="https://www.visionplus.id/images/repository/411/820411-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117224500 +0800" stop="20261118010000 +0800" channel="42.visionplus">
-    <title lang="ms">The Ring (Hits Movies)</title>
-    <desc lang="ms">A journalist must investigate a mysterious videotape which seems to cause the death of anyone one week to the day after they view it.</desc>
-    <icon src="https://www.visionplus.id/images/repository/573/824573-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118010000 +0800" stop="20261118040000 +0800" channel="42.visionplus">
-    <title lang="ms">Anatomy Of A Murder</title>
-    <desc lang="ms">An upstate Michigan lawyer defends a soldier who claims he killed an innkeeper due to temporary insanity after the victim raped his wife. What is the truth and will he win his case?</desc>
-    <icon src="https://www.visionplus.id/images/repository/573/525573-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261118040000 +0800" stop="20261118054500 +0800" channel="42.visionplus">
     <title lang="ms">The Secret Of NIMH</title>
     <desc lang="ms">To save her ill son, a field mouse must seek the aid of a colony of rats, with whom she has a deeper link than she suspected.</desc>
@@ -2923,16 +2776,6 @@
     <desc lang="ms">As a man leaves his wife and daughter, a series of brief conversations, observed gestures, chance encounters and impulsive acts, tell the story of the relationships that flounder and thrive in the wake of this decision.</desc>
     <icon src="https://www.visionplus.id/images/repository/676/354676-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117161500 +0800" stop="20261117174500 +0800" channel="44.visionplus">
-    <title lang="ms">Sixty Million Dollar Man (Celestial Movies)</title>
-    <desc lang="ms">A rich playboy gets blown up by a gangster when he flirts with the gangster's wife. Through a series of circumstances, his professor makes him a synthetic body that allows him to change into anything he wants.</desc>
-    <icon src="https://www.visionplus.id/images/repository/337/842337-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117174500 +0800" stop="20261117193000 +0800" channel="44.visionplus">
-    <title lang="ms">Infernal Affairs</title>
-    <desc lang="ms">Ming is a mole in the police department and Yan is a police mole in the Triads. Leading parallel lives, Ming and Yan are feeling increasingly trapped in their false surroundings and they're desperate to find a way out.</desc>
-    <icon src="https://www.visionplus.id/images/repository/319/78319-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117193000 +0800" stop="20261117210000 +0800" channel="44.visionplus">
     <title lang="ms">Mr. Virgin</title>
     <desc lang="ms">When a young man ignores a feng shui master's warning and decides to marry before turning 30, a series of mishaps begins to curse his life.</desc>
@@ -2942,11 +2785,6 @@
     <title lang="ms">Oily Maniac</title>
     <desc lang="ms">A frustrated young man afflicted with polio works as a paralegal for a corrupt lawyer. He gets passed onto him the technique for a strange power by a dying man, which turns him into an oil based superhero/villain.</desc>
     <icon src="https://www.visionplus.id/images/repository/557/525557-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117222500 +0800" stop="20261118000000 +0800" channel="44.visionplus">
-    <title lang="ms">My School Mate, The Barbarian (Celestial Movies)</title>
-    <desc lang="ms">A brainy private school student is transferred to a far less elite institution, where he must fend off classmates who settle scores with fistfights.</desc>
-    <icon src="https://www.visionplus.id/images/repository/359/842359-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118000000 +0800" stop="20261118013000 +0800" channel="44.visionplus">
     <title lang="ms">Mr. Vampire 2</title>
@@ -2998,11 +2836,6 @@
     <desc lang="ms">Three buddies find a rare artifact known as the Double-Faced God but are poisoned by Lady Wu who steals the treasure from them. Before they die, they get their wives to promise to train their children to take it back.</desc>
     <icon src="https://www.visionplus.id/images/repository/051/77051-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117155000 +0800" stop="20261117172000 +0800" channel="45.visionplus">
-    <title lang="ms">Village Of Tigers</title>
-    <desc lang="ms">The devilish residents of the Village of Tigers, led by Hu Jiao, plan to kill Lo Hong Shun, otherwise known as the heroic Sword of the Southern Sky.</desc>
-    <icon src="https://www.visionplus.id/images/repository/051/77051-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117172000 +0800" stop="20261117192000 +0800" channel="45.visionplus">
     <title lang="ms">The Blue And The Black Part 2</title>
     <desc lang="ms">War and time change everything. Their love becomes more than reunion, it becomes a reckoning with what was and what could've been.</desc>
@@ -3037,10 +2870,6 @@
     <desc lang="ms">Lo Wei helms this poetic romance that proves a perfect showcase for Ivy Ling Po's incredible talents, as a young scholar manipulated into marrying a nobleman's reluctant daughter.</desc>
     <icon src="https://www.visionplus.id/images/repository/051/77051-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118054500 +0800" stop="20261118073500 +0800" channel="45.visionplus">
-    <title lang="ms">Return Of The Sentimental...</title>
-    <icon src="https://www.visionplus.id/images/repository/051/77051-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261118073500 +0800" stop="20261118090500 +0800" channel="45.visionplus">
     <title lang="ms">The Land Of Many Perfumes</title>
     <desc lang="ms">Monk Tang San Zang, Monkey, Pigsy and Sha Wu Jing find themselves in Womanland, where women give birth to baby girls by drinking the magical spring water.</desc>
@@ -3066,26 +2895,6 @@
     <desc lang="ms">After a stabbing, Do Kyung rushes her unconscious sister to a hospital. As police investigate, hidden identities and shocking connections turn the case into a baffling mystery.</desc>
     <icon src="https://www.visionplus.id/images/repository/638/526638-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117160500 +0800" stop="20261117182500 +0800" channel="46.visionplus">
-    <title lang="ms">Cobweb (tvN Movies)</title>
-    <desc lang="ms">After completing his new film, a director has vivid dreams of an alternate ending. Convinced that these scenes will create a masterpiece, he tries to schedule two extra days of shooting, but the production descends into chaos.</desc>
-    <icon src="https://www.visionplus.id/images/repository/784/570784-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117182500 +0800" stop="20261117202500 +0800" channel="46.visionplus">
-    <title lang="ms">My Puppy (tvN Movies)</title>
-    <desc lang="ms">A groom-to-be sets off with his friend to finding a new owner for his puppy.</desc>
-    <icon src="https://www.visionplus.id/images/repository/974/627974-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117202500 +0800" stop="20261117220000 +0800" channel="46.visionplus">
-    <title lang="ms">Fist &amp; Furious (tvN Movies)</title>
-    <desc lang="ms">A former detective grants permission to a freelance video journalist to cover his revenge journey on a mob boss whom previously killed his partner during an investigation.</desc>
-    <icon src="https://www.visionplus.id/images/repository/267/843267-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117220000 +0800" stop="20261117235500 +0800" channel="46.visionplus">
-    <title lang="ms">Revolver (tvN Movies)</title>
-    <desc lang="ms">An ex-police officer embarks on a single-minded goal upon leaving jail, after serving a sentence for crimes committed under dubious circumstances.</desc>
-    <icon src="https://www.visionplus.id/images/repository/889/653889-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117235500 +0800" stop="20261118015500 +0800" channel="46.visionplus">
     <title lang="ms">In Our Prime</title>
     <desc lang="ms">Genius Mathematician defected from the North tried to hide his past eventually started teaching a student who gave up on Maths the right way to find the answer.</desc>
@@ -3094,11 +2903,6 @@
   <programme start="20261118015500 +0800" stop="20261118035000 +0800" channel="46.visionplus">
     <title lang="ms">Confession</title>
     <desc lang="ms">A man who became a suspect in a closed-door murder seeks help from an attorney to prove him innocent. As they begin to piece the puzzle together, the truth slowly reverses.</desc>
-    <icon src="https://www.visionplus.id/images/repository/698/28698-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118035000 +0800" stop="20261118053500 +0800" channel="46.visionplus">
-    <title lang="ms">Where Would You Like To Go?</title>
-    <desc lang="ms">A school teacher Do-kyeong (Jun Seok-ho) dies as he fails to save his student Ji-yong from drowning. After the two pass away, Do-kyeong's wife Myeong-ji (Park Ha-sun) and Ji-yong's sister Ji-eun are left alone in the world, having to cope with the loss of their loved ones. Myeong-ji travels to Warsaw, Poland, to stay distanced from her harsh reality and meets an old friend to whom she hides her husband's death as if she is trying to reject the tragedy. While she is unable to let him go, Ji-eun is hospitalized as her health condi- tion worsens. Lacking any enthusiasm for life, Ji-eun also struggles to recover. On the day of the Warsaw Uprising, where people commemorate the death of victims of their dark history, Myeong-ji returns to her home in Korea, where a letter from Ji-eun is awaiting.</desc>
     <icon src="https://www.visionplus.id/images/repository/698/28698-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118053500 +0800" stop="20261118071500 +0800" channel="46.visionplus">
@@ -3110,20 +2914,10 @@
     <desc lang="ms">A determined homicide detective assigned to take down a ring of serial killers, has a personal motivation as one of the victims is his own brother-in-law.</desc>
     <icon src="https://www.visionplus.id/images/repository/698/28698-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117070000 +0800" stop="20261117093000 +0800" channel="47.visionplus">
-    <title lang="ms">Auron Mein Kahan Dum Tha</title>
-    <desc lang="ms">After 20 years in prison, a man reunites with his lost love and the truth behind his crimes is revealed.</desc>
-    <icon src="https://www.visionplus.id/images/repository/667/526667-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117093000 +0800" stop="20261117100000 +0800" channel="47.visionplus">
     <title lang="ms">Song Fillers</title>
     <desc lang="ms">Enjoy Bollywood songs presented by Zee Bioskop!</desc>
     <icon src="https://www.visionplus.id/images/repository/268/76268-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117100000 +0800" stop="20261117130000 +0800" channel="47.visionplus">
-    <title lang="ms">Hi Papa</title>
-    <desc lang="ms">A single father began telling his child a story about their missing mother, and from that moment on, nothing was ever the same again.</desc>
-    <icon src="https://www.visionplus.id/images/repository/667/526667-POSTER-l.jpg"/>
   </programme>
   <programme start="20261117130000 +0800" stop="20261117160000 +0800" channel="47.visionplus">
     <title lang="ms">Coolie No. 1</title>
@@ -4962,18 +4756,6 @@
     <desc lang="ms">Rubble goes on paw-some adventures with a whole new crew of pups; the pups use awesome construction vehicles to build and repair things in the town of Builder Cove.</desc>
     <icon src="https://www.visionplus.id/images/repository/484/20484-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117080000 +0800" stop="20261117080500 +0800" channel="63.visionplus">
-    <title lang="ms">Animal Alphabet S1, Ep 76</title>
-    <desc lang="ms">Come and learn the Alphabet with this ABC song from ZooMoo. See what different animals know the ABCs!</desc>
-  </programme>
-  <programme start="20261117080500 +0800" stop="20261117081000 +0800" channel="63.visionplus">
-    <title lang="ms">Animal Alphabet S1, Ep 77</title>
-    <desc lang="ms">Come and learn the Alphabet with this ABC song from ZooMoo. See what different animals know the ABCs!</desc>
-  </programme>
-  <programme start="20261117081000 +0800" stop="20261117081500 +0800" channel="63.visionplus">
-    <title lang="ms">Animal Alphabet S1, Ep 78</title>
-    <desc lang="ms">Come and learn the Alphabet with this ABC song from ZooMoo. See what different animals know the ABCs!</desc>
-  </programme>
   <programme start="20261117081500 +0800" stop="20261117082000 +0800" channel="63.visionplus">
     <title lang="ms">What's That Noise? S1, Ep 35</title>
     <desc lang="ms">Join us on ZooMoo's "What's That Noise?", a whirlwind adventure where your ears hold the key!</desc>
@@ -4986,169 +4768,9 @@
     <title lang="ms">What's That Noise? S1, Ep 37</title>
     <desc lang="ms">Join us on ZooMoo's "What's That Noise?", a whirlwind adventure where your ears hold the key!</desc>
   </programme>
-  <programme start="20261117083000 +0800" stop="20261117084500 +0800" channel="63.visionplus">
-    <title lang="ms">Pop Safari S1, Ep 29</title>
-    <desc lang="ms">Ninja Gorilla builds amazing animal balloon sculptures to show us. Can you guess what animals he’s making?</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117084500 +0800" stop="20261117085000 +0800" channel="63.visionplus">
-    <title lang="ms">What's For Dinner? S1, Ep 71</title>
-    <desc lang="ms">Inside the ZooMoo kitchen, Ninja Gorilla is preparing a mystery meal for Dino’s dinner. On the menu this month are gruesome grubs, awful ants, and a plate of manatee poop! Can you help Dino work out What’s For Dinner and who on earth would want to eat the curious cuisine?</desc>
-  </programme>
-  <programme start="20261117085000 +0800" stop="20261117085500 +0800" channel="63.visionplus">
-    <title lang="ms">What's For Dinner? S1, Ep 72</title>
-    <desc lang="ms">Inside the ZooMoo kitchen, Ninja Gorilla is preparing a mystery meal for Dino’s dinner. On the menu this month are gruesome grubs, awful ants, and a plate of manatee poop! Can you help Dino work out What’s For Dinner and who on earth would want to eat the curious cuisine?</desc>
-  </programme>
-  <programme start="20261117085500 +0800" stop="20261117090000 +0800" channel="63.visionplus">
-    <title lang="ms">What's For Dinner? S1, Ep 73</title>
-    <desc lang="ms">Inside the ZooMoo kitchen, Ninja Gorilla is preparing a mystery meal for Dino’s dinner. On the menu this month are gruesome grubs, awful ants, and a plate of manatee poop! Can you help Dino work out What’s For Dinner and who on earth would want to eat the curious cuisine?</desc>
-  </programme>
-  <programme start="20261117090000 +0800" stop="20261117091500 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Got Brains S2, Ep 32</title>
-    <desc lang="ms">Calling all animal experts! Do you think you know everything about the creatures that share our planet? Put your knowledge to the test in the exciting game show, ZooMoo's Got Brains!</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117091500 +0800" stop="20261117093000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Got Brains S2, Ep 33</title>
-    <desc lang="ms">Calling all animal experts! Do you think you know everything about the creatures that share our planet? Put your knowledge to the test in the exciting game show, ZooMoo's Got Brains!</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117093000 +0800" stop="20261117094500 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Got Brains S2, Ep 34</title>
-    <desc lang="ms">Calling all animal experts! Do you think you know everything about the creatures that share our planet? Put your knowledge to the test in the exciting game show, ZooMoo's Got Brains!</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117094500 +0800" stop="20261117100000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Got Brains S2, Ep 35</title>
-    <desc lang="ms">Calling all animal experts! Do you think you know everything about the creatures that share our planet? Put your knowledge to the test in the exciting game show, ZooMoo's Got Brains!</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117100000 +0800" stop="20261117101500 +0800" channel="63.visionplus">
-    <title lang="ms">Animal All Stars S1, Ep 39</title>
-    <desc lang="ms">Join in the fun with the world’s craziest quiz that’s all about animals. When host Douglas Orang asks the questions, can you find the answers before our two teams of contestants? The fun facts fly fast and furious on Animal All Stars.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117101500 +0800" stop="20261117103000 +0800" channel="63.visionplus">
-    <title lang="ms">Animal All Stars S1, Ep 40</title>
-    <desc lang="ms">Join in the fun with the world’s craziest quiz that’s all about animals. When host Douglas Orang asks the questions, can you find the answers before our two teams of contestants? The fun facts fly fast and furious on Animal All Stars.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117103000 +0800" stop="20261117104500 +0800" channel="63.visionplus">
-    <title lang="ms">Animal All Stars S1, Ep 41</title>
-    <desc lang="ms">Douglas Orang and his enthusiastic assistant Ninja Gorilla host two teams of ZooMoo stars as they compete for an amazing prize! Learn fascinating animal facts and play fun puzzles and games.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117104500 +0800" stop="20261117110000 +0800" channel="63.visionplus">
-    <title lang="ms">Animal All Stars S1, Ep 42</title>
-    <desc lang="ms">Douglas Orang and his enthusiastic assistant Ninja Gorilla host two teams of ZooMoo stars as they compete for an amazing prize! Learn fascinating animal facts and play fun puzzles and games.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117110000 +0800" stop="20261117111500 +0800" channel="63.visionplus">
-    <title lang="ms">LOST! S1, Ep 28</title>
-    <desc lang="ms">Locke thinks he knows how to get the hatch open, and he and Boone venture inland. Jack is reluctant to help Sawyer get glasses.</desc>
-  </programme>
-  <programme start="20261117111500 +0800" stop="20261117113000 +0800" channel="63.visionplus">
-    <title lang="ms">LOST! S1, Ep 29</title>
-    <desc lang="ms">Locke thinks he knows how to get the hatch open, and he and Boone venture inland. Jack is reluctant to help Sawyer get glasses.</desc>
-  </programme>
   <programme start="20261117113000 +0800" stop="20261117114500 +0800" channel="63.visionplus">
     <title lang="ms">Jelly Jamm S1, Ep 11</title>
     <desc lang="ms">The series follows Bello, Mina, Rita, Goomo and Ongo as they have adventures on planet Jammbo and learn about life, friendship and harmony.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117114500 +0800" stop="20261117115000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMooPedia S1, Ep 11</title>
-    <desc lang="ms">ZooMooPedia takes the ZooMers from ZooMoo Island out into the wild to get up close with our favorite animals.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117115000 +0800" stop="20261117115500 +0800" channel="63.visionplus">
-    <title lang="ms">Lubinho S1, Ep 1</title>
-    <desc lang="ms">Meet the Sea Wolf cub that gets lost in the current during a trip from the icy waters of the southern Antarctic, towards the temperate north. He arrives alone in Brazil and meets new friends.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117115500 +0800" stop="20261117120000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoosic S1, Ep 3</title>
-    <desc lang="ms">Strap on your dancing shoes and get ready to boogie with ZooMoosic’s latest, greatest hits! Now listen to our songs and dance a jig or groove to tune about our friend the pig. Get up, dance, and move your feet, our song about a shark is really quite neat. Octopus, chicken, and cool, cool cat, our ZooMoosic hits are where it’s at!</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117120000 +0800" stop="20261117123000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 60</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117123000 +0800" stop="20261117130000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 61</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117130000 +0800" stop="20261117133000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 62</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117133000 +0800" stop="20261117140000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 63</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117140000 +0800" stop="20261117143000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 64</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117143000 +0800" stop="20261117150000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 65</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117150000 +0800" stop="20261117153000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 66</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117153000 +0800" stop="20261117160000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 68</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117160000 +0800" stop="20261117163000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 60</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117163000 +0800" stop="20261117170000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 61</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117170000 +0800" stop="20261117173000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 62</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117173000 +0800" stop="20261117180000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 63</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117180000 +0800" stop="20261117183000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 64</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117183000 +0800" stop="20261117190000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 65</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117190000 +0800" stop="20261117193000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 66</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117193000 +0800" stop="20261117200000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Wild Friends, Ep 68</title>
-    <desc lang="ms">ZooMoo's Wild Friends is a children's television show that takes viewers on a journey to explore the beauty of nature and the animal kingdom.</desc>
     <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
   </programme>
   <programme start="20261117200000 +0800" stop="20261117201500 +0800" channel="63.visionplus">
@@ -5191,18 +4813,6 @@
     <desc lang="ms">Junior Wildlife Rangers, Leo and Katie, along with their pet dog, Hero, team up with a local animal welfare agency to rescue and protect the wildlife in Singapore’s very own concrete jungle.</desc>
     <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117220000 +0800" stop="20261117220500 +0800" channel="63.visionplus">
-    <title lang="ms">Animal Alphabet S1, Ep 76</title>
-    <desc lang="ms">Come and learn the Alphabet with this ABC song from ZooMoo. See what different animals know the ABCs!</desc>
-  </programme>
-  <programme start="20261117220500 +0800" stop="20261117221000 +0800" channel="63.visionplus">
-    <title lang="ms">Animal Alphabet S1, Ep 77</title>
-    <desc lang="ms">Come and learn the Alphabet with this ABC song from ZooMoo. See what different animals know the ABCs!</desc>
-  </programme>
-  <programme start="20261117221000 +0800" stop="20261117221500 +0800" channel="63.visionplus">
-    <title lang="ms">Animal Alphabet S1, Ep 78</title>
-    <desc lang="ms">Come and learn the Alphabet with this ABC song from ZooMoo. See what different animals know the ABCs!</desc>
-  </programme>
   <programme start="20261117221500 +0800" stop="20261117222000 +0800" channel="63.visionplus">
     <title lang="ms">What's That Noise? S1, Ep 35</title>
     <desc lang="ms">Join us on ZooMoo's "What's That Noise?", a whirlwind adventure where your ears hold the key!</desc>
@@ -5214,63 +4824,6 @@
   <programme start="20261117222500 +0800" stop="20261117223000 +0800" channel="63.visionplus">
     <title lang="ms">What's That Noise? S1, Ep 37</title>
     <desc lang="ms">Join us on ZooMoo's "What's That Noise?", a whirlwind adventure where your ears hold the key!</desc>
-  </programme>
-  <programme start="20261117223000 +0800" stop="20261117224500 +0800" channel="63.visionplus">
-    <title lang="ms">Pop Safari S1, Ep 29</title>
-    <desc lang="ms">Ninja Gorilla builds amazing animal balloon sculptures to show us. Can you guess what animals he’s making?</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117224500 +0800" stop="20261117225000 +0800" channel="63.visionplus">
-    <title lang="ms">What's For Dinner? S1, Ep 71</title>
-    <desc lang="ms">Inside the ZooMoo kitchen, Ninja Gorilla is preparing a mystery meal for Dino’s dinner. On the menu this month are gruesome grubs, awful ants, and a plate of manatee poop! Can you help Dino work out What’s For Dinner and who on earth would want to eat the curious cuisine?</desc>
-  </programme>
-  <programme start="20261117225000 +0800" stop="20261117225500 +0800" channel="63.visionplus">
-    <title lang="ms">What's For Dinner? S1, Ep 72</title>
-    <desc lang="ms">Inside the ZooMoo kitchen, Ninja Gorilla is preparing a mystery meal for Dino’s dinner. On the menu this month are gruesome grubs, awful ants, and a plate of manatee poop! Can you help Dino work out What’s For Dinner and who on earth would want to eat the curious cuisine?</desc>
-  </programme>
-  <programme start="20261117225500 +0800" stop="20261117230000 +0800" channel="63.visionplus">
-    <title lang="ms">What's For Dinner? S1, Ep 73</title>
-    <desc lang="ms">Inside the ZooMoo kitchen, Ninja Gorilla is preparing a mystery meal for Dino’s dinner. On the menu this month are gruesome grubs, awful ants, and a plate of manatee poop! Can you help Dino work out What’s For Dinner and who on earth would want to eat the curious cuisine?</desc>
-  </programme>
-  <programme start="20261117230000 +0800" stop="20261117231500 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Got Brains S2, Ep 32</title>
-    <desc lang="ms">Calling all animal experts! Do you think you know everything about the creatures that share our planet? Put your knowledge to the test in the exciting game show, ZooMoo's Got Brains!</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117231500 +0800" stop="20261117233000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Got Brains S2, Ep 33</title>
-    <desc lang="ms">Calling all animal experts! Do you think you know everything about the creatures that share our planet? Put your knowledge to the test in the exciting game show, ZooMoo's Got Brains!</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117233000 +0800" stop="20261117234500 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Got Brains S2, Ep 34</title>
-    <desc lang="ms">Calling all animal experts! Do you think you know everything about the creatures that share our planet? Put your knowledge to the test in the exciting game show, ZooMoo's Got Brains!</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117234500 +0800" stop="20261118000000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Got Brains S2, Ep 35</title>
-    <desc lang="ms">Calling all animal experts! Do you think you know everything about the creatures that share our planet? Put your knowledge to the test in the exciting game show, ZooMoo's Got Brains!</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118000000 +0800" stop="20261118001500 +0800" channel="63.visionplus">
-    <title lang="ms">Animal All Stars S1, Ep 39</title>
-    <desc lang="ms">Join in the fun with the world’s craziest quiz that’s all about animals. When host Douglas Orang asks the questions, can you find the answers before our two teams of contestants? The fun facts fly fast and furious on Animal All Stars.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118001500 +0800" stop="20261118003000 +0800" channel="63.visionplus">
-    <title lang="ms">Animal All Stars S1, Ep 40</title>
-    <desc lang="ms">Join in the fun with the world’s craziest quiz that’s all about animals. When host Douglas Orang asks the questions, can you find the answers before our two teams of contestants? The fun facts fly fast and furious on Animal All Stars.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118003000 +0800" stop="20261118004500 +0800" channel="63.visionplus">
-    <title lang="ms">Animal All Stars S1, Ep 41</title>
-    <desc lang="ms">Douglas Orang and his enthusiastic assistant Ninja Gorilla host two teams of ZooMoo stars as they compete for an amazing prize! Learn fascinating animal facts and play fun puzzles and games.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118004500 +0800" stop="20261118010000 +0800" channel="63.visionplus">
-    <title lang="ms">Animal All Stars S1, Ep 42</title>
-    <desc lang="ms">Douglas Orang and his enthusiastic assistant Ninja Gorilla host two teams of ZooMoo stars as they compete for an amazing prize! Learn fascinating animal facts and play fun puzzles and games.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118010000 +0800" stop="20261118011500 +0800" channel="63.visionplus">
     <title lang="ms">Jelly Jamm S1, Ep 51</title>
@@ -5312,18 +4865,6 @@
     <desc lang="ms">Junior Wildlife Rangers, Leo and Katie, along with their pet dog, Hero, team up with a local animal welfare agency to rescue and protect the wildlife in Singapore’s very own concrete jungle.</desc>
     <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118030000 +0800" stop="20261118030500 +0800" channel="63.visionplus">
-    <title lang="ms">Animal Alphabet S1, Ep 76</title>
-    <desc lang="ms">Come and learn the Alphabet with this ABC song from ZooMoo. See what different animals know the ABCs!</desc>
-  </programme>
-  <programme start="20261118030500 +0800" stop="20261118031000 +0800" channel="63.visionplus">
-    <title lang="ms">Animal Alphabet S1, Ep 77</title>
-    <desc lang="ms">Come and learn the Alphabet with this ABC song from ZooMoo. See what different animals know the ABCs!</desc>
-  </programme>
-  <programme start="20261118031000 +0800" stop="20261118031500 +0800" channel="63.visionplus">
-    <title lang="ms">Animal Alphabet S1, Ep 78</title>
-    <desc lang="ms">Come and learn the Alphabet with this ABC song from ZooMoo. See what different animals know the ABCs!</desc>
-  </programme>
   <programme start="20261118031500 +0800" stop="20261118032000 +0800" channel="63.visionplus">
     <title lang="ms">What's That Noise? S1, Ep 35</title>
     <desc lang="ms">Join us on ZooMoo's "What's That Noise?", a whirlwind adventure where your ears hold the key!</desc>
@@ -5335,63 +4876,6 @@
   <programme start="20261118032500 +0800" stop="20261118033000 +0800" channel="63.visionplus">
     <title lang="ms">What's That Noise? S1, Ep 37</title>
     <desc lang="ms">Join us on ZooMoo's "What's That Noise?", a whirlwind adventure where your ears hold the key!</desc>
-  </programme>
-  <programme start="20261118033000 +0800" stop="20261118034500 +0800" channel="63.visionplus">
-    <title lang="ms">Pop Safari S1, Ep 29</title>
-    <desc lang="ms">Ninja Gorilla builds amazing animal balloon sculptures to show us. Can you guess what animals he’s making?</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118034500 +0800" stop="20261118035000 +0800" channel="63.visionplus">
-    <title lang="ms">What's For Dinner? S1, Ep 71</title>
-    <desc lang="ms">Inside the ZooMoo kitchen, Ninja Gorilla is preparing a mystery meal for Dino’s dinner. On the menu this month are gruesome grubs, awful ants, and a plate of manatee poop! Can you help Dino work out What’s For Dinner and who on earth would want to eat the curious cuisine?</desc>
-  </programme>
-  <programme start="20261118035000 +0800" stop="20261118035500 +0800" channel="63.visionplus">
-    <title lang="ms">What's For Dinner? S1, Ep 72</title>
-    <desc lang="ms">Inside the ZooMoo kitchen, Ninja Gorilla is preparing a mystery meal for Dino’s dinner. On the menu this month are gruesome grubs, awful ants, and a plate of manatee poop! Can you help Dino work out What’s For Dinner and who on earth would want to eat the curious cuisine?</desc>
-  </programme>
-  <programme start="20261118035500 +0800" stop="20261118040000 +0800" channel="63.visionplus">
-    <title lang="ms">What's For Dinner? S1, Ep 73</title>
-    <desc lang="ms">Inside the ZooMoo kitchen, Ninja Gorilla is preparing a mystery meal for Dino’s dinner. On the menu this month are gruesome grubs, awful ants, and a plate of manatee poop! Can you help Dino work out What’s For Dinner and who on earth would want to eat the curious cuisine?</desc>
-  </programme>
-  <programme start="20261118040000 +0800" stop="20261118041500 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Got Brains S2, Ep 32</title>
-    <desc lang="ms">Calling all animal experts! Do you think you know everything about the creatures that share our planet? Put your knowledge to the test in the exciting game show, ZooMoo's Got Brains!</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118041500 +0800" stop="20261118043000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Got Brains S2, Ep 33</title>
-    <desc lang="ms">Calling all animal experts! Do you think you know everything about the creatures that share our planet? Put your knowledge to the test in the exciting game show, ZooMoo's Got Brains!</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118043000 +0800" stop="20261118044500 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Got Brains S2, Ep 34</title>
-    <desc lang="ms">Calling all animal experts! Do you think you know everything about the creatures that share our planet? Put your knowledge to the test in the exciting game show, ZooMoo's Got Brains!</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118044500 +0800" stop="20261118050000 +0800" channel="63.visionplus">
-    <title lang="ms">ZooMoo's Got Brains S2, Ep 35</title>
-    <desc lang="ms">Calling all animal experts! Do you think you know everything about the creatures that share our planet? Put your knowledge to the test in the exciting game show, ZooMoo's Got Brains!</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118050000 +0800" stop="20261118051500 +0800" channel="63.visionplus">
-    <title lang="ms">Animal All Stars S1, Ep 39</title>
-    <desc lang="ms">Join in the fun with the world’s craziest quiz that’s all about animals. When host Douglas Orang asks the questions, can you find the answers before our two teams of contestants? The fun facts fly fast and furious on Animal All Stars.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118051500 +0800" stop="20261118053000 +0800" channel="63.visionplus">
-    <title lang="ms">Animal All Stars S1, Ep 40</title>
-    <desc lang="ms">Join in the fun with the world’s craziest quiz that’s all about animals. When host Douglas Orang asks the questions, can you find the answers before our two teams of contestants? The fun facts fly fast and furious on Animal All Stars.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118053000 +0800" stop="20261118054500 +0800" channel="63.visionplus">
-    <title lang="ms">Animal All Stars S1, Ep 41</title>
-    <desc lang="ms">Douglas Orang and his enthusiastic assistant Ninja Gorilla host two teams of ZooMoo stars as they compete for an amazing prize! Learn fascinating animal facts and play fun puzzles and games.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118054500 +0800" stop="20261118060000 +0800" channel="63.visionplus">
-    <title lang="ms">Animal All Stars S1, Ep 42</title>
-    <desc lang="ms">Douglas Orang and his enthusiastic assistant Ninja Gorilla host two teams of ZooMoo stars as they compete for an amazing prize! Learn fascinating animal facts and play fun puzzles and games.</desc>
-    <icon src="https://www.visionplus.id/images/repository/628/77628-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118060000 +0800" stop="20261118061500 +0800" channel="63.visionplus">
     <title lang="ms">Jelly Jamm S1, Ep 3</title>
@@ -5719,11 +5203,6 @@
     <desc lang="ms">After Tohru is taken in by the Soma family, she learns that twelve family members transform involuntarily into animals of the Chinese zodiac and helps them deal with the emotional pain caused by the transformations.</desc>
     <icon src="https://www.visionplus.id/images/repository/104/78104-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117090000 +0800" stop="20261117093000 +0800" channel="65.visionplus">
-    <title lang="ms">Witch Watch, Ep 10</title>
-    <desc lang="ms">A dire prophecy hangs over the young witch Nico. Can her childhood friend Morihito keep her safe or will Nico's out-of-control magic get in the way?</desc>
-    <icon src="https://www.visionplus.id/images/repository/738/526738-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117093000 +0800" stop="20261117100000 +0800" channel="65.visionplus">
     <title lang="ms">Witch Watch, Ep 11</title>
     <desc lang="ms">A dire prophecy hangs over the young witch Nico. Can her childhood friend Morihito keep her safe or will Nico's out-of-control magic get in the way?</desc>
@@ -5738,11 +5217,6 @@
     <title lang="ms">Oshi No Ko, Ep 3</title>
     <desc lang="ms">A doctor and his recently-deceased patient are reborn as twins to a famous Japanese musical idol and navigate the highs and lows of the Japanese entertainment industry as they grow up together through their lives.</desc>
     <icon src="https://www.visionplus.id/images/repository/104/78104-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117110000 +0800" stop="20261117113000 +0800" channel="65.visionplus">
-    <title lang="ms">Black Clover S2, Ep 66</title>
-    <desc lang="ms">Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.</desc>
-    <icon src="https://www.visionplus.id/images/repository/738/526738-POSTER-l.jpg"/>
   </programme>
   <programme start="20261117113000 +0800" stop="20261117120000 +0800" channel="65.visionplus">
     <title lang="ms">Black Clover S2, Ep 67</title>
@@ -5759,11 +5233,6 @@
     <desc lang="ms">After Tohru is taken in by the Soma family, she learns that twelve family members transform involuntarily into animals of the Chinese zodiac and helps them deal with the emotional pain caused by the transformations.</desc>
     <icon src="https://www.visionplus.id/images/repository/104/78104-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117130000 +0800" stop="20261117133000 +0800" channel="65.visionplus">
-    <title lang="ms">Witch Watch, Ep 10</title>
-    <desc lang="ms">A dire prophecy hangs over the young witch Nico. Can her childhood friend Morihito keep her safe or will Nico's out-of-control magic get in the way?</desc>
-    <icon src="https://www.visionplus.id/images/repository/738/526738-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117133000 +0800" stop="20261117140000 +0800" channel="65.visionplus">
     <title lang="ms">Witch Watch, Ep 11</title>
     <desc lang="ms">A dire prophecy hangs over the young witch Nico. Can her childhood friend Morihito keep her safe or will Nico's out-of-control magic get in the way?</desc>
@@ -5779,19 +5248,9 @@
     <desc lang="ms">A doctor and his recently-deceased patient are reborn as twins to a famous Japanese musical idol and navigate the highs and lows of the Japanese entertainment industry as they grow up together through their lives.</desc>
     <icon src="https://www.visionplus.id/images/repository/104/78104-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117150000 +0800" stop="20261117153000 +0800" channel="65.visionplus">
-    <title lang="ms">Black Clover S2, Ep 66</title>
-    <desc lang="ms">Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.</desc>
-    <icon src="https://www.visionplus.id/images/repository/738/526738-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117153000 +0800" stop="20261117160000 +0800" channel="65.visionplus">
     <title lang="ms">Black Clover S2, Ep 67</title>
     <desc lang="ms">Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.</desc>
-    <icon src="https://www.visionplus.id/images/repository/738/526738-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117160000 +0800" stop="20261117163000 +0800" channel="65.visionplus">
-    <title lang="ms">Witch Watch, Ep 10</title>
-    <desc lang="ms">A dire prophecy hangs over the young witch Nico. Can her childhood friend Morihito keep her safe or will Nico's out-of-control magic get in the way?</desc>
     <icon src="https://www.visionplus.id/images/repository/738/526738-POSTER-l.jpg"/>
   </programme>
   <programme start="20261117163000 +0800" stop="20261117170000 +0800" channel="65.visionplus">
@@ -5949,221 +5408,15 @@
     <desc lang="ms">Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.</desc>
     <icon src="https://www.visionplus.id/images/repository/738/526738-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117074000 +0800" stop="20261117080500 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
-  </programme>
-  <programme start="20261117080500 +0800" stop="20261117083000 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
-  </programme>
-  <programme start="20261117083000 +0800" stop="20261117085500 +0800" channel="67.visionplus">
-    <title lang="ms">Dew Drops Diaries</title>
-    <desc lang="ms">From finding lost items to cleaning up messes, three fairies in training love looking after kids in their care as they work toward earning their wings.</desc>
-  </programme>
-  <programme start="20261117085500 +0800" stop="20261117092000 +0800" channel="67.visionplus">
-    <title lang="ms">Dew Drops Diaries</title>
-    <desc lang="ms">From finding lost items to cleaning up messes, three fairies in training love looking after kids in their care as they work toward earning their wings.</desc>
-  </programme>
-  <programme start="20261117092000 +0800" stop="20261117094500 +0800" channel="67.visionplus">
-    <title lang="ms">Not Quite Narwhal</title>
-    <desc lang="ms">Curious little Kelp lives his whole life as a narwhal, then he finds out he's actually a unicorn.</desc>
-  </programme>
-  <programme start="20261117094500 +0800" stop="20261117101000 +0800" channel="67.visionplus">
-    <title lang="ms">Not Quite Narwhal</title>
-    <desc lang="ms">Curious little Kelp lives his whole life as a narwhal, then he finds out he's actually a unicorn.</desc>
-  </programme>
-  <programme start="20261117101000 +0800" stop="20261117103500 +0800" channel="67.visionplus">
-    <title lang="ms">Dragons: Rescue Riders</title>
-    <desc lang="ms">Young pup Tag Barker and her adventures in Pawston, a colorful community of dogs on the go.</desc>
-  </programme>
-  <programme start="20261117103500 +0800" stop="20261117110000 +0800" channel="67.visionplus">
-    <title lang="ms">Dragons: Rescue Riders</title>
-    <desc lang="ms">Young pup Tag Barker and her adventures in Pawston, a colorful community of dogs on the go.</desc>
-  </programme>
   <programme start="20261117110000 +0800" stop="20261117112500 +0800" channel="67.visionplus">
     <title lang="ms">Gabby's Dollhouse (DreamWorks)</title>
     <desc lang="ms">Kitty enthusiast Gabby and her sidekick Pandy Paws team up for a series of animated adventures.</desc>
     <icon src="https://www.visionplus.id/images/repository/430/842430-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117112500 +0800" stop="20261117115000 +0800" channel="67.visionplus">
-    <title lang="ms">Gabby's Dollhouse</title>
-    <desc lang="ms">Kitty enthusiast Gabby and her sidekick Pandy Paws team up for a series of animated adventures.</desc>
-    <icon src="https://www.visionplus.id/images/repository/056/715056-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117115000 +0800" stop="20261117121500 +0800" channel="67.visionplus">
-    <title lang="ms">Madagascar: A Little Wild</title>
-    <desc lang="ms">The early years of the Madagascar heroes Alex the Lion, Marty the Zebra, Melman the Giraffe and Gloria the Hippo, as they grow up in a rescue habitat at the Central Park Zoo.</desc>
-  </programme>
-  <programme start="20261117121500 +0800" stop="20261117124000 +0800" channel="67.visionplus">
-    <title lang="ms">Madagascar: A Little Wild</title>
-    <desc lang="ms">The early years of the Madagascar heroes Alex the Lion, Marty the Zebra, Melman the Giraffe and Gloria the Hippo, as they grow up in a rescue habitat at the Central Park Zoo.</desc>
-  </programme>
-  <programme start="20261117124000 +0800" stop="20261117130500 +0800" channel="67.visionplus">
-    <title lang="ms">Archibald's Next Big Thing...</title>
-    <desc lang="ms">A comedy about the adventures of Archibald Strutter, a chicken who improvises his way through life but always finds his way home to his three siblings and trusty sidekick.</desc>
-  </programme>
-  <programme start="20261117130500 +0800" stop="20261117133000 +0800" channel="67.visionplus">
-    <title lang="ms">Archibald's Next Big Thing...</title>
-    <desc lang="ms">A comedy about the adventures of Archibald Strutter, a chicken who improvises his way through life but always finds his way home to his three siblings and trusty sidekick.</desc>
-  </programme>
-  <programme start="20261117133000 +0800" stop="20261117135500 +0800" channel="67.visionplus">
-    <title lang="ms">The Adv. Of Rocky &amp; Bullwinkle</title>
-    <desc lang="ms">Jay Ward's squirrel and moose duo return in this all-new series, alongside rivals Boris and Natasha and Fearless Leader.</desc>
-    <icon src="https://www.visionplus.id/images/repository/694/797694-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117135500 +0800" stop="20261117142000 +0800" channel="67.visionplus">
-    <title lang="ms">The Adv. Of Rocky &amp; Bullwinkle</title>
-    <desc lang="ms">Jay Ward's squirrel and moose duo return in this all-new series, alongside rivals Boris and Natasha and Fearless Leader.</desc>
-    <icon src="https://www.visionplus.id/images/repository/694/797694-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117142000 +0800" stop="20261117144500 +0800" channel="67.visionplus">
-    <title lang="ms">All Hail King Julien</title>
-    <desc lang="ms">A clairvoyant, Masikura, informs King Julien XII, a spineless ring-tailed lemur, that he will be eaten by a fossa. He responds by giving the leadership of the lemurs to his self-centred nephew.</desc>
-    <icon src="https://www.visionplus.id/images/repository/577/763577-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117144500 +0800" stop="20261117151000 +0800" channel="67.visionplus">
-    <title lang="ms">All Hail King Julien</title>
-    <desc lang="ms">A clairvoyant, Masikura, informs King Julien XII, a spineless ring-tailed lemur, that he will be eaten by a fossa. He responds by giving the leadership of the lemurs to his self-centred nephew.</desc>
-    <icon src="https://www.visionplus.id/images/repository/577/763577-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117151000 +0800" stop="20261117153500 +0800" channel="67.visionplus">
     <title lang="ms">Home: Adv. With Tip And Oh!</title>
     <desc lang="ms">Picking up where the 2015 film left off, this coming-of-age buddy comedy follows fearless Tip and overenthusiastic Oh, as they navigate the crazily combined human and alien culture they live in, finding adventure everywhere they go.</desc>
     <icon src="https://www.visionplus.id/images/repository/531/791531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117153500 +0800" stop="20261117160000 +0800" channel="67.visionplus">
-    <title lang="ms">Home: Adv. With Tip And Oh!</title>
-    <desc lang="ms">Picking up where the 2015 film left off, this coming-of-age buddy comedy follows fearless Tip and overenthusiastic Oh, as they navigate the crazily combined human and alien culture they live in, finding adventure everywhere they go.</desc>
-    <icon src="https://www.visionplus.id/images/repository/531/791531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117160000 +0800" stop="20261117162500 +0800" channel="67.visionplus">
-    <title lang="ms">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="ms">Follow Po, who partners up with a no-nonsense English knight named Wandering Blade, to find a collection of four powerful weapons before a mysterious pair of weasels do, and save the world from destruction.</desc>
-    <icon src="https://www.visionplus.id/images/repository/552/675552-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117162500 +0800" stop="20261117165000 +0800" channel="67.visionplus">
-    <title lang="ms">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="ms">Follow Po, who partners up with a no-nonsense English knight named Wandering Blade, to find a collection of four powerful weapons before a mysterious pair of weasels do, and save the world from destruction.</desc>
-    <icon src="https://www.visionplus.id/images/repository/552/675552-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117165000 +0800" stop="20261117171500 +0800" channel="67.visionplus">
-    <title lang="ms">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="ms">Follow Po, who partners up with a no-nonsense English knight named Wandering Blade, to find a collection of four powerful weapons before a mysterious pair of weasels do, and save the world from destruction.</desc>
-    <icon src="https://www.visionplus.id/images/repository/552/675552-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117171500 +0800" stop="20261117174000 +0800" channel="67.visionplus">
-    <title lang="ms">The Croods: Family Tree (DreamWorks)</title>
-    <desc lang="ms">It continues the evolving story of the croods and Bettermans as they learn to live together on the most idle farm in prehistory.</desc>
-    <icon src="https://www.visionplus.id/images/repository/653/838653-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117174000 +0800" stop="20261117180500 +0800" channel="67.visionplus">
-    <title lang="ms">The Croods: Family Tree</title>
-    <desc lang="ms">It continues the evolving story of the croods and Bettermans as they learn to live together on the most idle farm in prehistory.</desc>
-    <icon src="https://www.visionplus.id/images/repository/380/761380-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117180500 +0800" stop="20261117183000 +0800" channel="67.visionplus">
-    <title lang="ms">The Croods: Family Tree</title>
-    <desc lang="ms">It continues the evolving story of the croods and Bettermans as they learn to live together on the most idle farm in prehistory.</desc>
-    <icon src="https://www.visionplus.id/images/repository/380/761380-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117183000 +0800" stop="20261117185500 +0800" channel="67.visionplus">
-    <title lang="ms">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="ms">Adventures abound as a group of teenagers infiltrates an elite racing league controlled by a nefarious organization that is bent on world domination.</desc>
-    <icon src="https://www.visionplus.id/images/repository/789/651789-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117185500 +0800" stop="20261117192000 +0800" channel="67.visionplus">
-    <title lang="ms">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="ms">Adventures abound as a group of teenagers infiltrates an elite racing league controlled by a nefarious organization that is bent on world domination.</desc>
-    <icon src="https://www.visionplus.id/images/repository/789/651789-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117192000 +0800" stop="20261117194500 +0800" channel="67.visionplus">
-    <title lang="ms">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="ms">Adventures abound as a group of teenagers infiltrates an elite racing league controlled by a nefarious organization that is bent on world domination.</desc>
-    <icon src="https://www.visionplus.id/images/repository/789/651789-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117194500 +0800" stop="20261117201000 +0800" channel="67.visionplus">
-    <title lang="ms">Dragons: Race To The Edge</title>
-    <desc lang="ms">Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.</desc>
-    <icon src="https://www.visionplus.id/images/repository/843/679843-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117201000 +0800" stop="20261117203500 +0800" channel="67.visionplus">
-    <title lang="ms">Dragons: Race To The Edge</title>
-    <desc lang="ms">Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.</desc>
-    <icon src="https://www.visionplus.id/images/repository/843/679843-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117203500 +0800" stop="20261117210000 +0800" channel="67.visionplus">
-    <title lang="ms">Dragons: Race To The Edge</title>
-    <desc lang="ms">Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.</desc>
-    <icon src="https://www.visionplus.id/images/repository/843/679843-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117210000 +0800" stop="20261117212500 +0800" channel="67.visionplus">
-    <title lang="ms">The Epic Tales Of Captain...</title>
-    <desc lang="ms">Best friends George and Harold scheme together a number of pranks at school involving their principal, whose alter ego is a superhero they created called Captain Underpants.</desc>
-    <icon src="https://www.visionplus.id/images/repository/896/674896-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117212500 +0800" stop="20261117215000 +0800" channel="67.visionplus">
-    <title lang="ms">The Epic Tales Of Captain...</title>
-    <desc lang="ms">Best friends George and Harold scheme together a number of pranks at school involving their principal, whose alter ego is a superhero they created called Captain Underpants.</desc>
-    <icon src="https://www.visionplus.id/images/repository/896/674896-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117215000 +0800" stop="20261117221500 +0800" channel="67.visionplus">
-    <title lang="ms">The Epic Tales Of Captain...</title>
-    <desc lang="ms">Best friends George and Harold scheme together a number of pranks at school involving their principal, whose alter ego is a superhero they created called Captain Underpants.</desc>
-    <icon src="https://www.visionplus.id/images/repository/896/674896-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117221500 +0800" stop="20261117224000 +0800" channel="67.visionplus">
-    <title lang="ms">Boss Baby: Back In The Crib</title>
-    <desc lang="ms">Theodore Templeton is framed for embezzlement and forced to revert back to his old Boss Baby self and crash with his brother Tim and his two nieces, Tabitha and Tina.</desc>
-    <icon src="https://www.visionplus.id/images/repository/981/680981-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117224000 +0800" stop="20261117230500 +0800" channel="67.visionplus">
-    <title lang="ms">Boss Baby: Back In The Crib</title>
-    <desc lang="ms">Theodore Templeton is framed for embezzlement and forced to revert back to his old Boss Baby self and crash with his brother Tim and his two nieces, Tabitha and Tina.</desc>
-    <icon src="https://www.visionplus.id/images/repository/981/680981-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117230500 +0800" stop="20261117233000 +0800" channel="67.visionplus">
-    <title lang="ms">Boss Baby: Back In The Crib</title>
-    <desc lang="ms">Theodore Templeton is framed for embezzlement and forced to revert back to his old Boss Baby self and crash with his brother Tim and his two nieces, Tabitha and Tina.</desc>
-    <icon src="https://www.visionplus.id/images/repository/981/680981-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117233000 +0800" stop="20261117235500 +0800" channel="67.visionplus">
-    <title lang="ms">Spirit Riding Free</title>
-    <desc lang="ms">The wild west adventures of a free-spirited girl and her wild stallion horse companion.</desc>
-    <icon src="https://www.visionplus.id/images/repository/826/805826-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117235500 +0800" stop="20261118002000 +0800" channel="67.visionplus">
-    <title lang="ms">Spirit Riding Free</title>
-    <desc lang="ms">The wild west adventures of a free-spirited girl and her wild stallion horse companion.</desc>
-    <icon src="https://www.visionplus.id/images/repository/826/805826-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118002000 +0800" stop="20261118004500 +0800" channel="67.visionplus">
-    <title lang="ms">Spirit Riding Free</title>
-    <desc lang="ms">The wild west adventures of a free-spirited girl and her wild stallion horse companion.</desc>
-    <icon src="https://www.visionplus.id/images/repository/826/805826-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118004500 +0800" stop="20261118011000 +0800" channel="67.visionplus">
-    <title lang="ms">All Hail King Julien</title>
-    <desc lang="ms">A clairvoyant, Masikura, informs King Julien XII, a spineless ring-tailed lemur, that he will be eaten by a fossa. He responds by giving the leadership of the lemurs to his self-centred nephew.</desc>
-    <icon src="https://www.visionplus.id/images/repository/577/763577-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118011000 +0800" stop="20261118013500 +0800" channel="67.visionplus">
-    <title lang="ms">All Hail King Julien</title>
-    <desc lang="ms">A clairvoyant, Masikura, informs King Julien XII, a spineless ring-tailed lemur, that he will be eaten by a fossa. He responds by giving the leadership of the lemurs to his self-centred nephew.</desc>
-    <icon src="https://www.visionplus.id/images/repository/577/763577-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118013500 +0800" stop="20261118020000 +0800" channel="67.visionplus">
-    <title lang="ms">All Hail King Julien</title>
-    <desc lang="ms">A clairvoyant, Masikura, informs King Julien XII, a spineless ring-tailed lemur, that he will be eaten by a fossa. He responds by giving the leadership of the lemurs to his self-centred nephew.</desc>
-    <icon src="https://www.visionplus.id/images/repository/577/763577-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118020000 +0800" stop="20261118022500 +0800" channel="67.visionplus">
-    <title lang="ms">Harvey Girls Forever!</title>
-    <desc lang="ms">Animated series targeted at 9 to 12-year-old girls, in which kids do whatever they want in their favorite place: the one and only Harvey Street.</desc>
-  </programme>
-  <programme start="20261118022500 +0800" stop="20261118025000 +0800" channel="67.visionplus">
-    <title lang="ms">Harvey Girls Forever!</title>
-    <desc lang="ms">Animated series targeted at 9 to 12-year-old girls, in which kids do whatever they want in their favorite place: the one and only Harvey Street.</desc>
   </programme>
   <programme start="20261118025000 +0800" stop="20261118031500 +0800" channel="67.visionplus">
     <title lang="ms">Dinotrux Supercharged</title>
@@ -6172,56 +5425,6 @@
   <programme start="20261118031500 +0800" stop="20261118034000 +0800" channel="67.visionplus">
     <title lang="ms">Dinotrux Supercharged</title>
     <desc lang="ms">In this new season of dinotrux Ty and the others meet new friends as well as face new challenges both normal and supercharged.</desc>
-  </programme>
-  <programme start="20261118034000 +0800" stop="20261118040500 +0800" channel="67.visionplus">
-    <title lang="ms">The Adv. Of Puss In Boots</title>
-    <desc lang="ms">Puss in Boots, a street-smart cat, accidentally destroys the magical wards in San Lorenzo. He must now protect the orphans living in the city from the villains.</desc>
-    <icon src="https://www.visionplus.id/images/repository/606/687606-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118040500 +0800" stop="20261118043000 +0800" channel="67.visionplus">
-    <title lang="ms">The Adv. Of Puss In Boots</title>
-    <desc lang="ms">Puss in Boots, a street-smart cat, accidentally destroys the magical wards in San Lorenzo. He must now protect the orphans living in the city from the villains.</desc>
-    <icon src="https://www.visionplus.id/images/repository/606/687606-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118043000 +0800" stop="20261118050000 +0800" channel="67.visionplus">
-    <title lang="ms">Go, Dog. Go!</title>
-    <desc lang="ms">Young pup Tag Barker and her adventures in Pawston, a colorful community of dogs on the go.</desc>
-  </programme>
-  <programme start="20261118050000 +0800" stop="20261118053000 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
-  </programme>
-  <programme start="20261118053000 +0800" stop="20261118060000 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
-  </programme>
-  <programme start="20261118060000 +0800" stop="20261118062500 +0800" channel="67.visionplus">
-    <title lang="ms">Team Zenko Go</title>
-    <desc lang="ms">No good deed is too small for this kind kid squad. Niah, Ari, Ellie and Jax go undercover to help others and squash their town's problems in secret.</desc>
-  </programme>
-  <programme start="20261118062500 +0800" stop="20261118065000 +0800" channel="67.visionplus">
-    <title lang="ms">Team Zenko Go</title>
-    <desc lang="ms">No good deed is too small for this kind kid squad. Niah, Ari, Ellie and Jax go undercover to help others and squash their town's problems in secret.</desc>
-  </programme>
-  <programme start="20261118065000 +0800" stop="20261118070200 +0800" channel="67.visionplus">
-    <title lang="ms">Olivia</title>
-    <desc lang="ms">Olivia is an imaginative, and creative pig. She does everything with her best friends, Julian and Francine. Olivia is always up for fun, if it's at school, at home, or at a friends house.</desc>
-  </programme>
-  <programme start="20261118070200 +0800" stop="20261118071400 +0800" channel="67.visionplus">
-    <title lang="ms">Olivia</title>
-    <desc lang="ms">Olivia is an imaginative, and creative pig. She does everything with her best friends, Julian and Francine. Olivia is always up for fun, if it's at school, at home, or at a friends house.</desc>
-  </programme>
-  <programme start="20261118071400 +0800" stop="20261118072600 +0800" channel="67.visionplus">
-    <title lang="ms">Olivia</title>
-    <desc lang="ms">Olivia is an imaginative, and creative pig. She does everything with her best friends, Julian and Francine. Olivia is always up for fun, if it's at school, at home, or at a friends house.</desc>
-  </programme>
-  <programme start="20261118072600 +0800" stop="20261118074000 +0800" channel="67.visionplus">
-    <title lang="ms">Olivia</title>
-    <desc lang="ms">Olivia is an imaginative, and creative pig. She does everything with her best friends, Julian and Francine. Olivia is always up for fun, if it's at school, at home, or at a friends house.</desc>
-  </programme>
-  <programme start="20261118074000 +0800" stop="20261118080500 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
   </programme>
   <programme start="20261117080000 +0800" stop="20261117090000 +0800" channel="68.visionplus">
     <title lang="ms">Shark Tank S18, Ep 1</title>
@@ -6281,11 +5484,6 @@
   <programme start="20261117210000 +0800" stop="20261117220000 +0800" channel="68.visionplus">
     <title lang="ms">Sheriff Country S2: Close To...</title>
     <desc lang="ms">When a dangerous case hits close to home for Hank, Mickey and the team race to protect someone he loves while uncovering the secrets that may have put him in danger.</desc>
-    <icon src="https://www.visionplus.id/images/repository/591/612591-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117220000 +0800" stop="20261117230000 +0800" channel="68.visionplus">
-    <title lang="ms">Fire Country S5, Ep 6 (HIts Now)</title>
-    <desc lang="ms">The fifth season follows Bode and the Station 42 team as they respond to emergencies in Edgewater. The season opens during the Founders’ Day festival, when a catastrophic sinkhole opens beneath Main Street, trapping residents and triggering a high-stakes rescue.</desc>
     <icon src="https://www.visionplus.id/images/repository/591/612591-POSTER-l.jpg"/>
   </programme>
   <programme start="20261117230000 +0800" stop="20261117233000 +0800" channel="68.visionplus">
@@ -6466,11 +5664,6 @@
     <desc lang="ms">A romantic comedy about Nam Da Reum, who joins a company led by former idol-turned-CEO Lee Chan, and unexpectedly finds herself in a romance with the company's boss, Kang Ha Gi.</desc>
     <icon src="https://www.visionplus.id/images/repository/284/843284-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117223000 +0800" stop="20261117235000 +0800" channel="73.visionplus">
-    <title lang="ms">Sixth Sense: B-Side, Ep 8 (tvN)</title>
-    <desc lang="ms">Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand-new season and distinguish the fake from the real.</desc>
-    <icon src="https://www.visionplus.id/images/repository/290/843290-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117235000 +0800" stop="20261118013500 +0800" channel="73.visionplus">
     <title lang="ms">GBRB: Joy Pops Laugh..., Ep 5</title>
     <desc lang="ms">A spinoff of “GBRB Spinoff: Cafeteria Operation,” where the KKPP Food employees successfully completed their missions and earned the chance to go abroad for an insight trip to help the company grow.</desc>
@@ -6505,11 +5698,6 @@
     <desc lang="ms">The story is about a powerful drug-lord in southeast Asia, and the good guys have to save their loved ones under the threat of the Drug business conspiracy.</desc>
     <icon src="https://www.visionplus.id/images/repository/822/381822-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117082000 +0800" stop="20261117101500 +0800" channel="75.visionplus">
-    <title lang="ms">The Comeback</title>
-    <desc lang="ms">Uncle Hua is a retired agent who owns an antique shop on an old street. When the old street is forcibly demolished by the local Green Dragon Gang one day, Uncle Hua's hidden identity is accidentally revealed.</desc>
-    <icon src="https://www.visionplus.id/images/repository/706/56706-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117101500 +0800" stop="20261117113500 +0800" channel="75.visionplus">
     <title lang="ms">Live And Die In East LA</title>
     <desc lang="ms">After an E.R. doctor treats an injured boy, he is pulled into the world of gangs and street violence in the underbelly of Los Angeles.</desc>
@@ -6530,20 +5718,10 @@
     <desc lang="ms">The story is about a powerful drug-lord in southeast Asia, and the good guys have to save their loved ones under the threat of the Drug business conspiracy.</desc>
     <icon src="https://www.visionplus.id/images/repository/822/381822-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117162000 +0800" stop="20261117181500 +0800" channel="75.visionplus">
-    <title lang="ms">The Comeback (KIX)</title>
-    <desc lang="ms">Uncle Hua is a retired agent who owns an antique shop on an old street. When the old street is forcibly demolished by the local Green Dragon Gang one day, Uncle Hua's hidden identity is accidentally revealed.</desc>
-    <icon src="https://www.visionplus.id/images/repository/253/841253-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117181500 +0800" stop="20261117193500 +0800" channel="75.visionplus">
     <title lang="ms">Live And Die In East LA</title>
     <desc lang="ms">After an E.R. doctor treats an injured boy, he is pulled into the world of gangs and street violence in the underbelly of Los Angeles.</desc>
     <icon src="https://www.visionplus.id/images/repository/541/526541-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117193500 +0800" stop="20261117210000 +0800" channel="75.visionplus">
-    <title lang="ms">Hidden Heroine (KIX)</title>
-    <desc lang="ms">A drug cartel is entrenched in the Dong Zhou area. Mei Jing of the Thunderbolt Women's Commando Unit, leads her team to attack the drug base, but they are being ambushed and the identity of Mei's father is exposed.</desc>
-    <icon src="https://www.visionplus.id/images/repository/326/842326-POSTER-l.jpg"/>
   </programme>
   <programme start="20261117210000 +0800" stop="20261117223000 +0800" channel="75.visionplus">
     <title lang="ms">A Woman Scorned</title>
@@ -6616,8 +5794,12 @@
     <title lang="ms">Songs For Everyone</title>
     <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117105500 +0800" stop="20261117110000 +0800" channel="76.visionplus">
+  <programme start="20261117105500 +0800" stop="20261117105900 +0800" channel="76.visionplus">
     <title lang="ms">World Weather</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20261117105900 +0800" stop="20261117110000 +0800" channel="76.visionplus">
+    <title lang="ms">Mini Program</title>
     <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
   </programme>
   <programme start="20261117110000 +0800" stop="20261117112000 +0800" channel="76.visionplus">
@@ -6818,8 +6000,12 @@
     <title lang="ms">Ready-To-Use Tips And Tricks</title>
     <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118045500 +0800" stop="20261118050000 +0800" channel="76.visionplus">
+  <programme start="20261118045500 +0800" stop="20261118045900 +0800" channel="76.visionplus">
     <title lang="ms">World Weather</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20261118045900 +0800" stop="20261118050000 +0800" channel="76.visionplus">
+    <title lang="ms">Mini Program</title>
     <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118050000 +0800" stop="20261118060000 +0800" channel="76.visionplus">
@@ -7163,11 +6349,6 @@
     <desc lang="ms">Host Michael Yo explores some of the most unusual dining establishments on earth.</desc>
     <icon src="https://www.visionplus.id/images/repository/780/526780-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117121500 +0800" stop="20261117131000 +0800" channel="80.visionplus">
-    <title lang="ms">Dr. Pimple: Breaking S2, Ep 16</title>
-    <desc lang="ms">promises to delve into the personal stories of three individuals facing unique skin challenges.</desc>
-    <icon src="https://www.visionplus.id/images/repository/780/526780-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117131000 +0800" stop="20261117133500 +0800" channel="80.visionplus">
     <title lang="ms">Rachael Ray In Tuscany, Ep 20</title>
     <desc lang="ms">Rachael Ray brings you her mouth-watering Italian specialties from her very own kitchen in her Tuscan villa, utilizing the best local ingredients from the region with her own personal twists.</desc>
@@ -7177,11 +6358,6 @@
     <title lang="ms">Oceanfront Property S1, Ep 8</title>
     <desc lang="ms">Dawn met Carey while working on the West Coast where they started their family; now that Carey has retired, Dawn has convinced him to move back home with her to the East Coast; Carey's only requirement is to live by the ocean.</desc>
     <icon src="https://www.visionplus.id/images/repository/780/526780-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117140500 +0800" stop="20261117154000 +0800" channel="80.visionplus">
-    <title lang="ms">Woman with the Red Lipstick</title>
-    <desc lang="ms">Seeking excitement, Lucy and her boyfriend invent aliases and pretend to meet as strangers in a bar. Days later, a news report reveals a missing woman sharing Lucy’s chosen name, turning playful fantasy into chilling doubt</desc>
-    <icon src="https://www.visionplus.id/images/repository/651/646651-POSTER-l.jpg"/>
   </programme>
   <programme start="20261117154000 +0800" stop="20261117164000 +0800" channel="80.visionplus">
     <title lang="ms">MasterChef Australia S18, Ep 34</title>
@@ -7223,44 +6399,14 @@
     <desc lang="ms">Rachael Ray brings you her mouth-watering Italian specialties from her very own kitchen in her Tuscan villa, utilizing the best local ingredients from the region with her own personal twists.</desc>
     <icon src="https://www.visionplus.id/images/repository/382/74382-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117220000 +0800" stop="20261117233500 +0800" channel="80.visionplus">
-    <title lang="ms">The Girl Who Wasn't Dead</title>
-    <desc lang="ms">The story follows Erica, a 15-year-old girl who disappears without a trace, leading authorities to suspect that she may have been the victim of a local serial killer.</desc>
-    <icon src="https://www.visionplus.id/images/repository/382/74382-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117233500 +0800" stop="20261118000500 +0800" channel="80.visionplus">
     <title lang="ms">Meals In Minutes S4, Ep 7</title>
-    <desc lang="ms">In this fresh take on the quick, easy, and yummy meals that made her a star, Rachael Ray welcomes viewers into her personal home kitchen and guides them through complete Meals in Minutes ranging from simple comfort food to more sophisticated fare.</desc>
-    <icon src="https://www.visionplus.id/images/repository/780/526780-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118000500 +0800" stop="20261118003500 +0800" channel="80.visionplus">
-    <title lang="ms">Meals In Minutes S4, Ep 4</title>
     <desc lang="ms">In this fresh take on the quick, easy, and yummy meals that made her a star, Rachael Ray welcomes viewers into her personal home kitchen and guides them through complete Meals in Minutes ranging from simple comfort food to more sophisticated fare.</desc>
     <icon src="https://www.visionplus.id/images/repository/780/526780-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118003500 +0800" stop="20261118013500 +0800" channel="80.visionplus">
     <title lang="ms">Dr. Pimple: Breaking S2, Ep 17</title>
     <desc lang="ms">promises to delve into the personal stories of three individuals facing unique skin challenges.</desc>
-    <icon src="https://www.visionplus.id/images/repository/780/526780-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118013500 +0800" stop="20261118023500 +0800" channel="80.visionplus">
-    <title lang="ms">Hit-And-Miss Tour S1, Ep 24</title>
-    <desc lang="ms">Five celebrity friends go on a trip together; at each stop where they must spend money, they play games to determine who covers the costs for all.</desc>
-    <icon src="https://www.visionplus.id/images/repository/382/74382-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118023500 +0800" stop="20261118042000 +0800" channel="80.visionplus">
-    <title lang="ms">Woman with the Red Lipstick</title>
-    <desc lang="ms">Seeking excitement, Lucy and her boyfriend invent aliases and pretend to meet as strangers in a bar. Days later, a news report reveals a missing woman sharing Lucy’s chosen name, turning playful fantasy into chilling doubt</desc>
-    <icon src="https://www.visionplus.id/images/repository/651/646651-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118042000 +0800" stop="20261118060500 +0800" channel="80.visionplus">
-    <title lang="ms">The Girl Who Wasn't Dead</title>
-    <desc lang="ms">The story follows Erica, a 15-year-old girl who disappears without a trace, leading authorities to suspect that she may have been the victim of a local serial killer.</desc>
-    <icon src="https://www.visionplus.id/images/repository/382/74382-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118060500 +0800" stop="20261118070500 +0800" channel="80.visionplus">
-    <title lang="ms">Earth Sweepers, Ep 6</title>
-    <desc lang="ms">When they discover a humanoid robot named Dorothy that's known to be a weapon of mass destruction, they get involved in a risky business deal.</desc>
     <icon src="https://www.visionplus.id/images/repository/780/526780-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118070500 +0800" stop="20261118081000 +0800" channel="80.visionplus">
@@ -7490,48 +6636,8 @@
     <desc lang="ms">Late Night With Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
     <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117103000 +0800" stop="20261117111500 +0800" channel="92.visionplus">
-    <title lang="ms">Real Housewives Of..., Ep 11</title>
-    <desc lang="ms">The season focuses on the personal and professional lives of Kyle Richards, Erika Girardi, Dorit Kemsley, Sutton Stracke, Bozoma Saint John, Amanda Frances and Rachel Zoe, with Kathy Hilton, Jennifer Tilly and Natalie Swanston Fuller appearing as friends of the housewives.</desc>
-    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117111500 +0800" stop="20261117120000 +0800" channel="92.visionplus">
-    <title lang="ms">The Tonight Show S14, Ep 27</title>
-    <desc lang="ms">Jimmy Fallon brings A-list guests, signature comedy bits and chart-topping music to late night.</desc>
-    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117120000 +0800" stop="20261117124500 +0800" channel="92.visionplus">
-    <title lang="ms">Late Night With... S14, Ep 27</title>
-    <desc lang="ms">Late Night With Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
-    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117124500 +0800" stop="20261117132500 +0800" channel="92.visionplus">
-    <title lang="ms">Cobra Kai S3, Ep 4</title>
-    <desc lang="ms">Miguels fighting for his life, Robbys missing, and Daniel and Johnnys reputations are in tatters as the community reacts to the West Valley brawl.</desc>
-    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117132500 +0800" stop="20261117140500 +0800" channel="92.visionplus">
-    <title lang="ms">Cobra Kai S3, Ep 5</title>
-    <desc lang="ms">Miguels fighting for his life, Robbys missing, and Daniel and Johnnys reputations are in tatters as the community reacts to the West Valley brawl.</desc>
-    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117140500 +0800" stop="20261117144000 +0800" channel="92.visionplus">
-    <title lang="ms">Cobra Kai S3, Ep 6</title>
-    <desc lang="ms">Miguels fighting for his life, Robbys missing, and Daniel and Johnnys reputations are in tatters as the community reacts to the West Valley brawl.</desc>
-    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117144000 +0800" stop="20261117151000 +0800" channel="92.visionplus">
-    <title lang="ms">Cobra Kai S3, Ep 7</title>
-    <desc lang="ms">Miguels fighting for his life, Robbys missing, and Daniel and Johnnys reputations are in tatters as the community reacts to the West Valley brawl.</desc>
-    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117151000 +0800" stop="20261117154000 +0800" channel="92.visionplus">
     <title lang="ms">Cobra Kai S3, Ep 8</title>
-    <desc lang="ms">Miguels fighting for his life, Robbys missing, and Daniel and Johnnys reputations are in tatters as the community reacts to the West Valley brawl.</desc>
-    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117154000 +0800" stop="20261117161500 +0800" channel="92.visionplus">
-    <title lang="ms">Cobra Kai S3, Ep 9</title>
     <desc lang="ms">Miguels fighting for his life, Robbys missing, and Daniel and Johnnys reputations are in tatters as the community reacts to the West Valley brawl.</desc>
     <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
   </programme>
@@ -7600,18 +6706,8 @@
     <desc lang="ms">Follows a time traveling librarian from the past that unfortunately finds himself trapped in the present. Now he will be given a team of new librarians to clean up the mess he made, releasing magic across the continent.</desc>
     <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118030000 +0800" stop="20261118033000 +0800" channel="92.visionplus">
-    <title lang="ms">Cobra Kai S3, Ep 7</title>
-    <desc lang="ms">Miguels fighting for his life, Robbys missing, and Daniel and Johnnys reputations are in tatters as the community reacts to the West Valley brawl.</desc>
-    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261118033000 +0800" stop="20261118040000 +0800" channel="92.visionplus">
     <title lang="ms">Cobra Kai S3, Ep 8</title>
-    <desc lang="ms">Miguels fighting for his life, Robbys missing, and Daniel and Johnnys reputations are in tatters as the community reacts to the West Valley brawl.</desc>
-    <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118040000 +0800" stop="20261118043500 +0800" channel="92.visionplus">
-    <title lang="ms">Cobra Kai S3, Ep 9</title>
     <desc lang="ms">Miguels fighting for his life, Robbys missing, and Daniel and Johnnys reputations are in tatters as the community reacts to the West Valley brawl.</desc>
     <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
   </programme>
@@ -7640,11 +6736,6 @@
     <desc lang="ms">Follows a time traveling librarian from the past that unfortunately finds himself trapped in the present. Now he will be given a team of new librarians to clean up the mess he made, releasing magic across the continent.</desc>
     <icon src="https://www.visionplus.id/images/repository/839/526839-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117072000 +0800" stop="20261117091000 +0800" channel="93.visionplus">
-    <title lang="ms">U-571</title>
-    <desc lang="ms">A German submarine is boarded by disguised American submariners trying to capture their Enigma cipher machine.</desc>
-    <icon src="https://www.visionplus.id/images/repository/300/526300-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117091000 +0800" stop="20261117110500 +0800" channel="93.visionplus">
     <title lang="ms">Transcendence</title>
     <desc lang="ms">A scientist's drive for artificial intelligence takes on dangerous implications when his own consciousness is uploaded into one such program.</desc>
@@ -7670,20 +6761,10 @@
     <desc lang="ms">During World War I, a British aristocrat, an American entrepreneur, and the latter's attractive young daughter, set out to destroy a German battlecruiser, which is awaiting repairs in an inlet just off Zanzibar.</desc>
     <icon src="https://www.visionplus.id/images/repository/749/690749-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117192000 +0800" stop="20261117205500 +0800" channel="93.visionplus">
-    <title lang="ms">Behind Enemy Lines (Rock Action)</title>
-    <desc lang="ms">A disillusioned navigator, shot down over war-torn Bosnia, goes on the run from the local military as well as an assassin, while his commanding officer risks all to save him.</desc>
-    <icon src="https://www.visionplus.id/images/repository/798/841798-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117205500 +0800" stop="20261117225000 +0800" channel="93.visionplus">
     <title lang="ms">The Holcroft Covenant</title>
     <desc lang="ms">The son of a German General becomes part of a mysterious conspiracy to gain hidden Nazi funds.</desc>
     <icon src="https://www.visionplus.id/images/repository/300/526300-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117225000 +0800" stop="20261118001500 +0800" channel="93.visionplus">
-    <title lang="ms">Jumper (Rock Action)</title>
-    <desc lang="ms">A young man with teleportation abilities suddenly finds himself in the middle of an ancient war between those like him and their sworn annihilators.</desc>
-    <icon src="https://www.visionplus.id/images/repository/941/814941-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118001500 +0800" stop="20261118020000 +0800" channel="93.visionplus">
     <title lang="ms">Maximum Risk</title>
@@ -7710,48 +6791,18 @@
     <desc lang="ms">A disillusioned navigator, shot down over war-torn Bosnia, goes on the run from the local military as well as an assassin, while his commanding officer risks all to save him.</desc>
     <icon src="https://www.visionplus.id/images/repository/300/526300-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261117074500 +0800" stop="20261117084000 +0800" channel="95.visionplus">
-    <title lang="ms">Evil Up Close S6, Ep 3</title>
-    <desc lang="ms">Meet the neighbor who waves politely, the friend who is the life and soul of a party, the colleague who buys the coffee. All are ready to kill, rape or harm.</desc>
-  </programme>
-  <programme start="20261117084000 +0800" stop="20261117093500 +0800" channel="95.visionplus">
-    <title lang="ms">Fugitive Hunters: Mexico, Ep 4</title>
-    <desc lang="ms">An elite Mexican police unit tracks down and captures American fugitives hiding in Mexico, using intel from various law enforcement agencies to locate and apprehend them, ensuring they face justice for their crimes in the US.</desc>
-  </programme>
-  <programme start="20261117093500 +0800" stop="20261117103000 +0800" channel="95.visionplus">
-    <title lang="ms">Booked: First Day In S2, Ep 10</title>
-    <desc lang="ms">Following people who get arrested and get booked into the system. What it feels like top be arrested, finger printed and appear in front of judge to see if they will get bonded.</desc>
-    <icon src="https://www.visionplus.id/images/repository/683/76683-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261117103000 +0800" stop="20261117112500 +0800" channel="95.visionplus">
     <title lang="ms">Hoarders S14, Ep 5</title>
     <desc lang="ms">A reality-TV show that features compulsive hoarders--people who are addicted to filling their homes with objects--and how that spills out into their lives.</desc>
-    <icon src="https://www.visionplus.id/images/repository/683/76683-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261117112500 +0800" stop="20261117122000 +0800" channel="95.visionplus">
-    <title lang="ms">1975: KL Under Siege</title>
-    <desc lang="ms">In this event, five JRA members took 53 hostages, including the U.S. Consul and the Swedish chargé d'affaires, demanding the release of their imprisoned comrades in Japan. The documentary features eyewitness interviews, event reconstructions, and an in-depth analysis of the incident's impact on Malaysia's national security and global diplomatic relations.</desc>
     <icon src="https://www.visionplus.id/images/repository/683/76683-POSTER-l.jpg"/>
   </programme>
   <programme start="20261117122000 +0800" stop="20261117131500 +0800" channel="95.visionplus">
     <title lang="ms">Interrogation Raw S4, Ep 4</title>
     <desc lang="ms">26-year-old Timothy Rambo Ramsey is killed in a drive-by shooting, but the investigation yields little evidence, and the case goes cold for six years.</desc>
   </programme>
-  <programme start="20261117131500 +0800" stop="20261117141000 +0800" channel="95.visionplus">
-    <title lang="ms">After The First 48 S16, Ep 117</title>
-    <desc lang="ms">Detectives in major cities around the country race against the clock in the wake of homicides, knowing that if they don't find a lead within the first 48 hours, their chances of solving a case are cut in half. The series shows how detectives use forensic evidence and witness interviews to help identify suspects.</desc>
-  </programme>
-  <programme start="20261117141000 +0800" stop="20261117150500 +0800" channel="95.visionplus">
-    <title lang="ms">Taking The Stand S3, Ep 9</title>
-    <desc lang="ms">Skiing icon Dean Cummings is on trial for the shooting death of Guillermo Arriola, a local New Mexican rancher who was only armed with a can of mace; Cummings claims the shooting was done in self-defense.</desc>
-  </programme>
   <programme start="20261117150500 +0800" stop="20261117160000 +0800" channel="95.visionplus">
     <title lang="ms">Taking The Stand S4, Ep 10</title>
     <desc lang="ms">Active-duty Army Sergeant DeMarcus Little is on trial for the murder of his ex-girlfriend Anitra Gunn; Little decides to testify in his own defense to tell the jury he would never harm his soulmate.</desc>
-  </programme>
-  <programme start="20261117160000 +0800" stop="20261117165500 +0800" channel="95.visionplus">
-    <title lang="ms">Evil Up Close S6, Ep 3</title>
-    <desc lang="ms">Meet the neighbor who waves politely, the friend who is the life and soul of a party, the colleague who buys the coffee. All are ready to kill, rape or harm.</desc>
   </programme>
   <programme start="20261117165500 +0800" stop="20261117174500 +0800" channel="95.visionplus">
     <title lang="ms">Fugitive Hunters: Mexico, Ep 5</title>
@@ -8119,27 +7170,37 @@
     <desc lang="ms">A news program that looks at events from the angle of reality that really happened and reveals facts that have never been revealed.</desc>
     <icon src="https://www.visionplus.id/images/repository/025/526025-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118171500 +0800" stop="20261118194500 +0800" channel="04.visionplus">
+  <programme start="20261118171500 +0800" stop="20261118192500 +0800" channel="04.visionplus">
     <title lang="ms">Inews Sore (Live)</title>
     <desc lang="ms">A daily news program that airs every afternoon, providing information on various topics ranging from politics, law, social issues, culture, economics, and sports, both domestic and international.</desc>
     <icon src="https://www.visionplus.id/images/repository/433/531433-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118194500 +0800" stop="20261118220000 +0800" channel="04.visionplus">
+  <programme start="20261118192500 +0800" stop="20261118193000 +0800" channel="04.visionplus">
+    <title lang="ms">iNews Terkini (L)</title>
+    <desc lang="ms">iNews Terkini delivers the latest news with live reports from various regions, providing timely, fast, and reliable information on today’s key developments.</desc>
+    <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20261118193000 +0800" stop="20261118220000 +0800" channel="04.visionplus">
     <title lang="ms">iNews</title>
     <desc lang="ms">A television channel that broadcasts national and regional news, providing the latest and most up-to-date information on topics such as politics, law, finance, and technology.</desc>
     <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118220000 +0800" stop="20261118230000 +0800" channel="04.visionplus">
+  <programme start="20261118220000 +0800" stop="20261118220500 +0800" channel="04.visionplus">
+    <title lang="ms">iNews Terkini (L)</title>
+    <desc lang="ms">iNews Terkini delivers the latest news with live reports from various regions, providing timely, fast, and reliable information on today’s key developments.</desc>
+    <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20261118220500 +0800" stop="20261118232000 +0800" channel="04.visionplus">
     <title lang="ms">iNews Prime (L)</title>
     <desc lang="ms">A news program from iNews that shares the latest information, reviewed in depth from various perspectives, as well as dialogues with competent sources.</desc>
     <icon src="https://www.visionplus.id/images/repository/117/526117-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118230000 +0800" stop="20261118231500 +0800" channel="04.visionplus">
+  <programme start="20261118232000 +0800" stop="20261118233000 +0800" channel="04.visionplus">
     <title lang="ms">Breaking Goals (L)</title>
     <desc lang="ms">A live sports program featuring the latest football news, match results, top goals, and in-depth analysis from major competitions around the world.</desc>
     <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118231500 +0800" stop="20261119003000 +0800" channel="04.visionplus">
+  <programme start="20261118233000 +0800" stop="20261119003000 +0800" channel="04.visionplus">
     <title lang="ms">iNews Malam (Live)</title>
     <desc lang="ms">A daily news program that airs every night, providing information on various topics ranging from politics, law, social issues, culture, economics, and sports, both domestic and international.</desc>
     <icon src="https://www.visionplus.id/images/repository/061/526061-POSTER-l.jpg"/>
@@ -8150,8 +7211,8 @@
     <icon src="https://www.visionplus.id/images/repository/408/545408-POSTER-l.jpg"/>
   </programme>
   <programme start="20261119010000 +0800" stop="20261119013000 +0800" channel="04.visionplus">
-    <title lang="ms">Breaking News</title>
-    <icon src="https://www.visionplus.id/images/repository/525/525525-POSTER-l.jpg"/>
+    <title lang="ms">E-Max</title>
+    <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
   </programme>
   <programme start="20261119013000 +0800" stop="20261119021500 +0800" channel="04.visionplus">
     <title lang="ms">iNews Sore</title>
@@ -10553,7 +9614,7 @@
   <programme start="20261118200000 +0800" stop="20261118221500 +0800" channel="42.visionplus">
     <title lang="ms">Glory (Hits Movies)</title>
     <desc lang="ms">Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates.</desc>
-    <icon src="https://www.visionplus.id/images/repository/573/525573-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/337/845337-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118221500 +0800" stop="20261119003000 +0800" channel="42.visionplus">
     <title lang="ms">On The Waterfront</title>
@@ -11047,7 +10108,7 @@
   <programme start="20261118204500 +0800" stop="20261118223000 +0800" channel="54.visionplus">
     <title lang="ms">Ticket to Paradise (Studio Universal)</title>
     <desc lang="ms">A divorced couple teams up and travels to Bali to stop their daughter from making the same mistake they think they made 25 years ago.</desc>
-    <icon src="https://www.visionplus.id/images/repository/526/526526-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/202/845202-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118223000 +0800" stop="20261119004500 +0800" channel="54.visionplus">
     <title lang="ms">Waterworld (Studio Universal)</title>
@@ -14016,54 +13077,12 @@
     <desc lang="ms">Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus.</desc>
     <icon src="https://www.visionplus.id/images/repository/738/526738-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118074000 +0800" stop="20261118080500 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
-  </programme>
-  <programme start="20261118080500 +0800" stop="20261118083000 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
-  </programme>
-  <programme start="20261118083000 +0800" stop="20261118085500 +0800" channel="67.visionplus">
-    <title lang="ms">Dew Drops Diaries</title>
-    <desc lang="ms">From finding lost items to cleaning up messes, three fairies in training love looking after kids in their care as they work toward earning their wings.</desc>
-  </programme>
-  <programme start="20261118085500 +0800" stop="20261118092000 +0800" channel="67.visionplus">
-    <title lang="ms">Dew Drops Diaries</title>
-    <desc lang="ms">From finding lost items to cleaning up messes, three fairies in training love looking after kids in their care as they work toward earning their wings.</desc>
-  </programme>
-  <programme start="20261118092000 +0800" stop="20261118094500 +0800" channel="67.visionplus">
-    <title lang="ms">Not Quite Narwhal</title>
-    <desc lang="ms">Curious little Kelp lives his whole life as a narwhal, then he finds out he's actually a unicorn.</desc>
-  </programme>
-  <programme start="20261118094500 +0800" stop="20261118101000 +0800" channel="67.visionplus">
-    <title lang="ms">Not Quite Narwhal</title>
-    <desc lang="ms">Curious little Kelp lives his whole life as a narwhal, then he finds out he's actually a unicorn.</desc>
-  </programme>
   <programme start="20261118101000 +0800" stop="20261118103500 +0800" channel="67.visionplus">
     <title lang="ms">Dragons: Rescue Riders (DreamWorks)</title>
     <desc lang="ms">Twins Dak and Leyla share a unique ability to communicate with dragons. The brother and sister lead a team of five young dragons that spend their days rescuing other dragons and helping the people in their adopted town of Huttsgalor.</desc>
     <icon src="https://www.visionplus.id/images/repository/460/842460-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118103500 +0800" stop="20261118110000 +0800" channel="67.visionplus">
-    <title lang="ms">Dragons: Rescue Riders</title>
-    <desc lang="ms">Young pup Tag Barker and her adventures in Pawston, a colorful community of dogs on the go.</desc>
-  </programme>
-  <programme start="20261118110000 +0800" stop="20261118112500 +0800" channel="67.visionplus">
-    <title lang="ms">Gabby's Dollhouse</title>
-    <desc lang="ms">Kitty enthusiast Gabby and her sidekick Pandy Paws team up for a series of animated adventures.</desc>
-    <icon src="https://www.visionplus.id/images/repository/056/715056-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118112500 +0800" stop="20261118115000 +0800" channel="67.visionplus">
-    <title lang="ms">Gabby's Dollhouse</title>
-    <desc lang="ms">Kitty enthusiast Gabby and her sidekick Pandy Paws team up for a series of animated adventures.</desc>
-    <icon src="https://www.visionplus.id/images/repository/056/715056-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261118115000 +0800" stop="20261118121500 +0800" channel="67.visionplus">
-    <title lang="ms">Madagascar: A Little Wild</title>
-    <desc lang="ms">The early years of the Madagascar heroes Alex the Lion, Marty the Zebra, Melman the Giraffe and Gloria the Hippo, as they grow up in a rescue habitat at the Central Park Zoo.</desc>
-  </programme>
-  <programme start="20261118121500 +0800" stop="20261118124000 +0800" channel="67.visionplus">
     <title lang="ms">Madagascar: A Little Wild</title>
     <desc lang="ms">The early years of the Madagascar heroes Alex the Lion, Marty the Zebra, Melman the Giraffe and Gloria the Hippo, as they grow up in a rescue habitat at the Central Park Zoo.</desc>
   </programme>
@@ -14071,166 +13090,14 @@
     <title lang="ms">Archibald's Next Big Thing...</title>
     <desc lang="ms">A comedy about the adventures of Archibald Strutter, a chicken who improvises his way through life but always finds his way home to his three siblings and trusty sidekick.</desc>
   </programme>
-  <programme start="20261118130500 +0800" stop="20261118133000 +0800" channel="67.visionplus">
-    <title lang="ms">Archibald's Next Big Thing...</title>
-    <desc lang="ms">A comedy about the adventures of Archibald Strutter, a chicken who improvises his way through life but always finds his way home to his three siblings and trusty sidekick.</desc>
-  </programme>
-  <programme start="20261118133000 +0800" stop="20261118135500 +0800" channel="67.visionplus">
-    <title lang="ms">The Adv. Of Rocky &amp; Bullwinkle</title>
-    <desc lang="ms">Jay Ward's squirrel and moose duo return in this all-new series, alongside rivals Boris and Natasha and Fearless Leader.</desc>
-    <icon src="https://www.visionplus.id/images/repository/694/797694-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118135500 +0800" stop="20261118142000 +0800" channel="67.visionplus">
-    <title lang="ms">The Adv. Of Rocky &amp; Bullwinkle</title>
-    <desc lang="ms">Jay Ward's squirrel and moose duo return in this all-new series, alongside rivals Boris and Natasha and Fearless Leader.</desc>
-    <icon src="https://www.visionplus.id/images/repository/694/797694-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118142000 +0800" stop="20261118144500 +0800" channel="67.visionplus">
-    <title lang="ms">All Hail King Julien</title>
-    <desc lang="ms">A clairvoyant, Masikura, informs King Julien XII, a spineless ring-tailed lemur, that he will be eaten by a fossa. He responds by giving the leadership of the lemurs to his self-centred nephew.</desc>
-    <icon src="https://www.visionplus.id/images/repository/577/763577-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118144500 +0800" stop="20261118151000 +0800" channel="67.visionplus">
-    <title lang="ms">All Hail King Julien</title>
-    <desc lang="ms">A clairvoyant, Masikura, informs King Julien XII, a spineless ring-tailed lemur, that he will be eaten by a fossa. He responds by giving the leadership of the lemurs to his self-centred nephew.</desc>
-    <icon src="https://www.visionplus.id/images/repository/577/763577-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118151000 +0800" stop="20261118153500 +0800" channel="67.visionplus">
-    <title lang="ms">Home: Adv. With Tip And Oh!</title>
-    <desc lang="ms">Picking up where the 2015 film left off, this coming-of-age buddy comedy follows fearless Tip and overenthusiastic Oh, as they navigate the crazily combined human and alien culture they live in, finding adventure everywhere they go.</desc>
-    <icon src="https://www.visionplus.id/images/repository/531/791531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118153500 +0800" stop="20261118160000 +0800" channel="67.visionplus">
-    <title lang="ms">Home: Adv. With Tip And Oh!</title>
-    <desc lang="ms">Picking up where the 2015 film left off, this coming-of-age buddy comedy follows fearless Tip and overenthusiastic Oh, as they navigate the crazily combined human and alien culture they live in, finding adventure everywhere they go.</desc>
-    <icon src="https://www.visionplus.id/images/repository/531/791531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118160000 +0800" stop="20261118162500 +0800" channel="67.visionplus">
-    <title lang="ms">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="ms">Follow Po, who partners up with a no-nonsense English knight named Wandering Blade, to find a collection of four powerful weapons before a mysterious pair of weasels do, and save the world from destruction.</desc>
-    <icon src="https://www.visionplus.id/images/repository/552/675552-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118162500 +0800" stop="20261118165000 +0800" channel="67.visionplus">
-    <title lang="ms">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="ms">Follow Po, who partners up with a no-nonsense English knight named Wandering Blade, to find a collection of four powerful weapons before a mysterious pair of weasels do, and save the world from destruction.</desc>
-    <icon src="https://www.visionplus.id/images/repository/552/675552-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118165000 +0800" stop="20261118171500 +0800" channel="67.visionplus">
-    <title lang="ms">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="ms">Follow Po, who partners up with a no-nonsense English knight named Wandering Blade, to find a collection of four powerful weapons before a mysterious pair of weasels do, and save the world from destruction.</desc>
-    <icon src="https://www.visionplus.id/images/repository/552/675552-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118171500 +0800" stop="20261118174000 +0800" channel="67.visionplus">
-    <title lang="ms">The Croods: Family Tree</title>
-    <desc lang="ms">It continues the evolving story of the croods and Bettermans as they learn to live together on the most idle farm in prehistory.</desc>
-    <icon src="https://www.visionplus.id/images/repository/380/761380-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118174000 +0800" stop="20261118180500 +0800" channel="67.visionplus">
-    <title lang="ms">The Croods: Family Tree</title>
-    <desc lang="ms">It continues the evolving story of the croods and Bettermans as they learn to live together on the most idle farm in prehistory.</desc>
-    <icon src="https://www.visionplus.id/images/repository/380/761380-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118180500 +0800" stop="20261118183000 +0800" channel="67.visionplus">
-    <title lang="ms">The Croods: Family Tree</title>
-    <desc lang="ms">It continues the evolving story of the croods and Bettermans as they learn to live together on the most idle farm in prehistory.</desc>
-    <icon src="https://www.visionplus.id/images/repository/380/761380-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118183000 +0800" stop="20261118185500 +0800" channel="67.visionplus">
-    <title lang="ms">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="ms">Adventures abound as a group of teenagers infiltrates an elite racing league controlled by a nefarious organization that is bent on world domination.</desc>
-    <icon src="https://www.visionplus.id/images/repository/789/651789-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118185500 +0800" stop="20261118192000 +0800" channel="67.visionplus">
-    <title lang="ms">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="ms">Adventures abound as a group of teenagers infiltrates an elite racing league controlled by a nefarious organization that is bent on world domination.</desc>
-    <icon src="https://www.visionplus.id/images/repository/789/651789-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118192000 +0800" stop="20261118194500 +0800" channel="67.visionplus">
-    <title lang="ms">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="ms">Adventures abound as a group of teenagers infiltrates an elite racing league controlled by a nefarious organization that is bent on world domination.</desc>
-    <icon src="https://www.visionplus.id/images/repository/789/651789-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118194500 +0800" stop="20261118201000 +0800" channel="67.visionplus">
-    <title lang="ms">Dragons: Race To The Edge</title>
-    <desc lang="ms">Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.</desc>
-    <icon src="https://www.visionplus.id/images/repository/843/679843-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118201000 +0800" stop="20261118203500 +0800" channel="67.visionplus">
-    <title lang="ms">Dragons: Race To The Edge</title>
-    <desc lang="ms">Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.</desc>
-    <icon src="https://www.visionplus.id/images/repository/843/679843-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118203500 +0800" stop="20261118210000 +0800" channel="67.visionplus">
-    <title lang="ms">Dragons: Race To The Edge</title>
-    <desc lang="ms">Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.</desc>
-    <icon src="https://www.visionplus.id/images/repository/843/679843-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261118210000 +0800" stop="20261118212500 +0800" channel="67.visionplus">
     <title lang="ms">The Epic Tales Of Captain Underpants (DreamWorks)</title>
     <desc lang="ms">Best friends George and Harold scheme together a number of pranks at school involving their principal, whose alter ego is a superhero they created called Captain Underpants.</desc>
     <icon src="https://www.visionplus.id/images/repository/476/842476-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261118212500 +0800" stop="20261118215000 +0800" channel="67.visionplus">
-    <title lang="ms">The Epic Tales Of Captain...</title>
-    <desc lang="ms">Best friends George and Harold scheme together a number of pranks at school involving their principal, whose alter ego is a superhero they created called Captain Underpants.</desc>
-    <icon src="https://www.visionplus.id/images/repository/896/674896-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118215000 +0800" stop="20261118221500 +0800" channel="67.visionplus">
-    <title lang="ms">The Epic Tales Of Captain...</title>
-    <desc lang="ms">Best friends George and Harold scheme together a number of pranks at school involving their principal, whose alter ego is a superhero they created called Captain Underpants.</desc>
-    <icon src="https://www.visionplus.id/images/repository/896/674896-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118221500 +0800" stop="20261118224000 +0800" channel="67.visionplus">
-    <title lang="ms">Boss Baby: Back In The Crib</title>
-    <desc lang="ms">Theodore Templeton is framed for embezzlement and forced to revert back to his old Boss Baby self and crash with his brother Tim and his two nieces, Tabitha and Tina.</desc>
-    <icon src="https://www.visionplus.id/images/repository/981/680981-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118224000 +0800" stop="20261118230500 +0800" channel="67.visionplus">
-    <title lang="ms">Boss Baby: Back In The Crib</title>
-    <desc lang="ms">Theodore Templeton is framed for embezzlement and forced to revert back to his old Boss Baby self and crash with his brother Tim and his two nieces, Tabitha and Tina.</desc>
-    <icon src="https://www.visionplus.id/images/repository/981/680981-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118230500 +0800" stop="20261118233000 +0800" channel="67.visionplus">
-    <title lang="ms">Boss Baby: Back In The Crib</title>
-    <desc lang="ms">Theodore Templeton is framed for embezzlement and forced to revert back to his old Boss Baby self and crash with his brother Tim and his two nieces, Tabitha and Tina.</desc>
-    <icon src="https://www.visionplus.id/images/repository/981/680981-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118233000 +0800" stop="20261118235500 +0800" channel="67.visionplus">
-    <title lang="ms">Spirit Riding Free</title>
-    <desc lang="ms">The wild west adventures of a free-spirited girl and her wild stallion horse companion.</desc>
-    <icon src="https://www.visionplus.id/images/repository/826/805826-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261118235500 +0800" stop="20261119002000 +0800" channel="67.visionplus">
-    <title lang="ms">Spirit Riding Free</title>
-    <desc lang="ms">The wild west adventures of a free-spirited girl and her wild stallion horse companion.</desc>
-    <icon src="https://www.visionplus.id/images/repository/826/805826-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119002000 +0800" stop="20261119004500 +0800" channel="67.visionplus">
-    <title lang="ms">Spirit Riding Free</title>
-    <desc lang="ms">The wild west adventures of a free-spirited girl and her wild stallion horse companion.</desc>
-    <icon src="https://www.visionplus.id/images/repository/826/805826-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119004500 +0800" stop="20261119011000 +0800" channel="67.visionplus">
-    <title lang="ms">All Hail King Julien</title>
-    <desc lang="ms">A clairvoyant, Masikura, informs King Julien XII, a spineless ring-tailed lemur, that he will be eaten by a fossa. He responds by giving the leadership of the lemurs to his self-centred nephew.</desc>
-    <icon src="https://www.visionplus.id/images/repository/577/763577-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119011000 +0800" stop="20261119013500 +0800" channel="67.visionplus">
-    <title lang="ms">All Hail King Julien</title>
-    <desc lang="ms">A clairvoyant, Masikura, informs King Julien XII, a spineless ring-tailed lemur, that he will be eaten by a fossa. He responds by giving the leadership of the lemurs to his self-centred nephew.</desc>
-    <icon src="https://www.visionplus.id/images/repository/577/763577-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261119013500 +0800" stop="20261119020000 +0800" channel="67.visionplus">
     <title lang="ms">All Hail King Julien: Exiled</title>
     <desc lang="ms">Julien's been dethroned and his kingdom is in trouble so now he has to fight Sage's brother Koto and free his subjects to get it back with help from his friends.</desc>
-  </programme>
-  <programme start="20261119020000 +0800" stop="20261119022500 +0800" channel="67.visionplus">
-    <title lang="ms">Harvey Girls Forever!</title>
-    <desc lang="ms">Animated series targeted at 9 to 12-year-old girls, in which kids do whatever they want in their favorite place: the one and only Harvey Street.</desc>
-  </programme>
-  <programme start="20261119022500 +0800" stop="20261119025000 +0800" channel="67.visionplus">
-    <title lang="ms">Harvey Girls Forever!</title>
-    <desc lang="ms">Animated series targeted at 9 to 12-year-old girls, in which kids do whatever they want in their favorite place: the one and only Harvey Street.</desc>
   </programme>
   <programme start="20261119025000 +0800" stop="20261119031500 +0800" channel="67.visionplus">
     <title lang="ms">Dinotrux Supercharged</title>
@@ -14239,56 +13106,6 @@
   <programme start="20261119031500 +0800" stop="20261119034000 +0800" channel="67.visionplus">
     <title lang="ms">Dinotrux Supercharged</title>
     <desc lang="ms">In this new season of dinotrux Ty and the others meet new friends as well as face new challenges both normal and supercharged.</desc>
-  </programme>
-  <programme start="20261119034000 +0800" stop="20261119040500 +0800" channel="67.visionplus">
-    <title lang="ms">The Adv. Of Puss In Boots</title>
-    <desc lang="ms">Puss in Boots, a street-smart cat, accidentally destroys the magical wards in San Lorenzo. He must now protect the orphans living in the city from the villains.</desc>
-    <icon src="https://www.visionplus.id/images/repository/606/687606-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119040500 +0800" stop="20261119043000 +0800" channel="67.visionplus">
-    <title lang="ms">The Adv. Of Puss In Boots</title>
-    <desc lang="ms">Puss in Boots, a street-smart cat, accidentally destroys the magical wards in San Lorenzo. He must now protect the orphans living in the city from the villains.</desc>
-    <icon src="https://www.visionplus.id/images/repository/606/687606-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119043000 +0800" stop="20261119050000 +0800" channel="67.visionplus">
-    <title lang="ms">Go, Dog. Go!</title>
-    <desc lang="ms">Young pup Tag Barker and her adventures in Pawston, a colorful community of dogs on the go.</desc>
-  </programme>
-  <programme start="20261119050000 +0800" stop="20261119053000 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
-  </programme>
-  <programme start="20261119053000 +0800" stop="20261119060000 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
-  </programme>
-  <programme start="20261119060000 +0800" stop="20261119062500 +0800" channel="67.visionplus">
-    <title lang="ms">Team Zenko Go</title>
-    <desc lang="ms">No good deed is too small for this kind kid squad. Niah, Ari, Ellie and Jax go undercover to help others and squash their town's problems in secret.</desc>
-  </programme>
-  <programme start="20261119062500 +0800" stop="20261119065000 +0800" channel="67.visionplus">
-    <title lang="ms">Team Zenko Go</title>
-    <desc lang="ms">No good deed is too small for this kind kid squad. Niah, Ari, Ellie and Jax go undercover to help others and squash their town's problems in secret.</desc>
-  </programme>
-  <programme start="20261119065000 +0800" stop="20261119070200 +0800" channel="67.visionplus">
-    <title lang="ms">Olivia</title>
-    <desc lang="ms">Olivia is an imaginative, and creative pig. She does everything with her best friends, Julian and Francine. Olivia is always up for fun, if it's at school, at home, or at a friends house.</desc>
-  </programme>
-  <programme start="20261119070200 +0800" stop="20261119071400 +0800" channel="67.visionplus">
-    <title lang="ms">Olivia</title>
-    <desc lang="ms">Olivia is an imaginative, and creative pig. She does everything with her best friends, Julian and Francine. Olivia is always up for fun, if it's at school, at home, or at a friends house.</desc>
-  </programme>
-  <programme start="20261119071400 +0800" stop="20261119072600 +0800" channel="67.visionplus">
-    <title lang="ms">Olivia</title>
-    <desc lang="ms">Olivia is an imaginative, and creative pig. She does everything with her best friends, Julian and Francine. Olivia is always up for fun, if it's at school, at home, or at a friends house.</desc>
-  </programme>
-  <programme start="20261119072600 +0800" stop="20261119074000 +0800" channel="67.visionplus">
-    <title lang="ms">Olivia</title>
-    <desc lang="ms">Olivia is an imaginative, and creative pig. She does everything with her best friends, Julian and Francine. Olivia is always up for fun, if it's at school, at home, or at a friends house.</desc>
-  </programme>
-  <programme start="20261119074000 +0800" stop="20261119080500 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
   </programme>
   <programme start="20261118080000 +0800" stop="20261118090000 +0800" channel="68.visionplus">
     <title lang="ms">Sheriff Country S2: Close To...</title>
@@ -14353,17 +13170,17 @@
   <programme start="20261118203000 +0800" stop="20261118210000 +0800" channel="68.visionplus">
     <title lang="ms">Ghosts S5: Woodstone Royale (Hits Now)</title>
     <desc lang="ms">Needing to raise a large sum of money to pay the IRS, Sam and Jay agree to host a high-stakes poker game at the mansion; in an act of generosity, Isaac gifts Jay's recliner to the basement ghosts.</desc>
-    <icon src="https://www.visionplus.id/images/repository/591/612591-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/899/844899-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118210000 +0800" stop="20261118220000 +0800" channel="68.visionplus">
     <title lang="ms">FBI S9, Ep 7 (Hits Now)</title>
     <desc lang="ms">The ninth season follows the FBI’s New York team as they investigate major cases involving terrorism, organized crime, and counterintelligence. The season also explores OA’s changing role and Maggie’s new partnership as the team faces new challenges.</desc>
-    <icon src="https://www.visionplus.id/images/repository/591/612591-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/911/844911-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118220000 +0800" stop="20261118230000 +0800" channel="68.visionplus">
     <title lang="ms">The Miniature Wife: Shrinking (Hits Now)</title>
     <desc lang="ms">Les and Lindy's daughter unexpectedly comes home from college, causing Lindy to go into hiding.</desc>
-    <icon src="https://www.visionplus.id/images/repository/591/612591-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/922/844922-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118230000 +0800" stop="20261118233000 +0800" channel="68.visionplus">
     <title lang="ms">Entertainment Tonight</title>
@@ -15466,8 +14283,7 @@
     <icon src="https://www.visionplus.id/images/repository/473/526473-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118150000 +0800" stop="20261118160000 +0800" channel="89.visionplus">
-    <title lang="ms">RT Kampung Ambyar</title>
-    <desc lang="ms">RT Kampung Ambyar tells about Aryo. the bread seller is handsome, innocent, and kind. Aryo is dating a rich woman named Dinda . They planned for an engagement, but were rejected by Dinda's family. The head of the RT who was the representative of the Aryo family suffered a heart attack and Aryo was appointed by the residents as the head of the RT in his settlement.</desc>
+    <title lang="ms">Curhatan Orang Dalam</title>
     <icon src="https://www.visionplus.id/images/repository/473/526473-POSTER-l.jpg"/>
   </programme>
   <programme start="20261118160000 +0800" stop="20261118170000 +0800" channel="89.visionplus">
@@ -16191,27 +15007,40 @@
     <desc lang="ms">A news program that looks at events from the angle of reality that really happened and reveals facts that have never been revealed.</desc>
     <icon src="https://www.visionplus.id/images/repository/025/526025-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261119171500 +0800" stop="20261119194500 +0800" channel="04.visionplus">
+  <programme start="20261119171500 +0800" stop="20261119191000 +0800" channel="04.visionplus">
     <title lang="ms">Inews Sore (Live)</title>
     <desc lang="ms">A daily news program that airs every afternoon, providing information on various topics ranging from politics, law, social issues, culture, economics, and sports, both domestic and international.</desc>
     <icon src="https://www.visionplus.id/images/repository/433/531433-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261119194500 +0800" stop="20261119220000 +0800" channel="04.visionplus">
+  <programme start="20261119191000 +0800" stop="20261119191500 +0800" channel="04.visionplus">
+    <title lang="ms">iNews Terkini (L)</title>
+    <desc lang="ms">iNews Terkini delivers the latest news with live reports from various regions, providing timely, fast, and reliable information on today’s key developments.</desc>
+    <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20261119191500 +0800" stop="20261119220000 +0800" channel="04.visionplus">
     <title lang="ms">iNews</title>
     <desc lang="ms">A television channel that broadcasts national and regional news, providing the latest and most up-to-date information on topics such as politics, law, finance, and technology.</desc>
     <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261119220000 +0800" stop="20261119230000 +0800" channel="04.visionplus">
-    <title lang="ms">iNews Prime (L)</title>
-    <desc lang="ms">A news program from iNews that shares the latest information, reviewed in depth from various perspectives, as well as dialogues with competent sources.</desc>
-    <icon src="https://www.visionplus.id/images/repository/117/526117-POSTER-l.jpg"/>
+  <programme start="20261119220000 +0800" stop="20261119220500 +0800" channel="04.visionplus">
+    <title lang="ms">iNews Terkini (L)</title>
+    <desc lang="ms">iNews Terkini delivers the latest news with live reports from various regions, providing timely, fast, and reliable information on today’s key developments.</desc>
+    <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261119230000 +0800" stop="20261119231500 +0800" channel="04.visionplus">
+  <programme start="20261119220500 +0800" stop="20261119223000 +0800" channel="04.visionplus">
+    <title lang="ms">Interupsi (L)</title>
+    <icon src="https://www.visionplus.id/images/repository/174/319174-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20261119223000 +0800" stop="20261119232000 +0800" channel="04.visionplus">
+    <title lang="ms">Crystalin</title>
+    <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20261119232000 +0800" stop="20261119233000 +0800" channel="04.visionplus">
     <title lang="ms">Breaking Goals (L)</title>
     <desc lang="ms">A live sports program featuring the latest football news, match results, top goals, and in-depth analysis from major competitions around the world.</desc>
     <icon src="https://www.visionplus.id/images/repository/416/525416-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261119231500 +0800" stop="20261120003000 +0800" channel="04.visionplus">
+  <programme start="20261119233000 +0800" stop="20261120003000 +0800" channel="04.visionplus">
     <title lang="ms">iNews Malam (Live)</title>
     <desc lang="ms">A daily news program that airs every night, providing information on various topics ranging from politics, law, social issues, culture, economics, and sports, both domestic and international.</desc>
     <icon src="https://www.visionplus.id/images/repository/061/526061-POSTER-l.jpg"/>
@@ -18374,11 +17203,6 @@
     <desc lang="ms">A young woman searches for the lost sword of D'Artagnan after her grandfather has an accident.</desc>
     <icon src="https://www.visionplus.id/images/repository/047/842047-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261119210200 +0800" stop="20261119224600 +0800" channel="37.visionplus">
-    <title lang="ms">Space Racers</title>
-    <desc lang="ms">Join the students at Stardust Space Academy, while they go on missions to learn new facts while having fun. With engaging and fun characters the leader of the Space Racers, and Hawk.</desc>
-    <icon src="https://www.visionplus.id/images/repository/071/759071-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261119224600 +0800" stop="20261120002200 +0800" channel="37.visionplus">
     <title lang="ms">Pokémon: The Rise of Darkrai (Buddy Star)</title>
     <desc lang="ms">An idyllic town is thrown into chaos when two powerful Pokémon, Dialga and Palkia, cross paths and battle, distorting the dimensions of time and space. The only hope comes from Darkrai, a shadowy Pokémon shunned by the townsfolk.</desc>
@@ -19206,12 +18030,12 @@
   <programme start="20261119181500 +0800" stop="20261119201500 +0800" channel="54.visionplus">
     <title lang="ms">The 40-Year-Old Virgin (Studio Universal)</title>
     <desc lang="ms">Guided by his buddies, a nerdy guy who's never "done the deed" only finds the pressure mounting when he meets a single mother.</desc>
-    <icon src="https://www.visionplus.id/images/repository/526/526526-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/937/844937-POSTER-l.jpg"/>
   </programme>
   <programme start="20261119201500 +0800" stop="20261119220000 +0800" channel="54.visionplus">
     <title lang="ms">Paul (Studio Universal)</title>
     <desc lang="ms">Two English comic book geeks traveling across the U.S. encounter an alien outside Area 51.</desc>
-    <icon src="https://www.visionplus.id/images/repository/526/526526-POSTER-l.jpg"/>
+    <icon src="https://www.visionplus.id/images/repository/213/845213-POSTER-l.jpg"/>
   </programme>
   <programme start="20261119220000 +0800" stop="20261120002000 +0800" channel="54.visionplus">
     <title lang="ms">Apollo 13 (Studio Universal)</title>
@@ -21918,35 +20742,7 @@
     <desc lang="ms">Living in a fairy tale may seem like a dream, but for this young heroine it is more like a nightmare.</desc>
     <icon src="https://www.visionplus.id/images/repository/738/526738-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261119074000 +0800" stop="20261119080500 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
-  </programme>
-  <programme start="20261119080500 +0800" stop="20261119083000 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
-  </programme>
-  <programme start="20261119083000 +0800" stop="20261119085500 +0800" channel="67.visionplus">
-    <title lang="ms">Dew Drops Diaries</title>
-    <desc lang="ms">From finding lost items to cleaning up messes, three fairies in training love looking after kids in their care as they work toward earning their wings.</desc>
-  </programme>
-  <programme start="20261119085500 +0800" stop="20261119092000 +0800" channel="67.visionplus">
-    <title lang="ms">Dew Drops Diaries</title>
-    <desc lang="ms">From finding lost items to cleaning up messes, three fairies in training love looking after kids in their care as they work toward earning their wings.</desc>
-  </programme>
-  <programme start="20261119092000 +0800" stop="20261119094500 +0800" channel="67.visionplus">
-    <title lang="ms">Not Quite Narwhal</title>
-    <desc lang="ms">Curious little Kelp lives his whole life as a narwhal, then he finds out he's actually a unicorn.</desc>
-  </programme>
-  <programme start="20261119094500 +0800" stop="20261119101000 +0800" channel="67.visionplus">
-    <title lang="ms">Not Quite Narwhal</title>
-    <desc lang="ms">Curious little Kelp lives his whole life as a narwhal, then he finds out he's actually a unicorn.</desc>
-  </programme>
   <programme start="20261119101000 +0800" stop="20261119103500 +0800" channel="67.visionplus">
-    <title lang="ms">Dragons: Rescue Riders</title>
-    <desc lang="ms">Young pup Tag Barker and her adventures in Pawston, a colorful community of dogs on the go.</desc>
-  </programme>
-  <programme start="20261119103500 +0800" stop="20261119110000 +0800" channel="67.visionplus">
     <title lang="ms">Dragons: Rescue Riders</title>
     <desc lang="ms">Young pup Tag Barker and her adventures in Pawston, a colorful community of dogs on the go.</desc>
   </programme>
@@ -21955,161 +20751,15 @@
     <desc lang="ms">Kitty enthusiast Gabby and her sidekick Pandy Paws team up for a series of animated adventures.</desc>
     <icon src="https://www.visionplus.id/images/repository/056/715056-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261119112500 +0800" stop="20261119115000 +0800" channel="67.visionplus">
-    <title lang="ms">Gabby's Dollhouse</title>
-    <desc lang="ms">Kitty enthusiast Gabby and her sidekick Pandy Paws team up for a series of animated adventures.</desc>
-    <icon src="https://www.visionplus.id/images/repository/056/715056-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119115000 +0800" stop="20261119121500 +0800" channel="67.visionplus">
-    <title lang="ms">Madagascar: A Little Wild</title>
-    <desc lang="ms">The early years of the Madagascar heroes Alex the Lion, Marty the Zebra, Melman the Giraffe and Gloria the Hippo, as they grow up in a rescue habitat at the Central Park Zoo.</desc>
-  </programme>
-  <programme start="20261119121500 +0800" stop="20261119124000 +0800" channel="67.visionplus">
-    <title lang="ms">Madagascar: A Little Wild</title>
-    <desc lang="ms">The early years of the Madagascar heroes Alex the Lion, Marty the Zebra, Melman the Giraffe and Gloria the Hippo, as they grow up in a rescue habitat at the Central Park Zoo.</desc>
-  </programme>
-  <programme start="20261119124000 +0800" stop="20261119130500 +0800" channel="67.visionplus">
-    <title lang="ms">Archibald's Next Big Thing...</title>
-    <desc lang="ms">A comedy about the adventures of Archibald Strutter, a chicken who improvises his way through life but always finds his way home to his three siblings and trusty sidekick.</desc>
-  </programme>
-  <programme start="20261119130500 +0800" stop="20261119133000 +0800" channel="67.visionplus">
-    <title lang="ms">Archibald's Next Big Thing...</title>
-    <desc lang="ms">A comedy about the adventures of Archibald Strutter, a chicken who improvises his way through life but always finds his way home to his three siblings and trusty sidekick.</desc>
-  </programme>
   <programme start="20261119133000 +0800" stop="20261119135500 +0800" channel="67.visionplus">
     <title lang="ms">The Adv. Of Rocky &amp; Bullwinkle (DreamWorks)</title>
     <desc lang="ms">Jay Ward's squirrel and moose duo return in this all-new series, alongside rivals Boris and Natasha and Fearless Leader.</desc>
     <icon src="https://www.visionplus.id/images/repository/505/842505-POSTER-l.jpg"/>
   </programme>
-  <programme start="20261119135500 +0800" stop="20261119142000 +0800" channel="67.visionplus">
-    <title lang="ms">The Adv. Of Rocky &amp; Bullwinkle</title>
-    <desc lang="ms">Jay Ward's squirrel and moose duo return in this all-new series, alongside rivals Boris and Natasha and Fearless Leader.</desc>
-    <icon src="https://www.visionplus.id/images/repository/694/797694-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119142000 +0800" stop="20261119144500 +0800" channel="67.visionplus">
-    <title lang="ms">All Hail King Julien</title>
-    <desc lang="ms">A clairvoyant, Masikura, informs King Julien XII, a spineless ring-tailed lemur, that he will be eaten by a fossa. He responds by giving the leadership of the lemurs to his self-centred nephew.</desc>
-    <icon src="https://www.visionplus.id/images/repository/577/763577-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119144500 +0800" stop="20261119151000 +0800" channel="67.visionplus">
-    <title lang="ms">All Hail King Julien</title>
-    <desc lang="ms">A clairvoyant, Masikura, informs King Julien XII, a spineless ring-tailed lemur, that he will be eaten by a fossa. He responds by giving the leadership of the lemurs to his self-centred nephew.</desc>
-    <icon src="https://www.visionplus.id/images/repository/577/763577-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119151000 +0800" stop="20261119153500 +0800" channel="67.visionplus">
-    <title lang="ms">Home: Adv. With Tip And Oh!</title>
-    <desc lang="ms">Picking up where the 2015 film left off, this coming-of-age buddy comedy follows fearless Tip and overenthusiastic Oh, as they navigate the crazily combined human and alien culture they live in, finding adventure everywhere they go.</desc>
-    <icon src="https://www.visionplus.id/images/repository/531/791531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119153500 +0800" stop="20261119160000 +0800" channel="67.visionplus">
-    <title lang="ms">Home: Adv. With Tip And Oh!</title>
-    <desc lang="ms">Picking up where the 2015 film left off, this coming-of-age buddy comedy follows fearless Tip and overenthusiastic Oh, as they navigate the crazily combined human and alien culture they live in, finding adventure everywhere they go.</desc>
-    <icon src="https://www.visionplus.id/images/repository/531/791531-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119160000 +0800" stop="20261119162500 +0800" channel="67.visionplus">
-    <title lang="ms">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="ms">Follow Po, who partners up with a no-nonsense English knight named Wandering Blade, to find a collection of four powerful weapons before a mysterious pair of weasels do, and save the world from destruction.</desc>
-    <icon src="https://www.visionplus.id/images/repository/552/675552-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119162500 +0800" stop="20261119165000 +0800" channel="67.visionplus">
-    <title lang="ms">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="ms">Follow Po, who partners up with a no-nonsense English knight named Wandering Blade, to find a collection of four powerful weapons before a mysterious pair of weasels do, and save the world from destruction.</desc>
-    <icon src="https://www.visionplus.id/images/repository/552/675552-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119165000 +0800" stop="20261119171500 +0800" channel="67.visionplus">
-    <title lang="ms">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="ms">Follow Po, who partners up with a no-nonsense English knight named Wandering Blade, to find a collection of four powerful weapons before a mysterious pair of weasels do, and save the world from destruction.</desc>
-    <icon src="https://www.visionplus.id/images/repository/552/675552-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119171500 +0800" stop="20261119174000 +0800" channel="67.visionplus">
-    <title lang="ms">The Croods: Family Tree</title>
-    <desc lang="ms">It continues the evolving story of the croods and Bettermans as they learn to live together on the most idle farm in prehistory.</desc>
-    <icon src="https://www.visionplus.id/images/repository/380/761380-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119174000 +0800" stop="20261119180500 +0800" channel="67.visionplus">
-    <title lang="ms">The Croods: Family Tree</title>
-    <desc lang="ms">It continues the evolving story of the croods and Bettermans as they learn to live together on the most idle farm in prehistory.</desc>
-    <icon src="https://www.visionplus.id/images/repository/380/761380-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119180500 +0800" stop="20261119183000 +0800" channel="67.visionplus">
-    <title lang="ms">The Croods: Family Tree</title>
-    <desc lang="ms">It continues the evolving story of the croods and Bettermans as they learn to live together on the most idle farm in prehistory.</desc>
-    <icon src="https://www.visionplus.id/images/repository/380/761380-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119183000 +0800" stop="20261119185500 +0800" channel="67.visionplus">
-    <title lang="ms">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="ms">Adventures abound as a group of teenagers infiltrates an elite racing league controlled by a nefarious organization that is bent on world domination.</desc>
-    <icon src="https://www.visionplus.id/images/repository/789/651789-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119185500 +0800" stop="20261119192000 +0800" channel="67.visionplus">
-    <title lang="ms">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="ms">Adventures abound as a group of teenagers infiltrates an elite racing league controlled by a nefarious organization that is bent on world domination.</desc>
-    <icon src="https://www.visionplus.id/images/repository/789/651789-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119192000 +0800" stop="20261119194500 +0800" channel="67.visionplus">
-    <title lang="ms">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="ms">Adventures abound as a group of teenagers infiltrates an elite racing league controlled by a nefarious organization that is bent on world domination.</desc>
-    <icon src="https://www.visionplus.id/images/repository/789/651789-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119194500 +0800" stop="20261119201000 +0800" channel="67.visionplus">
-    <title lang="ms">Dragons: Race To The Edge</title>
-    <desc lang="ms">Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.</desc>
-    <icon src="https://www.visionplus.id/images/repository/843/679843-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119201000 +0800" stop="20261119203500 +0800" channel="67.visionplus">
-    <title lang="ms">Dragons: Race To The Edge</title>
-    <desc lang="ms">Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.</desc>
-    <icon src="https://www.visionplus.id/images/repository/843/679843-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119203500 +0800" stop="20261119210000 +0800" channel="67.visionplus">
-    <title lang="ms">Dragons: Race To The Edge</title>
-    <desc lang="ms">Unlock the secrets of the Dragon Eye and come face to face with more dragons than anyone has ever imagined as Hiccup, Toothless and the Dragon Riders soar to the edge of adventure.</desc>
-    <icon src="https://www.visionplus.id/images/repository/843/679843-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119210000 +0800" stop="20261119212500 +0800" channel="67.visionplus">
-    <title lang="ms">The Epic Tales Of Captain...</title>
-    <desc lang="ms">Best friends George and Harold scheme together a number of pranks at school involving their principal, whose alter ego is a superhero they created called Captain Underpants.</desc>
-    <icon src="https://www.visionplus.id/images/repository/896/674896-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119212500 +0800" stop="20261119215000 +0800" channel="67.visionplus">
-    <title lang="ms">The Epic Tales Of Captain...</title>
-    <desc lang="ms">Best friends George and Harold scheme together a number of pranks at school involving their principal, whose alter ego is a superhero they created called Captain Underpants.</desc>
-    <icon src="https://www.visionplus.id/images/repository/896/674896-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119215000 +0800" stop="20261119221500 +0800" channel="67.visionplus">
-    <title lang="ms">The Epic Tales Of Captain...</title>
-    <desc lang="ms">Best friends George and Harold scheme together a number of pranks at school involving their principal, whose alter ego is a superhero they created called Captain Underpants.</desc>
-    <icon src="https://www.visionplus.id/images/repository/896/674896-POSTER-l.jpg"/>
-  </programme>
   <programme start="20261119221500 +0800" stop="20261119224000 +0800" channel="67.visionplus">
     <title lang="ms">Boss Baby: Back In The Crib (DreamWorks)</title>
     <desc lang="ms">Theodore Templeton is framed for embezzlement and forced to revert back to his old Boss Baby self and crash with his brother Tim and his two nieces, Tabitha and Tina.</desc>
     <icon src="https://www.visionplus.id/images/repository/518/842518-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119224000 +0800" stop="20261119230500 +0800" channel="67.visionplus">
-    <title lang="ms">Boss Baby: Back In The Crib</title>
-    <desc lang="ms">Theodore Templeton is framed for embezzlement and forced to revert back to his old Boss Baby self and crash with his brother Tim and his two nieces, Tabitha and Tina.</desc>
-    <icon src="https://www.visionplus.id/images/repository/981/680981-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119230500 +0800" stop="20261119233000 +0800" channel="67.visionplus">
-    <title lang="ms">Boss Baby: Back In The Crib</title>
-    <desc lang="ms">Theodore Templeton is framed for embezzlement and forced to revert back to his old Boss Baby self and crash with his brother Tim and his two nieces, Tabitha and Tina.</desc>
-    <icon src="https://www.visionplus.id/images/repository/981/680981-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119233000 +0800" stop="20261119235500 +0800" channel="67.visionplus">
-    <title lang="ms">Spirit Riding Free</title>
-    <desc lang="ms">The wild west adventures of a free-spirited girl and her wild stallion horse companion.</desc>
-    <icon src="https://www.visionplus.id/images/repository/826/805826-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261119235500 +0800" stop="20261120002000 +0800" channel="67.visionplus">
-    <title lang="ms">Spirit Riding Free</title>
-    <desc lang="ms">The wild west adventures of a free-spirited girl and her wild stallion horse companion.</desc>
-    <icon src="https://www.visionplus.id/images/repository/826/805826-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261120002000 +0800" stop="20261120004500 +0800" channel="67.visionplus">
-    <title lang="ms">Spirit Riding Free</title>
-    <desc lang="ms">The wild west adventures of a free-spirited girl and her wild stallion horse companion.</desc>
-    <icon src="https://www.visionplus.id/images/repository/826/805826-POSTER-l.jpg"/>
   </programme>
   <programme start="20261120004500 +0800" stop="20261120011000 +0800" channel="67.visionplus">
     <title lang="ms">All Hail King Julien: Exiled</title>
@@ -22123,14 +20773,6 @@
     <title lang="ms">All Hail King Julien: Exiled</title>
     <desc lang="ms">Julien's been dethroned and his kingdom is in trouble so now he has to fight Sage's brother Koto and free his subjects to get it back with help from his friends.</desc>
   </programme>
-  <programme start="20261120020000 +0800" stop="20261120022500 +0800" channel="67.visionplus">
-    <title lang="ms">Harvey Girls Forever!</title>
-    <desc lang="ms">Animated series targeted at 9 to 12-year-old girls, in which kids do whatever they want in their favorite place: the one and only Harvey Street.</desc>
-  </programme>
-  <programme start="20261120022500 +0800" stop="20261120025000 +0800" channel="67.visionplus">
-    <title lang="ms">Harvey Girls Forever!</title>
-    <desc lang="ms">Animated series targeted at 9 to 12-year-old girls, in which kids do whatever they want in their favorite place: the one and only Harvey Street.</desc>
-  </programme>
   <programme start="20261120025000 +0800" stop="20261120031500 +0800" channel="67.visionplus">
     <title lang="ms">Dinotrux Supercharged</title>
     <desc lang="ms">In this new season of dinotrux Ty and the others meet new friends as well as face new challenges both normal and supercharged.</desc>
@@ -22138,56 +20780,6 @@
   <programme start="20261120031500 +0800" stop="20261120034000 +0800" channel="67.visionplus">
     <title lang="ms">Dinotrux Supercharged</title>
     <desc lang="ms">In this new season of dinotrux Ty and the others meet new friends as well as face new challenges both normal and supercharged.</desc>
-  </programme>
-  <programme start="20261120034000 +0800" stop="20261120040500 +0800" channel="67.visionplus">
-    <title lang="ms">The Adv. Of Puss In Boots</title>
-    <desc lang="ms">Puss in Boots, a street-smart cat, accidentally destroys the magical wards in San Lorenzo. He must now protect the orphans living in the city from the villains.</desc>
-    <icon src="https://www.visionplus.id/images/repository/606/687606-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261120040500 +0800" stop="20261120043000 +0800" channel="67.visionplus">
-    <title lang="ms">The Adv. Of Puss In Boots</title>
-    <desc lang="ms">Puss in Boots, a street-smart cat, accidentally destroys the magical wards in San Lorenzo. He must now protect the orphans living in the city from the villains.</desc>
-    <icon src="https://www.visionplus.id/images/repository/606/687606-POSTER-l.jpg"/>
-  </programme>
-  <programme start="20261120043000 +0800" stop="20261120050000 +0800" channel="67.visionplus">
-    <title lang="ms">Go, Dog. Go!</title>
-    <desc lang="ms">Young pup Tag Barker and her adventures in Pawston, a colorful community of dogs on the go.</desc>
-  </programme>
-  <programme start="20261120050000 +0800" stop="20261120053000 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
-  </programme>
-  <programme start="20261120053000 +0800" stop="20261120060000 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
-  </programme>
-  <programme start="20261120060000 +0800" stop="20261120062500 +0800" channel="67.visionplus">
-    <title lang="ms">Team Zenko Go</title>
-    <desc lang="ms">No good deed is too small for this kind kid squad. Niah, Ari, Ellie and Jax go undercover to help others and squash their town's problems in secret.</desc>
-  </programme>
-  <programme start="20261120062500 +0800" stop="20261120065000 +0800" channel="67.visionplus">
-    <title lang="ms">Team Zenko Go</title>
-    <desc lang="ms">No good deed is too small for this kind kid squad. Niah, Ari, Ellie and Jax go undercover to help others and squash their town's problems in secret.</desc>
-  </programme>
-  <programme start="20261120065000 +0800" stop="20261120070200 +0800" channel="67.visionplus">
-    <title lang="ms">Olivia</title>
-    <desc lang="ms">Olivia is an imaginative, and creative pig. She does everything with her best friends, Julian and Francine. Olivia is always up for fun, if it's at school, at home, or at a friends house.</desc>
-  </programme>
-  <programme start="20261120070200 +0800" stop="20261120071400 +0800" channel="67.visionplus">
-    <title lang="ms">Olivia</title>
-    <desc lang="ms">Olivia is an imaginative, and creative pig. She does everything with her best friends, Julian and Francine. Olivia is always up for fun, if it's at school, at home, or at a friends house.</desc>
-  </programme>
-  <programme start="20261120071400 +0800" stop="20261120072600 +0800" channel="67.visionplus">
-    <title lang="ms">Olivia</title>
-    <desc lang="ms">Olivia is an imaginative, and creative pig. She does everything with her best friends, Julian and Francine. Olivia is always up for fun, if it's at school, at home, or at a friends house.</desc>
-  </programme>
-  <programme start="20261120072600 +0800" stop="20261120074000 +0800" channel="67.visionplus">
-    <title lang="ms">Olivia</title>
-    <desc lang="ms">Olivia is an imaginative, and creative pig. She does everything with her best friends, Julian and Francine. Olivia is always up for fun, if it's at school, at home, or at a friends house.</desc>
-  </programme>
-  <programme start="20261120074000 +0800" stop="20261120080500 +0800" channel="67.visionplus">
-    <title lang="ms">Casper's Scare School</title>
-    <desc lang="ms">Casper returns but he can't hang out with his human friend and the scare school assigns him to scare the humans, even his friend.</desc>
   </programme>
   <programme start="20261119080000 +0800" stop="20261119090000 +0800" channel="68.visionplus">
     <title lang="ms">FBI S9: Posterity</title>
@@ -22689,8 +21281,8 @@
     <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
   </programme>
   <programme start="20261119191500 +0800" stop="20261119194300 +0800" channel="76.visionplus">
-    <title lang="ms">NHK World Premium</title>
-    <desc lang="ms">NHK WORLD PREMIUM is a Japanese pay television channel for audiences overseas, offering a wide range of NHK's programming from up to date news to historical</desc>
+    <title lang="ms">Lyric Analysis Class Of...</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
   </programme>
   <programme start="20261119194300 +0800" stop="20261119194500 +0800" channel="76.visionplus">
     <title lang="ms">World Weather</title>
@@ -22785,11 +21377,15 @@
     <icon src="https://www.visionplus.id/images/repository/829/76829-POSTER-l.jpg"/>
   </programme>
   <programme start="20261120023000 +0800" stop="20261120024500 +0800" channel="76.visionplus">
-    <title lang="ms">Blossom</title>
+    <title lang="ms">Blossom, Ep 39</title>
     <desc lang="ms">After losing her mother at a young age, Dou Zhao became deeply disillusioned with love and family due to the upheavals and hardships she faced. To protect herself and her family estate, she contended with her stepmother and chose to live in a remote village, focusing on her studies to become self-reliant. One stormy night, Dou Zhao encountered Song Mo, disguised as a merchant, at the village. Using her wit, she helped him protect the orphaned descendant of Duke Dingguo, who had been honored for his achievements in quelling bandits. This incident intertwined their fates.</desc>
   </programme>
-  <programme start="20261120024500 +0800" stop="20261120035800 +0800" channel="76.visionplus">
+  <programme start="20261120024500 +0800" stop="20261120033000 +0800" channel="76.visionplus">
     <title lang="ms">The Instruction Manual Show</title>
+    <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
+  </programme>
+  <programme start="20261120033000 +0800" stop="20261120035800 +0800" channel="76.visionplus">
+    <title lang="ms">Lyric Analysis Class Of...</title>
     <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
   </programme>
   <programme start="20261120035800 +0800" stop="20261120040000 +0800" channel="76.visionplus">
@@ -22818,8 +21414,8 @@
     <icon src="https://www.visionplus.id/images/repository/978/77978-POSTER-l.jpg"/>
   </programme>
   <programme start="20261120070000 +0800" stop="20261120071500 +0800" channel="76.visionplus">
-    <title lang="ms">Blossom</title>
-    <desc lang="ms">After losing her mother at a young age, Dou Zhao became deeply disillusioned with love and family due to the upheavals and hardships she faced. To protect herself and her family estate, she contended with her stepmother and chose to live in a remote village, focusing on her studies to become self-reliant. One stormy night, Dou Zhao encountered Song Mo, disguised as a merchant, at the village. Using her wit, she helped him protect the orphaned descendant of Duke Dingguo, who had been honored for his achievements in quelling bandits. This incident intertwined their fates.</desc>
+    <title lang="ms">Blossom, Ep 40</title>
+    <desc lang="ms">Mineko Yatabe, a simple girl from a farming family, travels to Tokyo for employment before the 1964 Tokyo Olympics and tries to carve a niche for herself in the big city.</desc>
   </programme>
   <programme start="20261120071500 +0800" stop="20261120085400 +0800" channel="76.visionplus">
     <title lang="ms">Asaichi</title>
@@ -23368,8 +21964,7 @@
     <icon src="https://www.visionplus.id/images/repository/473/526473-POSTER-l.jpg"/>
   </programme>
   <programme start="20261119150000 +0800" stop="20261119160000 +0800" channel="89.visionplus">
-    <title lang="ms">RT Kampung Ambyar</title>
-    <desc lang="ms">RT Kampung Ambyar tells about Aryo. the bread seller is handsome, innocent, and kind. Aryo is dating a rich woman named Dinda . They planned for an engagement, but were rejected by Dinda's family. The head of the RT who was the representative of the Aryo family suffered a heart attack and Aryo was appointed by the residents as the head of the RT in his settlement.</desc>
+    <title lang="ms">Curhatan Orang Dalam</title>
     <icon src="https://www.visionplus.id/images/repository/473/526473-POSTER-l.jpg"/>
   </programme>
   <programme start="20261119160000 +0800" stop="20261119170000 +0800" channel="89.visionplus">
